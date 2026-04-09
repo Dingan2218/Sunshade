@@ -1,49 +1,251 @@
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #000000;
+  --surface: #0a0a0a;
+  --border: #1f1f1f;
+  --border-active: #333333;
+  --text-main: #ffffff;
+  --text-muted: #888888;
+  --accent-red: #ff3b30;
+  
+  --primary-normal: #007AFF;
+  --surface-normal: #ffffff;
+  --text-normal: #1c1c1e;
+  
+  --font-ndots: var(--font-doto), sans-serif;
+  --font-tech: var(--font-mono), monospace;
+  --font-standard: var(--font-inter), sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
-html {
-  height: 100%;
-}
-
-html,
-body {
-  max-width: 100vw;
-  overflow-x: hidden;
-}
-
-body {
-  min-height: 100%;
-  display: flex;
-  flex-direction: column;
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+body.normal-mode {
+  background-color: #f2f2f7;
+  background-image: none;
+  color: var(--text-normal);
 }
 
 * {
   box-sizing: border-box;
-  padding: 0;
   margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+body {
+  font-family: var(--font-standard);
+  background-color: var(--background);
+  background-image: radial-gradient(#111 0.5px, transparent 0.5px);
+  background-size: 20px 20px;
+  color: var(--text-main);
+  overflow: hidden;
+  height: 100vh;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
+/* Nothing Typography */
+.ndots {
+  font-family: var(--font-ndots);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
 }
+
+.tech-text {
+  font-family: var(--font-tech);
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+/* Nothing Modular Cards */
+.n-panel {
+  background: rgba(10, 10, 10, 0.7);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid var(--border);
+  border-radius: 24px;
+}
+
+.n-glass-sidebar {
+  background: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(40px);
+  -webkit-backdrop-filter: blur(40px);
+  border-right: 1px solid var(--border);
+}
+
+/* Nothing Interactive Elements */
+.n-input-group {
+  position: relative;
+  margin-bottom: 24px;
+}
+
+.n-input {
+  width: 100%;
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 14px 16px;
+  color: #fff;
+  font-size: 15px;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  font-family: var(--font-standard);
+}
+
+.n-input:focus {
+  border-color: var(--text-main);
+  outline: none;
+  box-shadow: 0 0 0 1px rgba(255,255,255,0.1);
+}
+
+.n-label {
+  display: block;
+  font-family: var(--font-ndots);
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-bottom: 8px;
+  margin-left: 4px;
+}
+
+/* Technical Button */
+.n-button {
+  background: #fff;
+  color: #000;
+  border: none;
+  border-radius: 200px;
+  padding: 16px 32px;
+  font-weight: 600;
+  font-size: 15px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  cursor: pointer;
+  transition: transform 0.2s, background 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  font-family: var(--font-standard);
+}
+
+.n-button:hover {
+  background: #e0e0e0;
+  transform: translateY(-1px);
+}
+
+.n-button:active {
+  transform: translateY(0);
+}
+
+.n-button-secondary {
+  background: transparent;
+  color: #fff;
+  border: 1px solid var(--border);
+}
+
+.n-button-secondary:hover {
+  background: var(--border);
+  border-color: var(--border-active);
+}
+
+/* Red Accent for "Nothing" feel */
+.n-status-live {
+  width: 6px;
+  height: 6px;
+  background-color: var(--accent-red);
+  border-radius: 50%;
+  display: inline-block;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #222; border-radius: 10px; }
+::-webkit-scrollbar-thumb:hover { background: #333; }
+
+/* Custom Switch for Nothing OS style */
+.n-switch {
+  position: relative;
+  display: inline-block;
+  width: 44px;
+  height: 24px;
+}
+
+.n-switch input { opacity: 0; width: 0; height: 0; }
+
+.n-slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-color: #222;
+  transition: .3s cubic-bezier(0.4, 0, 0.2, 1);
+  border-radius: 34px;
+}
+
+.n-slider:before {
+  position: absolute;
+  content: "";
+  height: 18px;
+  width: 18px;
+  left: 3px;
+  bottom: 3px;
+  background-color: #555;
+  transition: .3s cubic-bezier(0.4, 0, 0.2, 1);
+  border-radius: 50%;
+}
+
+input:checked + .n-slider { background-color: #fff; }
+input:checked + .n-slider:before { transform: translateX(20px); background-color: #000; }
+
+/* Diagnostic UI Elements */
+.diag-line { height: 1px; background: var(--border); width: 100%; margin: 24px 0; }
+.diag-box { border: 1px solid var(--border); padding: 12px; border-radius: 4px; }
+
+/* NORMAL MODE STYLES */
+.normal-input {
+  width: 100%;
+  background: #f2f2f7;
+  border: 1px solid transparent;
+  border-radius: 12px;
+  padding: 14px 16px;
+  color: #000;
+  font-size: 15px;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.05);
+}
+
+.normal-input:focus {
+  background: #ffffff;
+  border-color: var(--primary-normal);
+  box-shadow: 0 0 0 4px rgba(0, 122, 255, 0.15);
+  outline: none;
+}
+
+.normal-button {
+  background: var(--primary-normal);
+  color: white;
+  border: none;
+  border-radius: 16px;
+  padding: 18px;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.2s;
+  box-shadow: 0 4px 12px rgba(0, 122, 255, 0.3);
+  width: 100%;
+}
+
+.normal-button:hover {
+  background: #0062cc;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 16px rgba(0, 122, 255, 0.4);
+}
+
+.normal-button:active {
+  transform: translateY(0);
+}
+
+.normal-label {
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+  color: #666;
+  margin-bottom: 8px;
+  margin-left: 4px;
+}
+
