@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Inter, Doto, IBM_Plex_Mono } from "next/font/google";
 import "./globals.css";
 
@@ -19,9 +19,17 @@ const plexMono = IBM_Plex_Mono({
   weight: ["400", "500", "600"],
 });
 
+export const viewport: Viewport = {
+  themeColor: "#000000",
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 1,
+};
+
 export const metadata: Metadata = {
   title: "ShadeSeat – Smart Bus Seat Finder",
   description: "Calculate which side of the bus will have shade based on route and sun position.",
+  manifest: "/manifest.json",
 };
 
 export default function RootLayout({
@@ -31,8 +39,22 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${inter.variable} ${doto.variable} ${plexMono.variable}`}>
+      <head>
+        <link rel="apple-touch-icon" href="/icon.png" />
+      </head>
       <body>
         {children}
+        <script
+          dangerouslySetInnerHTML={{
+             __html: `
+              if ('serviceWorker' in navigator) {
+                window.addEventListener('load', function() {
+                  navigator.serviceWorker.register('/sw.js');
+                });
+              }
+            `,
+          }}
+        />
       </body>
     </html>
   );

@@ -73,30 +73,8 @@ export default function Home() {
       </button>
 
       {/* Sidebar / Form Container */}
-      <div 
-        className={isTech ? "n-glass-sidebar" : ""} 
-        style={{
-          position: 'absolute',
-          top: 0,
-          left: 0,
-          height: '100%',
-          width: isTech ? '420px' : '100%',
-          zIndex: 10,
-          padding: isTech ? '60px 40px' : '40px',
-          display: 'flex',
-          justifyContent: isTech ? 'flex-start' : 'center',
-          alignItems: isTech ? 'flex-start' : 'center',
-          overflowY: 'auto'
-        }}
-      >
-        <div style={{ 
-          width: '100%',
-          maxWidth: isTech ? '420px' : '500px',
-          padding: isTech ? '0' : '48px',
-          background: isTech ? 'transparent' : 'white',
-          borderRadius: isTech ? '0' : '32px',
-          boxShadow: isTech ? 'none' : '0 25px 50px -12px rgba(0,0,0,0.1)'
-        }}>
+      <div className={`sidebar-main ${isTech ? 'n-glass-sidebar tech' : 'normal'}`}>
+        <div className={`form-wrapper ${isTech ? 'tech' : 'normal'}`}>
           <div style={{ marginBottom: isTech ? '48px' : '40px', textAlign: isTech ? 'left' : 'center' }}>
             <div className={isTech ? "ndots" : ""} style={{ 
               fontSize: isTech ? '32px' : '40px', 

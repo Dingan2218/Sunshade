@@ -67,22 +67,10 @@ function ResultsContent() {
   }
 
   return (
-    <main style={{ height: '100vh', width: '100vw', position: 'relative', overflow: 'hidden', display: 'flex', flexDirection: isTech ? 'row' : 'column' }}>
+    <main className={`results-main ${isTech ? 'tech' : 'normal'}`}>
       
       {/* Dynamic Results Sidebar */}
-      <div className={isTech ? "n-glass-sidebar" : ""} style={{
-        width: isTech ? '420px' : '100%',
-        height: isTech ? '100%' : 'auto',
-        zIndex: 20,
-        padding: isTech ? '60px 40px' : '20px',
-        display: 'flex',
-        flexDirection: isTech ? 'column' : 'row',
-        alignItems: isTech ? 'stretch' : 'center',
-        background: isTech ? 'rgba(0,0,0,0.4)' : 'white',
-        boxShadow: isTech ? 'none' : '0 10px 30px rgba(0,0,0,0.1)',
-        borderBottom: !isTech ? '1px solid #eee' : 'none',
-        overflowY: isTech ? 'auto' : 'visible'
-      }}>
+      <div className={`results-sidebar ${isTech ? 'tech' : 'normal'}`}>
         
         <button 
           onClick={() => router.push('/')}
