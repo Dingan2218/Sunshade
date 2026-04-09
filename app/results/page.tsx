@@ -2,7 +2,7 @@
 
 import React, { useEffect, useState, Suspense } from 'react';
 import { useSearchParams, useRouter } from 'next/navigation';
-import { ChevronLeft, Sun, Shield, Info, Map as MapIcon, Compass, CloudRain, ArrowDownLeft, Activity, Thermometer, Wind } from 'lucide-react';
+import { ChevronLeft, Sun, Shield, Info, Map as MapIcon, Compass, CloudRain, ArrowDownLeft, Activity, Thermometer, Wind, Clock } from 'lucide-react';
 import dynamic from 'next/dynamic';
 import { useRouteData } from '@/hooks/useRouteData';
 import { useSunPosition, Recommendation } from '@/hooks/useSunPosition';
@@ -20,6 +20,9 @@ function ResultsContent() {
   const uiMode = searchParams.get('mode') || 'tech';
   const isTech = uiMode === 'tech';
   
+  const timeStrParam = searchParams.get('time');
+  const formattedTime = timeStrParam ? new Date(timeStrParam).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }) : '';
+
   const { fetchRoute, loading: routeLoading, error: routeError } = useRouteData();
   const { getRecommendation } = useSunPosition();
   const { fetchWeather } = useWeather();
@@ -166,22 +169,36 @@ function ResultsContent() {
               )}
 
               {/* Weather & Info (Normal Only Inline) */}
-              {!isTech && weather && (
-                <div style={{ display: 'flex', gap: '20px', alignItems: 'center' }}>
-                  <div style={{ display: 'flex', alignItems: 'center', gap: '8px', background: '#f2f2f7', padding: '8px 16px', borderRadius: '100px' }}>
-                    <Thermometer size={16} color="#FF9500" />
-                    <span style={{ fontWeight: 600 }}>{Math.round(weather.temperature)}°C</span>
-                  </div>
-                  <div style={{ display: 'flex', alignItems: 'center', gap: '8px', background: '#f2f2f7', padding: '8px 16px', borderRadius: '100px' }}>
-                    <CloudRain size={16} color="#007AFF" />
-                    <span style={{ fontWeight: 600 }}>{weather.precipitationProbability}%</span>
-                  </div>
+              {!isTech && (
+                <div style={{ display: 'flex', gap: '20px', alignItems: 'center', flexWrap: 'wrap' }}>
+                  {formattedTime && (
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '8px', background: '#f2f2f7', padding: '8px 16px', borderRadius: '100px' }}>
+                      <Clock size={16} color="#666" />
+                      <span style={{ fontWeight: 600 }}>{formattedTime}</span>
+                    </div>
+                  )}
+                  {weather && (
+                    <>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '8px', background: '#f2f2f7', padding: '8px 16px', borderRadius: '100px' }}>
+                        <Thermometer size={16} color="#FF9500" />
+                        <span style={{ fontWeight: 600 }}>{Math.round(weather.temperature)}°C</span>
+                      </div>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '8px', background: '#f2f2f7', padding: '8px 16px', borderRadius: '100px' }}>
+                        <CloudRain size={16} color="#007AFF" />
+                        <span style={{ fontWeight: 600 }}>{weather.precipitationProbability}%</span>
+                      </div>
+                    </>
+                  )}
                 </div>
               )}
 
               {/* Tech Stats Grid */}
               {isTech && (
-                <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '1px', background: '#111', border: '1px solid #111' }}>
+                <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '1px', background: '#111', border: '1px solid #111' }}>
+                  <div style={{ padding: '16px', background: '#000' }}>
+                    <div className="tech-text">Time</div>
+                    <div className="tech-text" style={{ color: '#fff', marginTop: '4px' }}>{formattedTime || 'N/A'}</div>
+                  </div>
                   <div style={{ padding: '16px', background: '#000' }}>
                     <div className="tech-text">Heading</div>
                     <div className="tech-text" style={{ color: '#fff', marginTop: '4px' }}>{Math.round(recommendation.routeBearing)}°</div>

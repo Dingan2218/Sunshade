@@ -24,7 +24,8 @@ export const useSunPosition = () => {
     const sunPos = SunCalc.getPosition(time, midPoint.latitude, midPoint.longitude);
     const sunAzimuth = normalizeSunAzimuth(sunPos.azimuth);
 
-    const side = getSunSide(sunAzimuth, avgBearing);
+    const sunSide = getSunSide(sunAzimuth, avgBearing);
+    const side = sunSide === 'left' ? 'right' : 'left';
 
     // Confidence can be based on how far the sun is from the direct front/back
     let diff = Math.abs(sunAzimuth - avgBearing);
