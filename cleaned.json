@@ -1,0 +1,4882 @@
+[
+  {
+    "from": "Kochi",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Nilambur\nSuper Fast\n 1 hours 50 minutes  Thrissur @ 01:55 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Nilambur\nSuper Fast\n 1 hours 50 minutes  Thrissur @ 01:55 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Nilambur\nSuper Fast\n 1 hours 50 minutes  Thrissur @ 01:55 am"
+  },
+  {
+    "from": "Kochi",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Mysore\nAc Multi Axle\n 1 hours 36 minutes  Thrissur @ 01:55 am\n12:19 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Mysore\nAc Multi Axle\n 1 hours 36 minutes  Thrissur @ 01:55 am\n12:19 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Mysore\nAc Multi Axle\n 1 hours 36 minutes  Thrissur @ 01:55 am"
+  },
+  {
+    "from": "Kochi",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Thalassery\nSuper Deluxe Air Bus\n 2 hours  Thrissur @ 02:25 am\n12:25 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Thalassery\nSuper Deluxe Air Bus\n 2 hours  Thrissur @ 02:25 am\n12:25 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Thalassery\nSuper Deluxe Air Bus\n 2 hours  Thrissur @ 02:25 am"
+  },
+  {
+    "from": "Kochi",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Ponnani\nSuper Fast\n12:25 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Mananthavady\n This bus goes from Ernakulam to Kozhikode\nSuper Deluxe Air Bus\n 3 hours 55 minutes  Kozhikode @ 04:10 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Mananthavady\n This bus goes from Ernakulam to Kozhikode\nSuper Deluxe Air Bus\n 3 hours 55 minutes  Kozhikode @ 04:10 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Mananthavady\n This bus goes from Ernakulam to Kozhikode\nSuper Deluxe Air Bus\n 3 hours 55 minutes  Kozhikode @ 04:10 am"
+  },
+  {
+    "from": "Kochi",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Mysore\n This bus goes from Ernakulam to Kozhikode\nAc Multi Axle\n 4 hours 1 minutes  Kozhikode @ 04:20 am\n12:19 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Mysore\n This bus goes from Ernakulam to Kozhikode\nAc Multi Axle\n 4 hours 1 minutes  Kozhikode @ 04:20 am\n12:19 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Mysore\n This bus goes from Ernakulam to Kozhikode\nAc Multi Axle\n 4 hours 1 minutes  Kozhikode @ 04:20 am"
+  },
+  {
+    "from": "Kochi",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Thalassery\n This bus goes from Ernakulam to Kozhikode\nSuper Deluxe Air Bus\n 4 hours 40 minutes  Kozhikode @ 05:05 am\n12:25 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Thalassery\n This bus goes from Ernakulam to Kozhikode\nSuper Deluxe Air Bus\n 4 hours 40 minutes  Kozhikode @ 05:05 am\n12:25 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Thalassery\n This bus goes from Ernakulam to Kozhikode\nSuper Deluxe Air Bus\n 4 hours 40 minutes  Kozhikode @ 05:05 am"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kannur",
+    "raw": "KSRTC\nTrivandrum  Kannur\nMinnal Deluxe\n 5 hours 30 minutes  Kannur @ 06:15 am\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kannur",
+    "raw": "KSRTC\nTrivandrum  Kannur\nMinnal Deluxe\n 5 hours 30 minutes  Kannur @ 06:15 am\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kannur",
+    "raw": "KSRTC\nTrivandrum  Kannur\nMinnal Deluxe\n 5 hours 30 minutes  Kannur @ 06:15 am"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kannur",
+    "raw": "KSRTC\nErnakulam  Kannur\nFast Passenger\n 8 hours 30 minutes  Kannur @ 08:10 pm\n11:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kannur",
+    "raw": "KSRTC\nErnakulam  Kannur\nFast Passenger\n 8 hours 30 minutes  Kannur @ 08:10 pm\n11:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kannur",
+    "raw": "KSRTC\nErnakulam  Kannur\nFast Passenger\n 8 hours 30 minutes  Kannur @ 08:10 pm"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kannur",
+    "raw": "KSRTC\nErnakulam  Kannur\nFast Passenger\n11:41 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kannur",
+    "raw": "KSRTC\nErnakulam  Kannur\nFast Passenger\n11:41 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kannur",
+    "raw": "KSRTC\nErnakulam  Kannur\nFast Passenger"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kannur",
+    "raw": "KSRTC\nTrivandrum  Kannur\nPremium Superfast\n 7 hours 26 minutes  Kannur @ 09:00 pm\n01:34 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Coimbatore\nPremium Superfast\n 3 hours 20 minutes  Palakkad @ 03:50 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Coimbatore\nPremium Superfast\n 3 hours 20 minutes  Palakkad @ 03:50 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Coimbatore\nPremium Superfast\n 3 hours 20 minutes  Palakkad @ 03:50 am"
+  },
+  {
+    "from": "Kochi",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKanyakumari  Palakkad\n This bus goes from Vytilla Hub to Palakkad\nMinnal Deluxe\n 2 hours 51 minutes  Palakkad @ 05:15 am\n02:24 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKanyakumari  Palakkad\n This bus goes from Vytilla Hub to Palakkad\nMinnal Deluxe\n 2 hours 51 minutes  Palakkad @ 05:15 am\n02:24 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKanyakumari  Palakkad\n This bus goes from Vytilla Hub to Palakkad\nMinnal Deluxe\n 2 hours 51 minutes  Palakkad @ 05:15 am"
+  },
+  {
+    "from": "Kochi",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nPremium Superfast\n 3 hours 25 minutes  Palakkad @ 06:00 am\n02:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nPremium Superfast\n 3 hours 25 minutes  Palakkad @ 06:00 am\n02:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nPremium Superfast\n 3 hours 25 minutes  Palakkad @ 06:00 am"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kottayam",
+    "raw": "KSRTC\nOttapalam  Trivandrum\nPremium Superfast\n 2 hours 21 minutes  Kottayam @ 02:35 am\n12:14 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kottayam",
+    "raw": "KSRTC\nOttapalam  Trivandrum\nPremium Superfast\n 2 hours 21 minutes  Kottayam @ 02:35 am\n12:14 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kottayam",
+    "raw": "KSRTC\nOttapalam  Trivandrum\nPremium Superfast\n 2 hours 21 minutes  Kottayam @ 02:35 am"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kottayam",
+    "raw": "KSRTC\nErnakulam  Thiruvananthapuram\nFast Passenger\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kottayam",
+    "raw": "KSRTC\nErnakulam  Thiruvananthapuram\nFast Passenger\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kottayam",
+    "raw": "KSRTC\nErnakulam  Thiruvananthapuram\nFast Passenger"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kottayam",
+    "raw": "KSRTC\nMananthavady  Pathanamthitta\nSuper Deluxe Air Bus\n 1 hours 50 minutes  Kottayam @ 04:10 am\n02:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kottayam",
+    "raw": "KSRTC\nMananthavady  Pathanamthitta\nSuper Deluxe Air Bus\n 1 hours 50 minutes  Kottayam @ 04:10 am\n02:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kottayam",
+    "raw": "KSRTC\nMananthavady  Pathanamthitta\nSuper Deluxe Air Bus\n 1 hours 50 minutes  Kottayam @ 04:10 am"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kottayam",
+    "raw": "KSRTC\nKannur  Pathanapuram\nSuper Fast\n 1 hours 46 minutes  Kottayam @ 04:35 am\n02:49 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPalakkad  Trivandrum\nSuper Fast\n12:01 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPalakkad  Trivandrum\nSuper Fast\n12:01 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPalakkad  Trivandrum\nSuper Fast"
+  },
+  {
+    "from": "Kochi",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPayyanur  Trivandrum\n This bus goes from Vytilla Hub to Alappuzha\nSuper Deluxe Air Bus\n12:14 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPayyanur  Trivandrum\n This bus goes from Vytilla Hub to Alappuzha\nSuper Deluxe Air Bus\n12:14 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPayyanur  Trivandrum\n This bus goes from Vytilla Hub to Alappuzha\nSuper Deluxe Air Bus"
+  },
+  {
+    "from": "Kochi",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKannur  Trivandrum\n This bus goes from Vytilla Hub to Alappuzha\nSuper Deluxe Air Bus\n 1 hours 16 minutes  Alappuzha @ 01:40 am\n12:24 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKannur  Trivandrum\n This bus goes from Vytilla Hub to Alappuzha\nSuper Deluxe Air Bus\n 1 hours 16 minutes  Alappuzha @ 01:40 am\n12:24 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKannur  Trivandrum\n This bus goes from Vytilla Hub to Alappuzha\nSuper Deluxe Air Bus\n 1 hours 16 minutes  Alappuzha @ 01:40 am"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nErnakulam  Mangalore\n This bus goes from Ernakulam to Kasargode\nSuper Deluxe Air Bus\n 9 hours 15 minutes  Kasargode @ 03:51 am\n06:36 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nErnakulam  Mangalore\n This bus goes from Ernakulam to Kasargode\nSuper Deluxe Air Bus\n 9 hours 15 minutes  Kasargode @ 03:51 am\n06:36 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nErnakulam  Mangalore\n This bus goes from Ernakulam to Kasargode\nSuper Deluxe Air Bus\n 9 hours 15 minutes  Kasargode @ 03:51 am"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nTrivandrum  Kollur\n This bus goes from Ernakulam to Kasargode\nAc Seater Volvo Multi Axle\n 8 hours 46 minutes  Kasargode @ 03:55 am\n07:09 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nTrivandrum  Kollur\n This bus goes from Ernakulam to Kasargode\nAc Seater Volvo Multi Axle\n 8 hours 46 minutes  Kasargode @ 03:55 am\n07:09 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nTrivandrum  Kollur\n This bus goes from Ernakulam to Kasargode\nAc Seater Volvo Multi Axle\n 8 hours 46 minutes  Kasargode @ 03:55 am"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nAlappuzha  Kollur\n This bus goes from Ernakulam to Kasargode\nSuper Deluxe Air Bus\n 9 hours 31 minutes  Kasargode @ 04:45 am\n07:14 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nAlappuzha  Kollur\n This bus goes from Ernakulam to Kasargode\nSuper Deluxe Air Bus\n 9 hours 31 minutes  Kasargode @ 04:45 am\n07:14 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nAlappuzha  Kollur\n This bus goes from Ernakulam to Kasargode\nSuper Deluxe Air Bus\n 9 hours 31 minutes  Kasargode @ 04:45 am"
+  },
+  {
+    "from": "Kochi",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 4 hours 20 minutes  Malappuram @ 06:00 am\n01:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 4 hours 20 minutes  Malappuram @ 06:00 am\n01:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 4 hours 20 minutes  Malappuram @ 06:00 am"
+  },
+  {
+    "from": "Kochi",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 4 hours 56 minutes  Malappuram @ 04:35 pm\n11:39 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 4 hours 56 minutes  Malappuram @ 04:35 pm\n11:39 am\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 4 hours 56 minutes  Malappuram @ 04:35 pm"
+  },
+  {
+    "from": "Kochi",
+    "to": "Malappuram",
+    "raw": "KSRTC.\nErnakulam  Malappuram\nSuper Fast\n01:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Malappuram",
+    "raw": "KSRTC.\nErnakulam  Malappuram\nSuper Fast\n01:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Malappuram",
+    "raw": "KSRTC.\nErnakulam  Malappuram\nSuper Fast"
+  },
+  {
+    "from": "Kochi",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 4 hours 36 minutes  Malappuram @ 07:20 pm\n02:44 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 4 hours 36 minutes  Malappuram @ 07:20 pm\n02:44 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kochi",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 4 hours 36 minutes  Malappuram @ 07:20 pm"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kochi",
+    "raw": "KSRTC\nKannur  Trivandrum\nAc Multi Axle\n12:01 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kochi",
+    "raw": "KSRTC\nKannur  Trivandrum\nAc Multi Axle\n12:01 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kochi",
+    "raw": "KSRTC\nKannur  Trivandrum\nAc Multi Axle"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kochi",
+    "raw": "KSRTC\nKannur  Trivandrum\nSuper Deluxe Air Bus\n 1 hours 40 minutes  Ernakulam @ 01:45 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kochi",
+    "raw": "KSRTC\nKannur  Trivandrum\nSuper Deluxe Air Bus\n 1 hours 40 minutes  Ernakulam @ 01:45 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kochi",
+    "raw": "KSRTC\nKannur  Trivandrum\nSuper Deluxe Air Bus\n 1 hours 40 minutes  Ernakulam @ 01:45 am"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kochi",
+    "raw": "KSRTC\nKozhikode  Trivandrum\n This bus goes from Thrissur to Vytilla Hub\nLow Floor Ac\n12:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kochi",
+    "raw": "KSRTC\nKozhikode  Trivandrum\n This bus goes from Thrissur to Vytilla Hub\nLow Floor Ac\n12:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kochi",
+    "raw": "KSRTC\nKozhikode  Trivandrum\n This bus goes from Thrissur to Vytilla Hub\nLow Floor Ac"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Kozhikode\n This bus goes from Thrissur to Kozhikode\nLow Floor Ac\n12:06 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Kozhikode\n This bus goes from Thrissur to Kozhikode\nLow Floor Ac\n12:06 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Kozhikode\n This bus goes from Thrissur to Kozhikode\nLow Floor Ac"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Calicut",
+    "raw": "KSRTC\nErattupetta  Thottilpalam\nLimited Stop Fast Passenger\n12:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Calicut",
+    "raw": "KSRTC\nErattupetta  Thottilpalam\nLimited Stop Fast Passenger\n12:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Calicut",
+    "raw": "KSRTC\nErattupetta  Thottilpalam\nLimited Stop Fast Passenger"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKannur  Trivandrum\nAc Multi Axle\n12:01 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKannur  Trivandrum\nAc Multi Axle\n12:01 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKannur  Trivandrum\nAc Multi Axle"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKannur  Trivandrum\nSuper Deluxe Air Bus\n 6 hours  Trivandrum @ 06:05 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKannur  Trivandrum\nSuper Deluxe Air Bus\n 6 hours  Trivandrum @ 06:05 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKannur  Trivandrum\nSuper Deluxe Air Bus\n 6 hours  Trivandrum @ 06:05 am"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nSultan Bathery  Trivandrum\nMinnal Deluxe\n 5 hours 25 minutes  Trivandrum @ 05:35 am\n12:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nSultan Bathery  Trivandrum\nMinnal Deluxe\n 5 hours 25 minutes  Trivandrum @ 05:35 am\n12:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nSultan Bathery  Trivandrum\nMinnal Deluxe\n 5 hours 25 minutes  Trivandrum @ 05:35 am"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKozhikode  Trivandrum\nLow Floor Ac\n12:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kannur",
+    "raw": "KSRTC\nPunalur  Kannur\nSuper Fast\n 5 hours 20 minutes  Kannur @ 05:40 am\n12:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kannur",
+    "raw": "KSRTC\nPunalur  Kannur\nSuper Fast\n 5 hours 20 minutes  Kannur @ 05:40 am\n12:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kannur",
+    "raw": "KSRTC\nPunalur  Kannur\nSuper Fast\n 5 hours 20 minutes  Kannur @ 05:40 am"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Palakkad",
+    "raw": "KSRTC\nPala  Coimbatore\nFast Passenger\n 1 hours 55 minutes  Palakkad @ 02:25 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Palakkad",
+    "raw": "KSRTC\nPala  Coimbatore\nFast Passenger\n 1 hours 55 minutes  Palakkad @ 02:25 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Palakkad",
+    "raw": "KSRTC\nPala  Coimbatore\nFast Passenger\n 1 hours 55 minutes  Palakkad @ 02:25 am"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Palakkad",
+    "raw": "KSRTC\nVizhinjam  Palakkad\nSuper Fast\n12:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Palakkad",
+    "raw": "KSRTC\nVizhinjam  Palakkad\nSuper Fast\n12:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Palakkad",
+    "raw": "KSRTC\nVizhinjam  Palakkad\nSuper Fast"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKottarakkara  Mannarkad\nLimited Stop Fast Passenger\n12:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKottarakkara  Mannarkad\nLimited Stop Fast Passenger\n12:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKottarakkara  Mannarkad\nLimited Stop Fast Passenger"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Coimbatore\nPremium Superfast\n 1 hours 35 minutes  Palakkad @ 02:15 am\n12:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kottayam",
+    "raw": "KSRTC\nCoimbatore  Pathanamthitta\nPremium Superfast\n 3 hours 5 minutes  Kottayam @ 03:10 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kottayam",
+    "raw": "KSRTC\nCoimbatore  Pathanamthitta\nPremium Superfast\n 3 hours 5 minutes  Kottayam @ 03:10 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kottayam",
+    "raw": "KSRTC\nCoimbatore  Pathanamthitta\nPremium Superfast\n 3 hours 5 minutes  Kottayam @ 03:10 am"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kottayam",
+    "raw": "KSRTC\nSultan Bathery  Trivandrum\nMinnal Deluxe\n 2 hours 35 minutes  Kottayam @ 02:45 am\n12:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kottayam",
+    "raw": "KSRTC\nSultan Bathery  Trivandrum\nMinnal Deluxe\n 2 hours 35 minutes  Kottayam @ 02:45 am\n12:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kottayam",
+    "raw": "KSRTC\nSultan Bathery  Trivandrum\nMinnal Deluxe\n 2 hours 35 minutes  Kottayam @ 02:45 am"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kottayam",
+    "raw": "KSRTC\nBangalore  Trivandrum\nHybrid Non-ac Seater Cum Sleeper\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kottayam",
+    "raw": "KSRTC\nBangalore  Trivandrum\nHybrid Non-ac Seater Cum Sleeper\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kottayam",
+    "raw": "KSRTC\nBangalore  Trivandrum\nHybrid Non-ac Seater Cum Sleeper"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kottayam",
+    "raw": "KSRTC\nThiruvambady  Kottayam\nLimited Stop Fast Passenger\n12:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKannur  Trivandrum\nAc Multi Axle\n12:01 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKannur  Trivandrum\nAc Multi Axle\n12:01 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKannur  Trivandrum\nAc Multi Axle"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKannur  Trivandrum\nSuper Deluxe Air Bus\n 2 hours 55 minutes  Alappuzha @ 03:00 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKannur  Trivandrum\nSuper Deluxe Air Bus\n 2 hours 55 minutes  Alappuzha @ 03:00 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKannur  Trivandrum\nSuper Deluxe Air Bus\n 2 hours 55 minutes  Alappuzha @ 03:00 am"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKozhikode  Trivandrum\nLow Floor Ac\n12:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKozhikode  Trivandrum\nLow Floor Ac\n12:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKozhikode  Trivandrum\nLow Floor Ac"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nVazhikkadavu  Trivandrum\nSuper Fast\n 3 hours 30 minutes  Alappuzha @ 03:45 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKannur  Trivandrum\nAc Multi Axle\n12:01 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKannur  Trivandrum\nAc Multi Axle\n12:01 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKannur  Trivandrum\nAc Multi Axle"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKannur  Trivandrum\nSuper Deluxe Air Bus\n 1 hours 40 minutes  Ernakulam @ 01:45 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKannur  Trivandrum\nSuper Deluxe Air Bus\n 1 hours 40 minutes  Ernakulam @ 01:45 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKannur  Trivandrum\nSuper Deluxe Air Bus\n 1 hours 40 minutes  Ernakulam @ 01:45 am"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKozhikode  Trivandrum\n This bus goes from Thrissur to Vytilla Hub\nLow Floor Ac\n12:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKozhikode  Trivandrum\n This bus goes from Thrissur to Vytilla Hub\nLow Floor Ac\n12:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKozhikode  Trivandrum\n This bus goes from Thrissur to Vytilla Hub\nLow Floor Ac"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nThrissur  Kasaragod\nLimited Stop Fast Passenger\n02:10 pm\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nThrissur  Kasaragod\nLimited Stop Fast Passenger\n02:10 pm\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nThrissur  Kasaragod\nLimited Stop Fast Passenger"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nThrissur  Kasargode\n This bus goes from Thrissur to Kasargode\nFast Passenger\n 9 hours 35 minutes  Kasargode @ 01:20 am\n03:45 pm\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nThrissur  Kasargode\n This bus goes from Thrissur to Kasargode\nFast Passenger\n 9 hours 35 minutes  Kasargode @ 01:20 am\n03:45 pm\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nThrissur  Kasargode\n This bus goes from Thrissur to Kasargode\nFast Passenger\n 9 hours 35 minutes  Kasargode @ 01:20 am"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kasaragod",
+    "raw": "KSRTC.\nKottayam  Kasaragod\nSuper Fast\n06:50 pm\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kasaragod",
+    "raw": "KSRTC.\nKottayam  Kasaragod\nSuper Fast\n06:50 pm\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kasaragod",
+    "raw": "KSRTC.\nKottayam  Kasaragod\nSuper Fast"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 2 hours 30 minutes  Malappuram @ 06:00 am\n03:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 2 hours 30 minutes  Malappuram @ 06:00 am\n03:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 2 hours 30 minutes  Malappuram @ 06:00 am"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Malappuram",
+    "raw": "KSRTC.\nErnakulam  Malappuram\nSuper Fast\n11:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Malappuram",
+    "raw": "KSRTC.\nErnakulam  Malappuram\nSuper Fast\n11:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Malappuram",
+    "raw": "KSRTC.\nErnakulam  Malappuram\nSuper Fast"
+  },
+  {
+    "from": "Thrissur",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 2 hours 25 minutes  Malappuram @ 04:35 pm\n02:10 pm\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kochi",
+    "raw": "KSRTC\nKozhikode  Ernakulam\n This bus goes from Kozhikode to Ernakulam\nLow Floor Ac\n 5 hours 20 minutes  Ernakulam @ 05:25 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kochi",
+    "raw": "KSRTC\nKozhikode  Ernakulam\n This bus goes from Kozhikode to Ernakulam\nLow Floor Ac\n 5 hours 20 minutes  Ernakulam @ 05:25 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kochi",
+    "raw": "KSRTC\nKozhikode  Ernakulam\n This bus goes from Kozhikode to Ernakulam\nLow Floor Ac\n 5 hours 20 minutes  Ernakulam @ 05:25 am"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kochi",
+    "raw": "KSRTC\nMangalore  Ernakulam\n This bus goes from Kozhikode to Ernakulam\nSuper Deluxe Air Bus\n 4 hours 43 minutes  Ernakulam @ 04:54 am\n12:11 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kochi",
+    "raw": "KSRTC\nMangalore  Ernakulam\n This bus goes from Kozhikode to Ernakulam\nSuper Deluxe Air Bus\n 4 hours 43 minutes  Ernakulam @ 04:54 am\n12:11 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kochi",
+    "raw": "KSRTC\nMangalore  Ernakulam\n This bus goes from Kozhikode to Ernakulam\nSuper Deluxe Air Bus\n 4 hours 43 minutes  Ernakulam @ 04:54 am"
+  },
+  {
+    "from": "Calicut",
+    "to": "Thrissur",
+    "raw": "KSRTC\nKozhikode  Ernakulam\n This bus goes from Kozhikode to Thrissur\nLow Floor Ac\n 3 hours 25 minutes  Thrissur @ 03:30 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Thrissur",
+    "raw": "KSRTC\nKozhikode  Ernakulam\n This bus goes from Kozhikode to Thrissur\nLow Floor Ac\n 3 hours 25 minutes  Thrissur @ 03:30 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Thrissur",
+    "raw": "KSRTC\nKozhikode  Ernakulam\n This bus goes from Kozhikode to Thrissur\nLow Floor Ac\n 3 hours 25 minutes  Thrissur @ 03:30 am"
+  },
+  {
+    "from": "Calicut",
+    "to": "Thrissur",
+    "raw": "KSRTC\nBangalore  Munnar\n This bus goes from Kozhikode to Thrissur\nSuper Deluxe Air Bus\n 2 hours 40 minutes  Thrissur @ 02:50 am\n12:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Thrissur",
+    "raw": "KSRTC\nBangalore  Munnar\n This bus goes from Kozhikode to Thrissur\nSuper Deluxe Air Bus\n 2 hours 40 minutes  Thrissur @ 02:50 am\n12:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Thrissur",
+    "raw": "KSRTC\nBangalore  Munnar\n This bus goes from Kozhikode to Thrissur\nSuper Deluxe Air Bus\n 2 hours 40 minutes  Thrissur @ 02:50 am"
+  },
+  {
+    "from": "Calicut",
+    "to": "Thrissur",
+    "raw": "KSRTC\nMangalore  Ernakulam\n This bus goes from Kozhikode to Thrissur\nSuper Deluxe Air Bus\n 2 hours 45 minutes  Thrissur @ 02:56 am\n12:11 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Thrissur",
+    "raw": "KSRTC\nMangalore  Ernakulam\n This bus goes from Kozhikode to Thrissur\nSuper Deluxe Air Bus\n 2 hours 45 minutes  Thrissur @ 02:56 am\n12:11 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Thrissur",
+    "raw": "KSRTC\nMangalore  Ernakulam\n This bus goes from Kozhikode to Thrissur\nSuper Deluxe Air Bus\n 2 hours 45 minutes  Thrissur @ 02:56 am"
+  },
+  {
+    "from": "Calicut",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKozhikode  Trivandrum\n This bus goes from Kozhikode to Trivandrum\nLow Floor Ac\n 10 hours 35 minutes  Trivandrum @ 11:05 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKozhikode  Trivandrum\n This bus goes from Kozhikode to Trivandrum\nLow Floor Ac\n 10 hours 35 minutes  Trivandrum @ 11:05 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKozhikode  Trivandrum\n This bus goes from Kozhikode to Trivandrum\nLow Floor Ac\n 10 hours 35 minutes  Trivandrum @ 11:05 am"
+  },
+  {
+    "from": "Calicut",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKozhikode  Trivandrum\n This bus goes from Kozhikode to Trivandrum\nLow Floor Ac\n 10 hours 20 minutes  Trivandrum @ 12:50 pm\n02:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKozhikode  Trivandrum\n This bus goes from Kozhikode to Trivandrum\nLow Floor Ac\n 10 hours 20 minutes  Trivandrum @ 12:50 pm\n02:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKozhikode  Trivandrum\n This bus goes from Kozhikode to Trivandrum\nLow Floor Ac\n 10 hours 20 minutes  Trivandrum @ 12:50 pm"
+  },
+  {
+    "from": "Calicut",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKozhikode  Trivandrum\n This bus goes from Kozhikode to Trivandrum\nLow Floor Ac\n 10 hours 40 minutes  Trivandrum @ 03:10 pm\n04:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKozhikode  Trivandrum\n This bus goes from Kozhikode to Trivandrum\nLow Floor Ac\n 10 hours 40 minutes  Trivandrum @ 03:10 pm\n04:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKozhikode  Trivandrum\n This bus goes from Kozhikode to Trivandrum\nLow Floor Ac\n 10 hours 40 minutes  Trivandrum @ 03:10 pm"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kannur",
+    "raw": "KSRTC\nTrivandrum  Kollur\n This bus goes from Kozhikode to Kannur\nAc Seater Volvo Multi Axle\n 1 hours 50 minutes  Kannur @ 01:55 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kannur",
+    "raw": "KSRTC\nTrivandrum  Kollur\n This bus goes from Kozhikode to Kannur\nAc Seater Volvo Multi Axle\n 1 hours 50 minutes  Kannur @ 01:55 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kannur",
+    "raw": "KSRTC\nTrivandrum  Kollur\n This bus goes from Kozhikode to Kannur\nAc Seater Volvo Multi Axle\n 1 hours 50 minutes  Kannur @ 01:55 am"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kannur",
+    "raw": "KSRTC\nPala  Panjikkal\nSuper Express\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kannur",
+    "raw": "KSRTC\nPala  Panjikkal\nSuper Express\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kannur",
+    "raw": "KSRTC\nPala  Panjikkal\nSuper Express"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kannur",
+    "raw": "KSRTC\nErnakulam  Kannur\nLimited Stop Fast Passenger\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kannur",
+    "raw": "KSRTC\nErnakulam  Kannur\nLimited Stop Fast Passenger\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kannur",
+    "raw": "KSRTC\nErnakulam  Kannur\nLimited Stop Fast Passenger"
+  },
+  {
+    "from": "Calicut",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKasargode  Coimbatore\n This bus goes from Kozhikode to Palakkad\nSuper Deluxe Air Bus\n 3 hours 5 minutes  Palakkad @ 04:05 am\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKasargode  Coimbatore\n This bus goes from Kozhikode to Palakkad\nSuper Deluxe Air Bus\n 3 hours 5 minutes  Palakkad @ 04:05 am\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKasargode  Coimbatore\n This bus goes from Kozhikode to Palakkad\nSuper Deluxe Air Bus\n 3 hours 5 minutes  Palakkad @ 04:05 am"
+  },
+  {
+    "from": "Calicut",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKozhikkode  Palakkad\nTown To Town Ordinary\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKozhikkode  Palakkad\nTown To Town Ordinary\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKozhikkode  Palakkad\nTown To Town Ordinary"
+  },
+  {
+    "from": "Calicut",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKozhikkode  Palakkad\nTown To Town Ordinary\n02:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKozhikkode  Palakkad\nTown To Town Ordinary\n02:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKozhikkode  Palakkad\nTown To Town Ordinary"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kottayam",
+    "raw": "KSRTC.\nManippal  Adoor\nSuper Deluxe\n12:25 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kottayam",
+    "raw": "KSRTC.\nManippal  Adoor\nSuper Deluxe\n12:25 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kottayam",
+    "raw": "KSRTC.\nManippal  Adoor\nSuper Deluxe"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kottayam",
+    "raw": "KSRTC\nSultan Bathery  Adoor\n This bus goes from Kozhikode to Kottayam\nSuper Deluxe Air Bus\n 5 hours 50 minutes  Kottayam @ 06:20 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kottayam",
+    "raw": "KSRTC\nSultan Bathery  Adoor\n This bus goes from Kozhikode to Kottayam\nSuper Deluxe Air Bus\n 5 hours 50 minutes  Kottayam @ 06:20 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kottayam",
+    "raw": "KSRTC\nSultan Bathery  Adoor\n This bus goes from Kozhikode to Kottayam\nSuper Deluxe Air Bus\n 5 hours 50 minutes  Kottayam @ 06:20 am"
+  },
+  {
+    "from": "Calicut",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKozhikode  Trivandrum\n This bus goes from Kozhikode to Alappuzha\nLow Floor Ac\n 6 hours 25 minutes  Alappuzha @ 06:55 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKozhikode  Trivandrum\n This bus goes from Kozhikode to Alappuzha\nLow Floor Ac\n 6 hours 25 minutes  Alappuzha @ 06:55 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKozhikode  Trivandrum\n This bus goes from Kozhikode to Alappuzha\nLow Floor Ac\n 6 hours 25 minutes  Alappuzha @ 06:55 am"
+  },
+  {
+    "from": "Calicut",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKozhikode  Trivandrum\n This bus goes from Kozhikode to Alappuzha\nLow Floor Ac\n 6 hours 25 minutes  Alappuzha @ 08:55 am\n02:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKozhikode  Trivandrum\n This bus goes from Kozhikode to Alappuzha\nLow Floor Ac\n 6 hours 25 minutes  Alappuzha @ 08:55 am\n02:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKozhikode  Trivandrum\n This bus goes from Kozhikode to Alappuzha\nLow Floor Ac\n 6 hours 25 minutes  Alappuzha @ 08:55 am"
+  },
+  {
+    "from": "Calicut",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKozhikode  Alappuzha\n This bus goes from Kozhikode to Alappuzha\nSuper Fast\n 7 hours  Alappuzha @ 10:20 am\n03:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKozhikode  Alappuzha\n This bus goes from Kozhikode to Alappuzha\nSuper Fast\n 7 hours  Alappuzha @ 10:20 am\n03:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKozhikode  Alappuzha\n This bus goes from Kozhikode to Alappuzha\nSuper Fast\n 7 hours  Alappuzha @ 10:20 am"
+  },
+  {
+    "from": "Calicut",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKozhikode  Ernakulam\n This bus goes from Kozhikode to Ernakulam\nLow Floor Ac\n 5 hours 20 minutes  Ernakulam @ 05:25 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKozhikode  Ernakulam\n This bus goes from Kozhikode to Ernakulam\nLow Floor Ac\n 5 hours 20 minutes  Ernakulam @ 05:25 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKozhikode  Ernakulam\n This bus goes from Kozhikode to Ernakulam\nLow Floor Ac\n 5 hours 20 minutes  Ernakulam @ 05:25 am"
+  },
+  {
+    "from": "Calicut",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nMangalore  Ernakulam\n This bus goes from Kozhikode to Ernakulam\nSuper Deluxe Air Bus\n 4 hours 43 minutes  Ernakulam @ 04:54 am\n12:11 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nMangalore  Ernakulam\n This bus goes from Kozhikode to Ernakulam\nSuper Deluxe Air Bus\n 4 hours 43 minutes  Ernakulam @ 04:54 am\n12:11 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nMangalore  Ernakulam\n This bus goes from Kozhikode to Ernakulam\nSuper Deluxe Air Bus\n 4 hours 43 minutes  Ernakulam @ 04:54 am"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nTrivandrum  Kollur\n This bus goes from Kozhikode to Kasargode\nAc Seater Volvo Multi Axle\n 3 hours 50 minutes  Kasargode @ 03:55 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nTrivandrum  Kollur\n This bus goes from Kozhikode to Kasargode\nAc Seater Volvo Multi Axle\n 3 hours 50 minutes  Kasargode @ 03:55 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nTrivandrum  Kollur\n This bus goes from Kozhikode to Kasargode\nAc Seater Volvo Multi Axle\n 3 hours 50 minutes  Kasargode @ 03:55 am"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nAlappuzha  Kollur\n This bus goes from Kozhikode to Kasargode\nSuper Deluxe Air Bus\n 4 hours  Kasargode @ 04:45 am\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nAlappuzha  Kollur\n This bus goes from Kozhikode to Kasargode\nSuper Deluxe Air Bus\n 4 hours  Kasargode @ 04:45 am\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nAlappuzha  Kollur\n This bus goes from Kozhikode to Kasargode\nSuper Deluxe Air Bus\n 4 hours  Kasargode @ 04:45 am"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nKottarakkara  Kasargode\n This bus goes from Kozhikode to Kasargode\nPremium Superfast\n 4 hours 35 minutes  Kasargode @ 05:35 am\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nKottarakkara  Kasargode\n This bus goes from Kozhikode to Kasargode\nPremium Superfast\n 4 hours 35 minutes  Kasargode @ 05:35 am\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nKottarakkara  Kasargode\n This bus goes from Kozhikode to Kasargode\nPremium Superfast\n 4 hours 35 minutes  Kasargode @ 05:35 am"
+  },
+  {
+    "from": "Calicut",
+    "to": "Malappuram",
+    "raw": "KSRTC\nKozhikkode  Palakkad\nTown To Town Ordinary\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Malappuram",
+    "raw": "KSRTC\nKozhikkode  Palakkad\nTown To Town Ordinary\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Malappuram",
+    "raw": "KSRTC\nKozhikkode  Palakkad\nTown To Town Ordinary"
+  },
+  {
+    "from": "Calicut",
+    "to": "Malappuram",
+    "raw": "KSRTC\nKasargode  Coimbatore\n This bus goes from Kozhikode to Malappuram\nSuper Deluxe Air Bus\n 1 hours 10 minutes  Malappuram @ 02:10 am\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Malappuram",
+    "raw": "KSRTC\nKasargode  Coimbatore\n This bus goes from Kozhikode to Malappuram\nSuper Deluxe Air Bus\n 1 hours 10 minutes  Malappuram @ 02:10 am\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Malappuram",
+    "raw": "KSRTC\nKasargode  Coimbatore\n This bus goes from Kozhikode to Malappuram\nSuper Deluxe Air Bus\n 1 hours 10 minutes  Malappuram @ 02:10 am"
+  },
+  {
+    "from": "Calicut",
+    "to": "Malappuram",
+    "raw": "KSRTC\nKozhikkode  Malappuram\nTown To Town Ordinary\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Malappuram",
+    "raw": "KSRTC\nKozhikkode  Malappuram\nTown To Town Ordinary\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Calicut",
+    "to": "Malappuram",
+    "raw": "KSRTC\nKozhikkode  Malappuram\nTown To Town Ordinary"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kochi",
+    "raw": "KSRTC\nPappanamcode  Kozhikode\n This bus goes from Trivandrum to Vytilla Hub\nLow Floor Ac\n 4 hours 30 minutes  Vytilla-hub @ 04:30 am\n12:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kochi",
+    "raw": "KSRTC\nPappanamcode  Kozhikode\n This bus goes from Trivandrum to Vytilla Hub\nLow Floor Ac\n 4 hours 30 minutes  Vytilla-hub @ 04:30 am\n12:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kochi",
+    "raw": "KSRTC\nPappanamcode  Kozhikode\n This bus goes from Trivandrum to Vytilla Hub\nLow Floor Ac\n 4 hours 30 minutes  Vytilla-hub @ 04:30 am"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kochi",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nSuper Fast\n 5 hours 10 minutes  Ernakulam @ 05:40 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kochi",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nSuper Fast\n 5 hours 10 minutes  Ernakulam @ 05:40 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kochi",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nSuper Fast\n 5 hours 10 minutes  Ernakulam @ 05:40 am"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kochi",
+    "raw": "KSRTC\nTrivandrum  Munnar\n This bus goes from Trivandrum to Vytilla Hub\nSuper Fast\n 5 hours 10 minutes  Vytilla-hub @ 06:10 am\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kochi",
+    "raw": "KSRTC\nTrivandrum  Munnar\n This bus goes from Trivandrum to Vytilla Hub\nSuper Fast\n 5 hours 10 minutes  Vytilla-hub @ 06:10 am\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kochi",
+    "raw": "KSRTC\nTrivandrum  Munnar\n This bus goes from Trivandrum to Vytilla Hub\nSuper Fast\n 5 hours 10 minutes  Vytilla-hub @ 06:10 am"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Thrissur",
+    "raw": "KSRTC\nPappanamcode  Kozhikode\nLow Floor Ac\n 6 hours 50 minutes  Thrissur @ 06:50 am\n12:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Thrissur",
+    "raw": "KSRTC\nPappanamcode  Kozhikode\nLow Floor Ac\n 6 hours 50 minutes  Thrissur @ 06:50 am\n12:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Thrissur",
+    "raw": "KSRTC\nPappanamcode  Kozhikode\nLow Floor Ac\n 6 hours 50 minutes  Thrissur @ 06:50 am"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Chittoor\nPremium Superfast\n 6 hours 50 minutes  Thrissur @ 06:55 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Chittoor\nPremium Superfast\n 6 hours 50 minutes  Thrissur @ 06:55 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Chittoor\nPremium Superfast\n 6 hours 50 minutes  Thrissur @ 06:55 am"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nSuper Fast\n 7 hours 20 minutes  Thrissur @ 07:50 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nSuper Fast\n 7 hours 20 minutes  Thrissur @ 07:50 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nSuper Fast\n 7 hours 20 minutes  Thrissur @ 07:50 am"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nPremium Superfast\n 6 hours 45 minutes  Thrissur @ 07:45 am\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Calicut",
+    "raw": "KSRTC\nPappanamcode  Kozhikode\n This bus goes from Trivandrum to Kozhikode\nLow Floor Ac\n 10 hours 10 minutes  Kozhikode @ 10:10 am\n12:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Calicut",
+    "raw": "KSRTC\nPappanamcode  Kozhikode\n This bus goes from Trivandrum to Kozhikode\nLow Floor Ac\n 10 hours 10 minutes  Kozhikode @ 10:10 am\n12:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Calicut",
+    "raw": "KSRTC\nPappanamcode  Kozhikode\n This bus goes from Trivandrum to Kozhikode\nLow Floor Ac\n 10 hours 10 minutes  Kozhikode @ 10:10 am"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Calicut",
+    "raw": "KSRTC\nPappanamcode  Mananthavady\n This bus goes from Trivandrum to Kozhikode\nPremium Superfast\n 11 hours  Kozhikode @ 12:30 pm\n01:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Calicut",
+    "raw": "KSRTC\nPappanamcode  Mananthavady\n This bus goes from Trivandrum to Kozhikode\nPremium Superfast\n 11 hours  Kozhikode @ 12:30 pm\n01:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Calicut",
+    "raw": "KSRTC\nPappanamcode  Mananthavady\n This bus goes from Trivandrum to Kozhikode\nPremium Superfast\n 11 hours  Kozhikode @ 12:30 pm"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Calicut",
+    "raw": "KSRTC\nPappanamcode  Mananthavady\n This bus goes from Trivandrum to Kozhikode\nPremium Superfast\n 11 hours  Kozhikode @ 01:00 pm\n02:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Calicut",
+    "raw": "KSRTC\nPappanamcode  Mananthavady\n This bus goes from Trivandrum to Kozhikode\nPremium Superfast\n 11 hours  Kozhikode @ 01:00 pm\n02:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Calicut",
+    "raw": "KSRTC\nPappanamcode  Mananthavady\n This bus goes from Trivandrum to Kozhikode\nPremium Superfast\n 11 hours  Kozhikode @ 01:00 pm"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Calicut",
+    "raw": "KSRTC\nPappanamcode  Kozhikode\n This bus goes from Trivandrum to Kozhikode\nLow Floor Ac\n02:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Calicut",
+    "raw": "KSRTC\nPappanamcode  Kozhikode\n This bus goes from Trivandrum to Kozhikode\nLow Floor Ac\n02:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Calicut",
+    "raw": "KSRTC\nPappanamcode  Kozhikode\n This bus goes from Trivandrum to Kozhikode\nLow Floor Ac"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kannur",
+    "raw": "KSRTC\nThiruvananthapuram  Kannur\n This bus goes from Thiruvananthapuram to Kannur\nSuper Fast\n07:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kannur",
+    "raw": "KSRTC\nThiruvananthapuram  Kannur\n This bus goes from Thiruvananthapuram to Kannur\nSuper Fast\n07:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kannur",
+    "raw": "KSRTC\nThiruvananthapuram  Kannur\n This bus goes from Thiruvananthapuram to Kannur\nSuper Fast"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kannur",
+    "raw": "KSRTC\nTrivandrum  Kannur\nPremium Superfast\n 13 hours  Kannur @ 09:00 pm\n08:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kannur",
+    "raw": "KSRTC\nTrivandrum  Kannur\nPremium Superfast\n 13 hours  Kannur @ 09:00 pm\n08:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kannur",
+    "raw": "KSRTC\nTrivandrum  Kannur\nPremium Superfast\n 13 hours  Kannur @ 09:00 pm"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kannur",
+    "raw": "KSRTC\nNeyyattinkara  Kannur\nPremium Superfast\n 12 hours 50 minutes  Kannur @ 12:50 am\n12:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kannur",
+    "raw": "KSRTC\nNeyyattinkara  Kannur\nPremium Superfast\n 12 hours 50 minutes  Kannur @ 12:50 am\n12:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kannur",
+    "raw": "KSRTC\nNeyyattinkara  Kannur\nPremium Superfast\n 12 hours 50 minutes  Kannur @ 12:50 am"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Chittoor\nPremium Superfast\n 8 hours 25 minutes  Palakkad @ 08:30 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Chittoor\nPremium Superfast\n 8 hours 25 minutes  Palakkad @ 08:30 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Chittoor\nPremium Superfast\n 8 hours 25 minutes  Palakkad @ 08:30 am"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nSuper Fast\n 9 hours 10 minutes  Palakkad @ 09:40 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nSuper Fast\n 9 hours 10 minutes  Palakkad @ 09:40 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nSuper Fast\n 9 hours 10 minutes  Palakkad @ 09:40 am"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nPremium Superfast\n 8 hours 20 minutes  Palakkad @ 09:20 am\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nPremium Superfast\n 8 hours 20 minutes  Palakkad @ 09:20 am\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nPremium Superfast\n 8 hours 20 minutes  Palakkad @ 09:20 am"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nPremium Superfast\n 9 hours  Palakkad @ 11:15 am\n02:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kottayam",
+    "raw": "KSRTC\nTrivandrum  Chittoor\nPremium Superfast\n 3 hours 30 minutes  Kottayam @ 03:35 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kottayam",
+    "raw": "KSRTC\nTrivandrum  Chittoor\nPremium Superfast\n 3 hours 30 minutes  Kottayam @ 03:35 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kottayam",
+    "raw": "KSRTC\nTrivandrum  Chittoor\nPremium Superfast\n 3 hours 30 minutes  Kottayam @ 03:35 am"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kottayam",
+    "raw": "KSRTC\nPappanamcode  Munnar\nLow Floor Ac\n 3 hours 50 minutes  Kottayam @ 04:25 am\n12:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kottayam",
+    "raw": "KSRTC\nPappanamcode  Munnar\nLow Floor Ac\n 3 hours 50 minutes  Kottayam @ 04:25 am\n12:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kottayam",
+    "raw": "KSRTC\nPappanamcode  Munnar\nLow Floor Ac\n 3 hours 50 minutes  Kottayam @ 04:25 am"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kottayam",
+    "raw": "KSRTC\nThiruvananthapuram  Thodupuzha\n This bus goes from Thiruvananthapuram to Kottayam\nLimited Stop Fast Passenger\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kottayam",
+    "raw": "KSRTC\nThiruvananthapuram  Thodupuzha\n This bus goes from Thiruvananthapuram to Kottayam\nLimited Stop Fast Passenger\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kottayam",
+    "raw": "KSRTC\nThiruvananthapuram  Thodupuzha\n This bus goes from Thiruvananthapuram to Kottayam\nLimited Stop Fast Passenger"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kottayam",
+    "raw": "KSRTC\nTrivandrum  Thodupuzha\nFast Passenger\n 3 hours 35 minutes  Kottayam @ 04:20 am\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kottayam",
+    "raw": "KSRTC\nTrivandrum  Thodupuzha\nFast Passenger\n 3 hours 35 minutes  Kottayam @ 04:20 am\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kottayam",
+    "raw": "KSRTC\nTrivandrum  Thodupuzha\nFast Passenger\n 3 hours 35 minutes  Kottayam @ 04:20 am"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kottayam",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nPremium Superfast\n 3 hours 30 minutes  Kottayam @ 04:30 am\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPappanamcode  Kozhikode\nLow Floor Ac\n 3 hours 20 minutes  Alappuzha @ 03:20 am\n12:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPappanamcode  Kozhikode\nLow Floor Ac\n 3 hours 20 minutes  Alappuzha @ 03:20 am\n12:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPappanamcode  Kozhikode\nLow Floor Ac\n 3 hours 20 minutes  Alappuzha @ 03:20 am"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nSuper Fast\n 3 hours 45 minutes  Alappuzha @ 04:15 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nSuper Fast\n 3 hours 45 minutes  Alappuzha @ 04:15 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nSuper Fast\n 3 hours 45 minutes  Alappuzha @ 04:15 am"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nTrivandrum  Munnar\nSuper Fast\n 3 hours 40 minutes  Alappuzha @ 04:40 am\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nTrivandrum  Munnar\nSuper Fast\n 3 hours 40 minutes  Alappuzha @ 04:40 am\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nTrivandrum  Munnar\nSuper Fast\n 3 hours 40 minutes  Alappuzha @ 04:40 am"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPappanamcode  Mananthavady\nPremium Superfast\n 3 hours 40 minutes  Alappuzha @ 05:10 am\n01:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPappanamcode  Mananthavady\nPremium Superfast\n 3 hours 40 minutes  Alappuzha @ 05:10 am\n01:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPappanamcode  Mananthavady\nPremium Superfast\n 3 hours 40 minutes  Alappuzha @ 05:10 am"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nTrivandrum  Thrissur\nSuper Fast\n 4 hours 5 minutes  Alappuzha @ 05:35 am\n01:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nTrivandrum  Thrissur\nSuper Fast\n 4 hours 5 minutes  Alappuzha @ 05:35 am\n01:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 10 hours 50 minutes  Malappuram @ 04:35 pm\n05:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 10 hours 50 minutes  Malappuram @ 04:35 pm\n05:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 10 hours 50 minutes  Malappuram @ 04:35 pm"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 11 hours  Malappuram @ 07:20 pm\n08:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 11 hours  Malappuram @ 07:20 pm\n08:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 11 hours  Malappuram @ 07:20 pm"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 10 hours 20 minutes  Malappuram @ 06:50 pm\n08:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 10 hours 20 minutes  Malappuram @ 06:50 pm\n08:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 10 hours 20 minutes  Malappuram @ 06:50 pm"
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nPremium Superfast\n 9 hours 35 minutes  Malappuram @ 09:05 pm\n11:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "raw": "KSRTC\nKollur  Alappuzha\nSuper Deluxe Air Bus\n 7 hours  Ernakulam @ 10:30 am\n03:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "raw": "KSRTC\nKollur  Alappuzha\nSuper Deluxe Air Bus\n 7 hours  Ernakulam @ 10:30 am\n03:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "raw": "KSRTC\nKollur  Alappuzha\nSuper Deluxe Air Bus\n 7 hours  Ernakulam @ 10:30 am"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "raw": "KSRTC\nKannur  Ernakulam\nSuper Fast\n 8 hours 30 minutes  Ernakulam @ 02:20 pm\n05:50 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "raw": "KSRTC\nKannur  Ernakulam\nSuper Fast\n 8 hours 30 minutes  Ernakulam @ 02:20 pm\n05:50 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "raw": "KSRTC\nKannur  Ernakulam\nSuper Fast\n 8 hours 30 minutes  Ernakulam @ 02:20 pm"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "raw": "KSRTC\nKannur  Trivandrum\nPremium Superfast\n 7 hours 55 minutes  Ernakulam @ 02:55 pm\n07:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "raw": "KSRTC\nKannur  Trivandrum\nPremium Superfast\n 7 hours 55 minutes  Ernakulam @ 02:55 pm\n07:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "raw": "KSRTC\nKannur  Trivandrum\nPremium Superfast\n 7 hours 55 minutes  Ernakulam @ 02:55 pm"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "raw": "KSRTC\nKannur  Thiruvananthapuram\nSuper Fast\n07:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "raw": "KSRTC\nKannur  Thiruvananthapuram\nSuper Fast\n07:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "raw": "KSRTC\nKannur  Thiruvananthapuram\nSuper Fast"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "raw": "KSRTC\nParassinikadavu  Ernakulam\nLimited Stop Fast Passenger\n07:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "raw": "KSRTC\nParassinikadavu  Ernakulam\nLimited Stop Fast Passenger\n07:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "raw": "KSRTC\nParassinikadavu  Ernakulam\nLimited Stop Fast Passenger"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "raw": "KSRTC\nParassinikadavu  Ernakulam\nLimited Stop Fast Passenger\n08:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "raw": "KSRTC\nParassinikadavu  Ernakulam\nLimited Stop Fast Passenger\n08:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Calicut",
+    "raw": "KSRTC\nSubramanya  Palakkad\n This bus goes from Kannur to Kozhikode\nSuper Deluxe Air Bus\n 2 hours 30 minutes  Kozhikode @ 02:45 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Calicut",
+    "raw": "KSRTC\nSubramanya  Palakkad\n This bus goes from Kannur to Kozhikode\nSuper Deluxe Air Bus\n 2 hours 30 minutes  Kozhikode @ 02:45 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Calicut",
+    "raw": "KSRTC\nSubramanya  Palakkad\n This bus goes from Kannur to Kozhikode\nSuper Deluxe Air Bus\n 2 hours 30 minutes  Kozhikode @ 02:45 am"
+  },
+  {
+    "from": "Kannur",
+    "to": "Calicut",
+    "raw": "KSRTC\nKollur  Palakkad\n This bus goes from Kannur to Kozhikode\nMinnal Deluxe\n 1 hours 45 minutes  Kozhikode @ 03:30 am\n01:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Calicut",
+    "raw": "KSRTC\nKollur  Palakkad\n This bus goes from Kannur to Kozhikode\nMinnal Deluxe\n 1 hours 45 minutes  Kozhikode @ 03:30 am\n01:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Calicut",
+    "raw": "KSRTC\nKollur  Palakkad\n This bus goes from Kannur to Kozhikode\nMinnal Deluxe\n 1 hours 45 minutes  Kozhikode @ 03:30 am"
+  },
+  {
+    "from": "Kannur",
+    "to": "Calicut",
+    "raw": "KSRTC\nKollur  Alappuzha\n This bus goes from Kannur to Kozhikode\nSuper Deluxe Air Bus\n 2 hours 30 minutes  Kozhikode @ 06:00 am\n03:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Calicut",
+    "raw": "KSRTC\nKollur  Alappuzha\n This bus goes from Kannur to Kozhikode\nSuper Deluxe Air Bus\n 2 hours 30 minutes  Kozhikode @ 06:00 am\n03:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Calicut",
+    "raw": "KSRTC\nKollur  Alappuzha\n This bus goes from Kannur to Kozhikode\nSuper Deluxe Air Bus\n 2 hours 30 minutes  Kozhikode @ 06:00 am"
+  },
+  {
+    "from": "Kannur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKannur  Trivandrum\nPremium Superfast\n 13 hours 20 minutes  Trivandrum @ 08:20 pm\n07:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKannur  Trivandrum\nPremium Superfast\n 13 hours 20 minutes  Trivandrum @ 08:20 pm\n07:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKannur  Trivandrum\nPremium Superfast\n 13 hours 20 minutes  Trivandrum @ 08:20 pm"
+  },
+  {
+    "from": "Kannur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKannur  Thiruvananthapuram\n This bus goes from Kannur to Thiruvananthapuram\nSuper Fast\n07:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKannur  Thiruvananthapuram\n This bus goes from Kannur to Thiruvananthapuram\nSuper Fast\n07:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKannur  Thiruvananthapuram\n This bus goes from Kannur to Thiruvananthapuram\nSuper Fast"
+  },
+  {
+    "from": "Kannur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKannur  Neyyattinkara\nPremium Superfast\n 12 hours 50 minutes  Trivandrum @ 11:50 pm\n11:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKannur  Neyyattinkara\nPremium Superfast\n 12 hours 50 minutes  Trivandrum @ 11:50 pm\n11:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKannur  Neyyattinkara\nPremium Superfast\n 12 hours 50 minutes  Trivandrum @ 11:50 pm"
+  },
+  {
+    "from": "Kannur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKannur  Trivandrum\nPremium Superfast\n 13 hours 10 minutes  Trivandrum @ 05:40 am\n04:30 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKannur  Trivandrum\nPremium Superfast\n 13 hours 10 minutes  Trivandrum @ 05:40 am\n04:30 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKannur  Trivandrum\nPremium Superfast\n 13 hours 10 minutes  Trivandrum @ 05:40 am"
+  },
+  {
+    "from": "Kannur",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nPayyanur  Trivandrum\nSuper Deluxe Air Bus\n05:25 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Palakkad",
+    "raw": "KSRTC\nSubramanya  Palakkad\nSuper Deluxe Air Bus\n 5 hours 25 minutes  Palakkad @ 05:40 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Palakkad",
+    "raw": "KSRTC\nSubramanya  Palakkad\nSuper Deluxe Air Bus\n 5 hours 25 minutes  Palakkad @ 05:40 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Palakkad",
+    "raw": "KSRTC\nSubramanya  Palakkad\nSuper Deluxe Air Bus\n 5 hours 25 minutes  Palakkad @ 05:40 am"
+  },
+  {
+    "from": "Kannur",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKollur  Palakkad\nMinnal Deluxe\n 4 hours 20 minutes  Palakkad @ 06:05 am\n01:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKollur  Palakkad\nMinnal Deluxe\n 4 hours 20 minutes  Palakkad @ 06:05 am\n01:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKollur  Palakkad\nMinnal Deluxe\n 4 hours 20 minutes  Palakkad @ 06:05 am"
+  },
+  {
+    "from": "Kannur",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKannur  Pondicherry\nGaruda Premium A/c\n04:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKannur  Pondicherry\nGaruda Premium A/c\n04:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKannur  Pondicherry\nGaruda Premium A/c"
+  },
+  {
+    "from": "Kannur",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKannur  Madurai\nPremium Superfast\n 6 hours 35 minutes  Palakkad @ 12:50 am\n06:15 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kottayam",
+    "raw": "KSRTC\nKannur  Changanassery\nPremium Superfast\n 9 hours 10 minutes  Kottayam @ 02:10 pm\n05:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kottayam",
+    "raw": "KSRTC\nKannur  Changanassery\nPremium Superfast\n 9 hours 10 minutes  Kottayam @ 02:10 pm\n05:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kottayam",
+    "raw": "KSRTC\nKannur  Changanassery\nPremium Superfast\n 9 hours 10 minutes  Kottayam @ 02:10 pm"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kottayam",
+    "raw": "KSRTC.\nPayyannur  Kottayam\nSuper Fast\n07:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kottayam",
+    "raw": "KSRTC.\nPayyannur  Kottayam\nSuper Fast\n07:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kottayam",
+    "raw": "KSRTC.\nPayyannur  Kottayam\nSuper Fast"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kottayam",
+    "raw": "KSRTC\nKannur  Ponkunnam\nSuper Fast\n08:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kottayam",
+    "raw": "KSRTC\nKannur  Ponkunnam\nSuper Fast\n08:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kottayam",
+    "raw": "KSRTC\nKannur  Ponkunnam\nSuper Fast"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kottayam",
+    "raw": "KSRTC\nKannur  Neyyattinkara\nPremium Superfast\n 8 hours 50 minutes  Kottayam @ 07:50 pm\n11:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKollur  Alappuzha\nSuper Deluxe Air Bus\n 8 hours 40 minutes  Alappuzha @ 12:10 pm\n03:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKollur  Alappuzha\nSuper Deluxe Air Bus\n 8 hours 40 minutes  Alappuzha @ 12:10 pm\n03:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKollur  Alappuzha\nSuper Deluxe Air Bus\n 8 hours 40 minutes  Alappuzha @ 12:10 pm"
+  },
+  {
+    "from": "Kannur",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKannur  Trivandrum\nPremium Superfast\n 9 hours 20 minutes  Alappuzha @ 04:20 pm\n07:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKannur  Trivandrum\nPremium Superfast\n 9 hours 20 minutes  Alappuzha @ 04:20 pm\n07:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKannur  Trivandrum\nPremium Superfast\n 9 hours 20 minutes  Alappuzha @ 04:20 pm"
+  },
+  {
+    "from": "Kannur",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKannur  Thiruvananthapuram\nSuper Fast\n07:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKannur  Thiruvananthapuram\nSuper Fast\n07:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKannur  Thiruvananthapuram\nSuper Fast"
+  },
+  {
+    "from": "Kannur",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPayyanur  Trivandrum\nSuper Deluxe Air Bus\n05:25 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKollur  Alappuzha\nSuper Deluxe Air Bus\n 7 hours  Ernakulam @ 10:30 am\n03:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKollur  Alappuzha\nSuper Deluxe Air Bus\n 7 hours  Ernakulam @ 10:30 am\n03:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKollur  Alappuzha\nSuper Deluxe Air Bus\n 7 hours  Ernakulam @ 10:30 am"
+  },
+  {
+    "from": "Kannur",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKannur  Ernakulam\nSuper Fast\n 8 hours 30 minutes  Ernakulam @ 02:20 pm\n05:50 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKannur  Ernakulam\nSuper Fast\n 8 hours 30 minutes  Ernakulam @ 02:20 pm\n05:50 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKannur  Ernakulam\nSuper Fast\n 8 hours 30 minutes  Ernakulam @ 02:20 pm"
+  },
+  {
+    "from": "Kannur",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKannur  Trivandrum\nPremium Superfast\n 7 hours 55 minutes  Ernakulam @ 02:55 pm\n07:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKannur  Trivandrum\nPremium Superfast\n 7 hours 55 minutes  Ernakulam @ 02:55 pm\n07:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKannur  Trivandrum\nPremium Superfast\n 7 hours 55 minutes  Ernakulam @ 02:55 pm"
+  },
+  {
+    "from": "Kannur",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKannur  Thiruvananthapuram\nSuper Fast\n07:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nSultan Bathery  Mangalore\n This bus goes from Kannur to Kasargode\nSuper Deluxe Air Bus\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nSultan Bathery  Mangalore\n This bus goes from Kannur to Kasargode\nSuper Deluxe Air Bus\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nSultan Bathery  Mangalore\n This bus goes from Kannur to Kasargode\nSuper Deluxe Air Bus"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nKottayam  Kasargode\n This bus goes from Kannur to Kasargode\nPremium Superfast\n 2 hours 20 minutes  Kasargode @ 02:55 am\n12:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nKottayam  Kasargode\n This bus goes from Kannur to Kasargode\nPremium Superfast\n 2 hours 20 minutes  Kasargode @ 02:55 am\n12:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nKottayam  Kasargode\n This bus goes from Kannur to Kasargode\nPremium Superfast\n 2 hours 20 minutes  Kasargode @ 02:55 am"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nPalakkad  Subramanya\n This bus goes from Kannur to Kasargode\nSuper Deluxe Air Bus\n 2 hours 20 minutes  Kasargode @ 02:55 am\n12:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nPalakkad  Subramanya\n This bus goes from Kannur to Kasargode\nSuper Deluxe Air Bus\n 2 hours 20 minutes  Kasargode @ 02:55 am\n12:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nPalakkad  Subramanya\n This bus goes from Kannur to Kasargode\nSuper Deluxe Air Bus\n 2 hours 20 minutes  Kasargode @ 02:55 am"
+  },
+  {
+    "from": "Kannur",
+    "to": "Malappuram",
+    "raw": "KSRTC\nSubramanya  Palakkad\nSuper Deluxe Air Bus\n 3 hours 35 minutes  Malappuram @ 03:50 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Malappuram",
+    "raw": "KSRTC\nSubramanya  Palakkad\nSuper Deluxe Air Bus\n 3 hours 35 minutes  Malappuram @ 03:50 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Malappuram",
+    "raw": "KSRTC\nSubramanya  Palakkad\nSuper Deluxe Air Bus\n 3 hours 35 minutes  Malappuram @ 03:50 am"
+  },
+  {
+    "from": "Kannur",
+    "to": "Malappuram",
+    "raw": "KSRTC\nKollur  Palakkad\nMinnal Deluxe\n 2 hours 45 minutes  Malappuram @ 04:30 am\n01:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Malappuram",
+    "raw": "KSRTC\nKollur  Palakkad\nMinnal Deluxe\n 2 hours 45 minutes  Malappuram @ 04:30 am\n01:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Malappuram",
+    "raw": "KSRTC\nKollur  Palakkad\nMinnal Deluxe\n 2 hours 45 minutes  Malappuram @ 04:30 am"
+  },
+  {
+    "from": "Kannur",
+    "to": "Malappuram",
+    "raw": "KSRTC\nKannur  Pondicherry\nGaruda Premium A/c\n04:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Malappuram",
+    "raw": "KSRTC\nKannur  Pondicherry\nGaruda Premium A/c\n04:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kannur",
+    "to": "Malappuram",
+    "raw": "KSRTC\nKannur  Pondicherry\nGaruda Premium A/c"
+  },
+  {
+    "from": "Kannur",
+    "to": "Malappuram",
+    "raw": "KSRTC\nKannur  Madurai\nPremium Superfast\n 4 hours 10 minutes  Malappuram @ 10:25 pm\n06:15 pm\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kochi",
+    "raw": "KSRTC\nThiruppur  Ernakulam\nLimited Stop Fast Passenger\n12:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kochi",
+    "raw": "KSRTC\nThiruppur  Ernakulam\nLimited Stop Fast Passenger\n12:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kochi",
+    "raw": "KSRTC\nThiruppur  Ernakulam\nLimited Stop Fast Passenger"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kochi",
+    "raw": "KSRTC\nTiruppur  Ernakulam\nFast Passenger\n 3 hours 45 minutes  Ernakulam @ 04:45 am\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kochi",
+    "raw": "KSRTC\nTiruppur  Ernakulam\nFast Passenger\n 3 hours 45 minutes  Ernakulam @ 04:45 am\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kochi",
+    "raw": "KSRTC\nTiruppur  Ernakulam\nFast Passenger\n 3 hours 45 minutes  Ernakulam @ 04:45 am"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kochi",
+    "raw": "KSRTC\nBangalore  Thiruvalla\nGaruda Premium A/c\n02:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kochi",
+    "raw": "KSRTC\nBangalore  Thiruvalla\nGaruda Premium A/c\n02:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kochi",
+    "raw": "KSRTC\nBangalore  Thiruvalla\nGaruda Premium A/c"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kochi",
+    "raw": "KSRTC\nBangalore  Kollam\n This bus goes from Palakkad to Vytilla Hub\nSuper Deluxe Air Bus\n02:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Calicut",
+    "raw": "KSRTC\nPalakkad  Thalassery\nTown To Town Ordinary\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Calicut",
+    "raw": "KSRTC\nPalakkad  Thalassery\nTown To Town Ordinary\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Calicut",
+    "raw": "KSRTC\nPalakkad  Thalassery\nTown To Town Ordinary"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Calicut",
+    "raw": "KSRTC\nPalakkad  Kozhikkode\nTown To Town Ordinary\n02:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Calicut",
+    "raw": "KSRTC\nPalakkad  Kozhikkode\nTown To Town Ordinary\n02:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Calicut",
+    "raw": "KSRTC\nPalakkad  Kozhikkode\nTown To Town Ordinary"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Calicut",
+    "raw": "KSRTC\nPondicherry  Kannur\n This bus goes from Palakkad to Kozhikode\nSuper Deluxe Air Bus\n02:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Calicut",
+    "raw": "KSRTC\nPondicherry  Kannur\n This bus goes from Palakkad to Kozhikode\nSuper Deluxe Air Bus\n02:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Calicut",
+    "raw": "KSRTC\nPondicherry  Kannur\n This bus goes from Palakkad to Kozhikode\nSuper Deluxe Air Bus"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Calicut",
+    "raw": "KSRTC\nPalakkad  Kozhikkode\nTown To Town Ordinary\n03:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Calicut",
+    "raw": "KSRTC\nPalakkad  Kozhikkode\nTown To Town Ordinary\n03:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Calicut",
+    "raw": "KSRTC\nPalakkad  Kozhikkode\nTown To Town Ordinary"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Calicut",
+    "raw": "KSRTC\nPalakkad  Kozhikkode\nTown To Town Ordinary\n03:50 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nBangalore  Trivandrum\nAc Sleeper Multi Axle Volvo Slx\n 7 hours 55 minutes  Trivandrum @ 08:40 am\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nBangalore  Trivandrum\nAc Sleeper Multi Axle Volvo Slx\n 7 hours 55 minutes  Trivandrum @ 08:40 am\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nBangalore  Trivandrum\nAc Sleeper Multi Axle Volvo Slx\n 7 hours 55 minutes  Trivandrum @ 08:40 am"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nBangalore  Trivandrum\nAc Seater Volvo Multi Axle\n 8 hours  Trivandrum @ 09:51 am\n01:51 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nBangalore  Trivandrum\nAc Seater Volvo Multi Axle\n 8 hours  Trivandrum @ 09:51 am\n01:51 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nBangalore  Trivandrum\nAc Seater Volvo Multi Axle\n 8 hours  Trivandrum @ 09:51 am"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nPalakkad  Trivandrum\nPremium Superfast\n 9 hours 25 minutes  Trivandrum @ 12:25 pm\n03:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nPalakkad  Trivandrum\nPremium Superfast\n 9 hours 25 minutes  Trivandrum @ 12:25 pm\n03:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nPalakkad  Trivandrum\nPremium Superfast\n 9 hours 25 minutes  Trivandrum @ 12:25 pm"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nBangalore  Trivandrum\nHybrid Ac Seater Cum Sleeper\n03:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nBangalore  Trivandrum\nHybrid Ac Seater Cum Sleeper\n03:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nBangalore  Trivandrum\nHybrid Ac Seater Cum Sleeper"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nPalakkad  Trivandrum\nSuper Fast\n 9 hours 40 minutes  Trivandrum @ 02:10 pm\n04:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nPalakkad  Trivandrum\nSuper Fast\n 9 hours 40 minutes  Trivandrum @ 02:10 pm\n04:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kannur",
+    "raw": "KSRTC\nPondicherry  Kannur\nSuper Deluxe Air Bus\n02:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kannur",
+    "raw": "KSRTC\nPondicherry  Kannur\nSuper Deluxe Air Bus\n02:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kannur",
+    "raw": "KSRTC\nPondicherry  Kannur\nSuper Deluxe Air Bus"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kannur",
+    "raw": "KSRTC\nPalakkad  Subramanya\nSuper Deluxe Air Bus\n 5 hours 35 minutes  Kannur @ 12:35 am\n07:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kannur",
+    "raw": "KSRTC\nPalakkad  Subramanya\nSuper Deluxe Air Bus\n 5 hours 35 minutes  Kannur @ 12:35 am\n07:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kannur",
+    "raw": "KSRTC\nPalakkad  Subramanya\nSuper Deluxe Air Bus\n 5 hours 35 minutes  Kannur @ 12:35 am"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kannur",
+    "raw": "KSRTC\nPalakkad  Kollur\nMinnal Deluxe\n 5 hours 15 minutes  Kannur @ 01:15 am\n08:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kannur",
+    "raw": "KSRTC\nPalakkad  Kollur\nMinnal Deluxe\n 5 hours 15 minutes  Kannur @ 01:15 am\n08:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kannur",
+    "raw": "KSRTC\nPalakkad  Kollur\nMinnal Deluxe\n 5 hours 15 minutes  Kannur @ 01:15 am"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kottayam",
+    "raw": "KSRTC\nVelankanni  Changanassery\nSuper Deluxe Air Bus\n 5 hours 15 minutes  Kottayam @ 05:20 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kottayam",
+    "raw": "KSRTC\nVelankanni  Changanassery\nSuper Deluxe Air Bus\n 5 hours 15 minutes  Kottayam @ 05:20 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kottayam",
+    "raw": "KSRTC\nVelankanni  Changanassery\nSuper Deluxe Air Bus\n 5 hours 15 minutes  Kottayam @ 05:20 am"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kottayam",
+    "raw": "KSRTC\nBangalore  Pathanamthitta\nAc Seater\n 4 hours 55 minutes  Kottayam @ 05:30 am\n12:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kottayam",
+    "raw": "KSRTC\nBangalore  Pathanamthitta\nAc Seater\n 4 hours 55 minutes  Kottayam @ 05:30 am\n12:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kottayam",
+    "raw": "KSRTC\nBangalore  Pathanamthitta\nAc Seater\n 4 hours 55 minutes  Kottayam @ 05:30 am"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kottayam",
+    "raw": "KSRTC\nBangalore  Trivandrum\nAc Sleeper Multi Axle Volvo Slx\n 3 hours 55 minutes  Kottayam @ 04:40 am\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kottayam",
+    "raw": "KSRTC\nBangalore  Trivandrum\nAc Sleeper Multi Axle Volvo Slx\n 3 hours 55 minutes  Kottayam @ 04:40 am\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kottayam",
+    "raw": "KSRTC\nBangalore  Trivandrum\nAc Sleeper Multi Axle Volvo Slx\n 3 hours 55 minutes  Kottayam @ 04:40 am"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kottayam",
+    "raw": "KARNATAKA RTC\nBangalore Peenya  Kottayam\nAmbaari Utsav (ac Sleeper)\n01:25 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kottayam",
+    "raw": "KARNATAKA RTC\nBangalore Peenya  Kottayam\nAmbaari Utsav (ac Sleeper)\n01:25 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kottayam",
+    "raw": "KARNATAKA RTC\nBangalore Peenya  Kottayam\nAmbaari Utsav (ac Sleeper)"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kottayam",
+    "raw": "KSRTC\nBangalore  Trivandrum\nAc Seater Volvo Multi Axle\n 4 hours  Kottayam @ 05:51 am\n01:51 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kottayam",
+    "raw": "KSRTC\nBangalore  Trivandrum\nAc Seater Volvo Multi Axle\n 4 hours  Kottayam @ 05:51 am\n01:51 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nBangalore  Thiruvalla\nGaruda Premium A/c\n02:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nBangalore  Thiruvalla\nGaruda Premium A/c\n02:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nBangalore  Thiruvalla\nGaruda Premium A/c"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nBangalore  Kollam\nSuper Deluxe Air Bus\n02:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nBangalore  Kollam\nSuper Deluxe Air Bus\n02:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nBangalore  Kollam\nSuper Deluxe Air Bus"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPalakkad  Trivandrum\nPremium Superfast\n 5 hours 5 minutes  Alappuzha @ 08:05 am\n03:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPalakkad  Trivandrum\nPremium Superfast\n 5 hours 5 minutes  Alappuzha @ 08:05 am\n03:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPalakkad  Trivandrum\nPremium Superfast\n 5 hours 5 minutes  Alappuzha @ 08:05 am"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPalakkad  Trivandrum\nSuper Fast\n 5 hours 5 minutes  Alappuzha @ 09:35 am\n04:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPalakkad  Trivandrum\nSuper Fast\n 5 hours 5 minutes  Alappuzha @ 09:35 am\n04:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPalakkad  Trivandrum\nSuper Fast\n 5 hours 5 minutes  Alappuzha @ 09:35 am"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPalakkad  Chengannur\nSuper Fast\n 5 hours 45 minutes  Alappuzha @ 10:45 am\n05:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPalakkad  Chengannur\nSuper Fast\n 5 hours 45 minutes  Alappuzha @ 10:45 am\n05:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nThiruppur  Ernakulam\nLimited Stop Fast Passenger\n12:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nThiruppur  Ernakulam\nLimited Stop Fast Passenger\n12:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nThiruppur  Ernakulam\nLimited Stop Fast Passenger"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nTiruppur  Ernakulam\nFast Passenger\n 3 hours 45 minutes  Ernakulam @ 04:45 am\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nTiruppur  Ernakulam\nFast Passenger\n 3 hours 45 minutes  Ernakulam @ 04:45 am\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nTiruppur  Ernakulam\nFast Passenger\n 3 hours 45 minutes  Ernakulam @ 04:45 am"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nBangalore  Thiruvalla\nGaruda Premium A/c\n02:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nBangalore  Thiruvalla\nGaruda Premium A/c\n02:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nBangalore  Thiruvalla\nGaruda Premium A/c"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nBangalore  Kollam\n This bus goes from Palakkad to Vytilla Hub\nSuper Deluxe Air Bus\n02:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nBangalore  Kollam\n This bus goes from Palakkad to Vytilla Hub\nSuper Deluxe Air Bus\n02:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nBangalore  Kollam\n This bus goes from Palakkad to Vytilla Hub\nSuper Deluxe Air Bus"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nPalakkad  Trivandrum\nPremium Superfast\n 3 hours 29 minutes  Ernakulam @ 06:29 am\n03:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nPalakkad  Subramanya\n This bus goes from Palakkad to Kasargode\nSuper Deluxe Air Bus\n 7 hours 55 minutes  Kasargode @ 02:55 am\n07:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nPalakkad  Subramanya\n This bus goes from Palakkad to Kasargode\nSuper Deluxe Air Bus\n 7 hours 55 minutes  Kasargode @ 02:55 am\n07:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nPalakkad  Subramanya\n This bus goes from Palakkad to Kasargode\nSuper Deluxe Air Bus\n 7 hours 55 minutes  Kasargode @ 02:55 am"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nPalakkad  Kollur\n This bus goes from Palakkad to Kasargode\nMinnal Deluxe\n 7 hours 5 minutes  Kasargode @ 03:05 am\n08:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nPalakkad  Kollur\n This bus goes from Palakkad to Kasargode\nMinnal Deluxe\n 7 hours 5 minutes  Kasargode @ 03:05 am\n08:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nPalakkad  Kollur\n This bus goes from Palakkad to Kasargode\nMinnal Deluxe\n 7 hours 5 minutes  Kasargode @ 03:05 am"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nCoimbatore  Kasargode\n This bus goes from Palakkad to Kasargode\nSuper Deluxe Air Bus\n 7 hours 15 minutes  Kasargode @ 06:00 am\n10:45 pm\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nCoimbatore  Kasargode\n This bus goes from Palakkad to Kasargode\nSuper Deluxe Air Bus\n 7 hours 15 minutes  Kasargode @ 06:00 am\n10:45 pm\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nCoimbatore  Kasargode\n This bus goes from Palakkad to Kasargode\nSuper Deluxe Air Bus\n 7 hours 15 minutes  Kasargode @ 06:00 am"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Malappuram",
+    "raw": "KSRTC\nPalakkad  Thalassery\nTown To Town Ordinary\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Malappuram",
+    "raw": "KSRTC\nPalakkad  Thalassery\nTown To Town Ordinary\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Malappuram",
+    "raw": "KSRTC\nPalakkad  Thalassery\nTown To Town Ordinary"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Malappuram",
+    "raw": "KSRTC\nPalakkad  Kozhikkode\nTown To Town Ordinary\n02:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Malappuram",
+    "raw": "KSRTC\nPalakkad  Kozhikkode\nTown To Town Ordinary\n02:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Malappuram",
+    "raw": "KSRTC\nPalakkad  Kozhikkode\nTown To Town Ordinary"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Malappuram",
+    "raw": "KSRTC\nPondicherry  Kannur\nSuper Deluxe Air Bus\n02:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Malappuram",
+    "raw": "KSRTC\nPondicherry  Kannur\nSuper Deluxe Air Bus\n02:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Malappuram",
+    "raw": "KSRTC\nPondicherry  Kannur\nSuper Deluxe Air Bus"
+  },
+  {
+    "from": "Palakkad",
+    "to": "Malappuram",
+    "raw": "KSRTC\nPalakkad  Kozhikkode\nTown To Town Ordinary\n03:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kochi",
+    "raw": "KSRTC\nTrivandrum  Ottapalam\nPremium Superfast\n 2 hours 1 minutes  Ernakulam @ 03:46 am\n01:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kochi",
+    "raw": "KSRTC\nTrivandrum  Ottapalam\nPremium Superfast\n 2 hours 1 minutes  Ernakulam @ 03:46 am\n01:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kochi",
+    "raw": "KSRTC\nTrivandrum  Ottapalam\nPremium Superfast\n 2 hours 1 minutes  Ernakulam @ 03:46 am"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kochi",
+    "raw": "KSRTC\nKottayam  Ernakulam\nLimited Stop Ordinary\n04:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kochi",
+    "raw": "KSRTC\nKottayam  Ernakulam\nLimited Stop Ordinary\n04:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kochi",
+    "raw": "KSRTC\nKottayam  Ernakulam\nLimited Stop Ordinary"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kochi",
+    "raw": "KSRTC\nKottayam  Ernakulam\nFast Passenger\n05:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kochi",
+    "raw": "KSRTC\nKottayam  Ernakulam\nFast Passenger\n05:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kochi",
+    "raw": "KSRTC\nKottayam  Ernakulam\nFast Passenger"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kochi",
+    "raw": "KSRTC\nKottayam  Ernakulam\nFast Passenger\n05:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kochi",
+    "raw": "KSRTC\nKottayam  Ernakulam\nFast Passenger\n05:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kochi",
+    "raw": "KSRTC\nKottayam  Ernakulam\nFast Passenger"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nMinnal Deluxe\n 2 hours 35 minutes  Thrissur @ 02:55 am\n12:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nMinnal Deluxe\n 2 hours 35 minutes  Thrissur @ 02:55 am\n12:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nMinnal Deluxe\n 2 hours 35 minutes  Thrissur @ 02:55 am"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Kozhikode\nSuper Deluxe Air Bus\n12:32 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Kozhikode\nSuper Deluxe Air Bus\n12:32 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Kozhikode\nSuper Deluxe Air Bus"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Perinthalmanna\nPremium Superfast\n 3 hours 25 minutes  Thrissur @ 04:10 am\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Perinthalmanna\nPremium Superfast\n 3 hours 25 minutes  Thrissur @ 04:10 am\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Perinthalmanna\nPremium Superfast\n 3 hours 25 minutes  Thrissur @ 04:10 am"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Kozhikode\nLow Floor Ac\n 3 hours 5 minutes  Thrissur @ 04:33 am\n01:28 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nThrissur  Trivandrum\nSuper Fast\n 3 hours 30 minutes  Trivandrum @ 03:35 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nThrissur  Trivandrum\nSuper Fast\n 3 hours 30 minutes  Trivandrum @ 03:35 am\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nThrissur  Trivandrum\nSuper Fast\n 3 hours 30 minutes  Trivandrum @ 03:35 am"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKozhikode  Pappanamcode\nLow Floor Ac\n 3 hours 20 minutes  Trivandrum @ 03:45 am\n12:25 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKozhikode  Pappanamcode\nLow Floor Ac\n 3 hours 20 minutes  Trivandrum @ 03:45 am\n12:25 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKozhikode  Pappanamcode\nLow Floor Ac\n 3 hours 20 minutes  Trivandrum @ 03:45 am"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nPalakkad  Nedumangad\nSuper Fast\n 3 hours 40 minutes  Trivandrum @ 04:35 am\n12:55 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nPalakkad  Nedumangad\nSuper Fast\n 3 hours 40 minutes  Trivandrum @ 04:35 am\n12:55 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nPalakkad  Nedumangad\nSuper Fast\n 3 hours 40 minutes  Trivandrum @ 04:35 am"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nNedumkandam  Trivandrum\nFast Passenger\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kannur",
+    "raw": "KSRTC\nTrivandrum  Kannur\nPremium Superfast\n01:47 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kannur",
+    "raw": "KSRTC\nTrivandrum  Kannur\nPremium Superfast\n01:47 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kannur",
+    "raw": "KSRTC\nTrivandrum  Kannur\nPremium Superfast"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kannur",
+    "raw": "KSRTC.\nKottayam  Payyannur\nSuper Fast\n06:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kannur",
+    "raw": "KSRTC.\nKottayam  Payyannur\nSuper Fast\n06:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kannur",
+    "raw": "KSRTC.\nKottayam  Payyannur\nSuper Fast"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kannur",
+    "raw": "KSRTC\nChanganassery  Kannur\nPremium Superfast\n 9 hours 10 minutes  Kannur @ 04:20 pm\n07:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kannur",
+    "raw": "KSRTC\nChanganassery  Kannur\nPremium Superfast\n 9 hours 10 minutes  Kannur @ 04:20 pm\n07:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kannur",
+    "raw": "KSRTC\nChanganassery  Kannur\nPremium Superfast\n 9 hours 10 minutes  Kannur @ 04:20 pm"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kannur",
+    "raw": "KSRTC\nPonkunnam  Kannur\nSuper Fast\n 9 hours 35 minutes  Kannur @ 11:55 pm\n02:20 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kannur",
+    "raw": "KSRTC\nPonkunnam  Kannur\nSuper Fast\n 9 hours 35 minutes  Kannur @ 11:55 pm\n02:20 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kannur",
+    "raw": "KSRTC\nPonkunnam  Kannur\nSuper Fast\n 9 hours 35 minutes  Kannur @ 11:55 pm"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kannur",
+    "raw": "KSRTC.\nKottayam  Kasaragod\nSuper Fast\n03:30 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kannur",
+    "raw": "KSRTC.\nKottayam  Kasaragod\nSuper Fast\n03:30 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKottayam  Alappuzha\nOrdinary\n06:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKottayam  Alappuzha\nOrdinary\n06:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKottayam  Alappuzha\nOrdinary"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKottayam  Alappuzha\nOrdinary\n06:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKottayam  Alappuzha\nOrdinary\n06:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKottayam  Alappuzha\nOrdinary"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKottayam  Alappuzha\nOrdinary\n06:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKottayam  Alappuzha\nOrdinary\n06:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKottayam  Alappuzha\nOrdinary"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKottayam  Alappuzha\nFast Passenger\n06:50 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKottayam  Alappuzha\nFast Passenger\n06:50 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKottayam  Alappuzha\nFast Passenger"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKottayam  Alappuzha\nOrdinary\n07:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKottayam  Alappuzha\nOrdinary\n07:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nTrivandrum  Ottapalam\nPremium Superfast\n 2 hours 1 minutes  Ernakulam @ 03:46 am\n01:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nTrivandrum  Ottapalam\nPremium Superfast\n 2 hours 1 minutes  Ernakulam @ 03:46 am\n01:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nTrivandrum  Ottapalam\nPremium Superfast\n 2 hours 1 minutes  Ernakulam @ 03:46 am"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKottayam  Ernakulam\nLimited Stop Ordinary\n04:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKottayam  Ernakulam\nLimited Stop Ordinary\n04:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKottayam  Ernakulam\nLimited Stop Ordinary"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKottayam  Ernakulam\nFast Passenger\n05:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKottayam  Ernakulam\nFast Passenger\n05:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKottayam  Ernakulam\nFast Passenger"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKottayam  Ernakulam\nFast Passenger\n05:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKottayam  Ernakulam\nFast Passenger\n05:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kasaragod",
+    "raw": "KSRTC.\nKottayam  Kasaragod\nSuper Fast\n03:30 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kasaragod",
+    "raw": "KSRTC.\nKottayam  Kasaragod\nSuper Fast\n03:30 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kasaragod",
+    "raw": "KSRTC.\nKottayam  Kasaragod\nSuper Fast"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nKottayam  Kasargode\n This bus goes from Kottayam to Kasargode\nPremium Superfast\n 11 hours 10 minutes  Kasargode @ 02:55 am\n03:45 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nKottayam  Kasargode\n This bus goes from Kottayam to Kasargode\nPremium Superfast\n 11 hours 10 minutes  Kasargode @ 02:55 am\n03:45 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nKottayam  Kasargode\n This bus goes from Kottayam to Kasargode\nPremium Superfast\n 11 hours 10 minutes  Kasargode @ 02:55 am"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nKottayam  Kasargode\n This bus goes from Kottayam to Kasargode\nSuper Fast\n 11 hours 50 minutes  Kasargode @ 03:45 am\n03:55 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nKottayam  Kasargode\n This bus goes from Kottayam to Kasargode\nSuper Fast\n 11 hours 50 minutes  Kasargode @ 03:45 am\n03:55 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nKottayam  Kasargode\n This bus goes from Kottayam to Kasargode\nSuper Fast\n 11 hours 50 minutes  Kasargode @ 03:45 am"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 6 hours 20 minutes  Malappuram @ 06:50 pm\n12:30 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 6 hours 20 minutes  Malappuram @ 06:50 pm\n12:30 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kottayam",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 6 hours 20 minutes  Malappuram @ 06:50 pm"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kochi",
+    "raw": "KSRTC\nAttukal  Guruvayoor\nSuper Fast\n 1 hours 25 minutes  Ernakulam @ 01:35 am\n12:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kochi",
+    "raw": "KSRTC\nAttukal  Guruvayoor\nSuper Fast\n 1 hours 25 minutes  Ernakulam @ 01:35 am\n12:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kochi",
+    "raw": "KSRTC\nAttukal  Guruvayoor\nSuper Fast\n 1 hours 25 minutes  Ernakulam @ 01:35 am"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kochi",
+    "raw": "KSRTC\nTrivandrum  Nilambur\n This bus goes from Alappuzha to Vytilla Hub\nSuper Deluxe Air Bus\n 1 hours 15 minutes  Vytilla-hub @ 01:30 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kochi",
+    "raw": "KSRTC\nTrivandrum  Nilambur\n This bus goes from Alappuzha to Vytilla Hub\nSuper Deluxe Air Bus\n 1 hours 15 minutes  Vytilla-hub @ 01:30 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kochi",
+    "raw": "KSRTC\nTrivandrum  Nilambur\n This bus goes from Alappuzha to Vytilla Hub\nSuper Deluxe Air Bus\n 1 hours 15 minutes  Vytilla-hub @ 01:30 am"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kochi",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 1 hours 25 minutes  Ernakulam @ 01:40 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kochi",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 1 hours 25 minutes  Ernakulam @ 01:40 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kochi",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 1 hours 25 minutes  Ernakulam @ 01:40 am"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Thrissur",
+    "raw": "KSRTC\nAttukal  Guruvayoor\nSuper Fast\n 3 hours 15 minutes  Thrissur @ 03:25 am\n12:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Thrissur",
+    "raw": "KSRTC\nAttukal  Guruvayoor\nSuper Fast\n 3 hours 15 minutes  Thrissur @ 03:25 am\n12:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Thrissur",
+    "raw": "KSRTC\nAttukal  Guruvayoor\nSuper Fast\n 3 hours 15 minutes  Thrissur @ 03:25 am"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Nilambur\nSuper Deluxe Air Bus\n 3 hours 10 minutes  Thrissur @ 03:25 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Nilambur\nSuper Deluxe Air Bus\n 3 hours 10 minutes  Thrissur @ 03:25 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Nilambur\nSuper Deluxe Air Bus\n 3 hours 10 minutes  Thrissur @ 03:25 am"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 3 hours 15 minutes  Thrissur @ 03:30 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 3 hours 15 minutes  Thrissur @ 03:30 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 3 hours 15 minutes  Thrissur @ 03:30 am"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Perinthalmanna\nSuper Fast\n12:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Sultan Bathery\n This bus goes from Alappuzha to Kozhikode\nSuper Deluxe Air Bus\n 5 hours 55 minutes  Kozhikode @ 07:00 am\n01:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Sultan Bathery\n This bus goes from Alappuzha to Kozhikode\nSuper Deluxe Air Bus\n 5 hours 55 minutes  Kozhikode @ 07:00 am\n01:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Sultan Bathery\n This bus goes from Alappuzha to Kozhikode\nSuper Deluxe Air Bus\n 5 hours 55 minutes  Kozhikode @ 07:00 am"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Kozhikode\n This bus goes from Alappuzha to Kozhikode\nPremium Superfast\n01:51 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Kozhikode\n This bus goes from Alappuzha to Kozhikode\nPremium Superfast\n01:51 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Kozhikode\n This bus goes from Alappuzha to Kozhikode\nPremium Superfast"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Kozhikode\n This bus goes from Alappuzha to Kozhikode\nMinnal Deluxe\n 4 hours 50 minutes  Kozhikode @ 07:25 am\n02:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Kozhikode\n This bus goes from Alappuzha to Kozhikode\nMinnal Deluxe\n 4 hours 50 minutes  Kozhikode @ 07:25 am\n02:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Kozhikode\n This bus goes from Alappuzha to Kozhikode\nMinnal Deluxe\n 4 hours 50 minutes  Kozhikode @ 07:25 am"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nPonnani  Trivandrum\nPremium Superfast\n12:25 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nPonnani  Trivandrum\nPremium Superfast\n12:25 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nPonnani  Trivandrum\nPremium Superfast"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nSultan Bathery  Trivandrum\nPremium Superfast\n 3 hours 40 minutes  Trivandrum @ 04:10 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nSultan Bathery  Trivandrum\nPremium Superfast\n 3 hours 40 minutes  Trivandrum @ 04:10 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nSultan Bathery  Trivandrum\nPremium Superfast\n 3 hours 40 minutes  Trivandrum @ 04:10 am"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nPonnani  Trivandrum\nSuper Fast\n12:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nPonnani  Trivandrum\nSuper Fast\n12:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nPonnani  Trivandrum\nSuper Fast"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nNilambur  Trivandrum\nSuper Deluxe Air Bus\n 3 hours 5 minutes  Trivandrum @ 04:00 am\n12:55 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kannur",
+    "raw": "KSRTC\nTrivandrum  Kannur\nPremium Superfast\n 9 hours 20 minutes  Kannur @ 09:00 pm\n11:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kannur",
+    "raw": "KSRTC\nTrivandrum  Kannur\nPremium Superfast\n 9 hours 20 minutes  Kannur @ 09:00 pm\n11:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kannur",
+    "raw": "KSRTC\nTrivandrum  Kannur\nPremium Superfast\n 9 hours 20 minutes  Kannur @ 09:00 pm"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kannur",
+    "raw": "KSRTC\nThiruvananthapuram  Kannur\nSuper Fast\n12:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kannur",
+    "raw": "KSRTC\nThiruvananthapuram  Kannur\nSuper Fast\n12:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kannur",
+    "raw": "KSRTC\nThiruvananthapuram  Kannur\nSuper Fast"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kannur",
+    "raw": "KSRTC\nAdoor  Udayagiri\nSuper Fast\n 9 hours 15 minutes  Kannur @ 02:10 am\n04:55 pm\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kannur",
+    "raw": "KSRTC\nAdoor  Udayagiri\nSuper Fast\n 9 hours 15 minutes  Kannur @ 02:10 am\n04:55 pm\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kannur",
+    "raw": "KSRTC\nAdoor  Udayagiri\nSuper Fast\n 9 hours 15 minutes  Kannur @ 02:10 am"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kannur",
+    "raw": "KSRTC\nAlappuzha  Kollur\nSuper Deluxe Air Bus\n 9 hours 15 minutes  Kannur @ 02:45 am\n05:30 pm\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nPremium Superfast\n 5 hours 5 minutes  Palakkad @ 06:00 am\n12:55 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nPremium Superfast\n 5 hours 5 minutes  Palakkad @ 06:00 am\n12:55 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nPremium Superfast\n 5 hours 5 minutes  Palakkad @ 06:00 am"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKanyakumari  Palakkad\nMinnal Deluxe\n 4 hours 5 minutes  Palakkad @ 05:15 am\n01:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKanyakumari  Palakkad\nMinnal Deluxe\n 4 hours 5 minutes  Palakkad @ 05:15 am\n01:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKanyakumari  Palakkad\nMinnal Deluxe\n 4 hours 5 minutes  Palakkad @ 05:15 am"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Coimbatore\nSuper Deluxe Air Bus\n 4 hours 10 minutes  Palakkad @ 06:35 am\n02:25 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Coimbatore\nSuper Deluxe Air Bus\n 4 hours 10 minutes  Palakkad @ 06:35 am\n02:25 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Coimbatore\nSuper Deluxe Air Bus\n 4 hours 10 minutes  Palakkad @ 06:35 am"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nSuper Fast\n 5 hours 5 minutes  Palakkad @ 07:35 am\n02:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nSuper Fast\n 5 hours 5 minutes  Palakkad @ 07:35 am\n02:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nSuper Fast\n 5 hours 5 minutes  Palakkad @ 07:35 am"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nSuper Fast\n 5 hours 25 minutes  Palakkad @ 09:40 am\n04:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Palakkad",
+    "raw": "KSRTC\nTrivandrum  Palakkad\nSuper Fast\n 5 hours 25 minutes  Palakkad @ 09:40 am\n04:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kottayam",
+    "raw": "KSRTC\nAlappuzha  Kottayam\nOrdinary\n05:55 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kottayam",
+    "raw": "KSRTC\nAlappuzha  Kottayam\nOrdinary\n05:55 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kottayam",
+    "raw": "KSRTC\nAlappuzha  Kottayam\nOrdinary"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kottayam",
+    "raw": "KSRTC\nAlappuzha  Kottayam\nOrdinary\n06:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kottayam",
+    "raw": "KSRTC\nAlappuzha  Kottayam\nOrdinary\n06:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kottayam",
+    "raw": "KSRTC\nAlappuzha  Kottayam\nOrdinary"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kottayam",
+    "raw": "KSRTC\nAlappuzha  Kottayam\nFast Passenger\n07:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kottayam",
+    "raw": "KSRTC\nAlappuzha  Kottayam\nFast Passenger\n07:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kottayam",
+    "raw": "KSRTC\nAlappuzha  Kottayam\nFast Passenger"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kottayam",
+    "raw": "KSRTC\nAlappuzha  Kottayam\nFast Passenger\n07:50 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kottayam",
+    "raw": "KSRTC\nAlappuzha  Kottayam\nFast Passenger\n07:50 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kottayam",
+    "raw": "KSRTC\nAlappuzha  Kottayam\nFast Passenger"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kottayam",
+    "raw": "KSRTC\nAlappuzha  Kumily\nLimited Stop Ordinary\n07:55 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kottayam",
+    "raw": "KSRTC\nAlappuzha  Kumily\nLimited Stop Ordinary\n07:55 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nAttukal  Guruvayoor\nSuper Fast\n 1 hours 25 minutes  Ernakulam @ 01:35 am\n12:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nAttukal  Guruvayoor\nSuper Fast\n 1 hours 25 minutes  Ernakulam @ 01:35 am\n12:10 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nAttukal  Guruvayoor\nSuper Fast\n 1 hours 25 minutes  Ernakulam @ 01:35 am"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nTrivandrum  Nilambur\n This bus goes from Alappuzha to Vytilla Hub\nSuper Deluxe Air Bus\n 1 hours 15 minutes  Vytilla-hub @ 01:30 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nTrivandrum  Nilambur\n This bus goes from Alappuzha to Vytilla Hub\nSuper Deluxe Air Bus\n 1 hours 15 minutes  Vytilla-hub @ 01:30 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nTrivandrum  Nilambur\n This bus goes from Alappuzha to Vytilla Hub\nSuper Deluxe Air Bus\n 1 hours 15 minutes  Vytilla-hub @ 01:30 am"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 1 hours 25 minutes  Ernakulam @ 01:40 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 1 hours 25 minutes  Ernakulam @ 01:40 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 1 hours 25 minutes  Ernakulam @ 01:40 am"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nAlappuzha  Kollur\n This bus goes from Alappuzha to Kasargode\nSuper Deluxe Air Bus\n 11 hours 15 minutes  Kasargode @ 04:45 am\n05:30 pm\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nAlappuzha  Kollur\n This bus goes from Alappuzha to Kasargode\nSuper Deluxe Air Bus\n 11 hours 15 minutes  Kasargode @ 04:45 am\n05:30 pm\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nAlappuzha  Kollur\n This bus goes from Alappuzha to Kasargode\nSuper Deluxe Air Bus\n 11 hours 15 minutes  Kasargode @ 04:45 am"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nTrivandrum  Kollur\n This bus goes from Alappuzha to Kasargode\nAc Seater Volvo Multi Axle\n 10 hours 10 minutes  Kasargode @ 03:55 am\n05:45 pm\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nTrivandrum  Kollur\n This bus goes from Alappuzha to Kasargode\nAc Seater Volvo Multi Axle\n 10 hours 10 minutes  Kasargode @ 03:55 am\n05:45 pm\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nTrivandrum  Kollur\n This bus goes from Alappuzha to Kasargode\nAc Seater Volvo Multi Axle\n 10 hours 10 minutes  Kasargode @ 03:55 am"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kasaragod",
+    "raw": "KSRTC.\nThiruvananthapuram  Mangalore\nGaruda Maharaja Scania\n07:10 pm\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kasaragod",
+    "raw": "KSRTC.\nThiruvananthapuram  Mangalore\nGaruda Maharaja Scania\n07:10 pm\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kasaragod",
+    "raw": "KSRTC.\nThiruvananthapuram  Mangalore\nGaruda Maharaja Scania"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 5 hours 45 minutes  Malappuram @ 06:00 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 5 hours 45 minutes  Malappuram @ 06:00 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 5 hours 45 minutes  Malappuram @ 06:00 am"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 6 hours 35 minutes  Malappuram @ 04:35 pm\n10:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 6 hours 35 minutes  Malappuram @ 04:35 pm\n10:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 6 hours 35 minutes  Malappuram @ 04:35 pm"
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 6 hours 45 minutes  Malappuram @ 07:20 pm\n12:35 pm\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Nilambur\nSuper Fast\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Nilambur\nSuper Fast\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Nilambur\nSuper Fast"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Mysore\nAc Multi Axle\n 1 hours 36 minutes  Thrissur @ 01:55 am\n12:19 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Mysore\nAc Multi Axle\n 1 hours 36 minutes  Thrissur @ 01:55 am\n12:19 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Mysore\nAc Multi Axle\n 1 hours 36 minutes  Thrissur @ 01:55 am"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Thalassery\nSuper Deluxe Air Bus\n 2 hours  Thrissur @ 02:25 am\n12:25 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Thalassery\nSuper Deluxe Air Bus\n 2 hours  Thrissur @ 02:25 am\n12:25 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Thalassery\nSuper Deluxe Air Bus\n 2 hours  Thrissur @ 02:25 am"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Thrissur",
+    "raw": "KSRTC\nTrivandrum  Ponnani\nSuper Fast\n 1 hours 50 minutes  Thrissur @ 02:15 am\n12:25 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Mananthavady\n This bus goes from Ernakulam to Kozhikode\nSuper Deluxe Air Bus\n 3 hours 55 minutes  Kozhikode @ 04:10 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Mananthavady\n This bus goes from Ernakulam to Kozhikode\nSuper Deluxe Air Bus\n 3 hours 55 minutes  Kozhikode @ 04:10 am\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Mananthavady\n This bus goes from Ernakulam to Kozhikode\nSuper Deluxe Air Bus\n 3 hours 55 minutes  Kozhikode @ 04:10 am"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Mysore\n This bus goes from Ernakulam to Kozhikode\nAc Multi Axle\n 4 hours 1 minutes  Kozhikode @ 04:20 am\n12:19 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Mysore\n This bus goes from Ernakulam to Kozhikode\nAc Multi Axle\n 4 hours 1 minutes  Kozhikode @ 04:20 am\n12:19 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Mysore\n This bus goes from Ernakulam to Kozhikode\nAc Multi Axle\n 4 hours 1 minutes  Kozhikode @ 04:20 am"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Thalassery\n This bus goes from Ernakulam to Kozhikode\nSuper Deluxe Air Bus\n 4 hours 40 minutes  Kozhikode @ 05:05 am\n12:25 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Thalassery\n This bus goes from Ernakulam to Kozhikode\nSuper Deluxe Air Bus\n 4 hours 40 minutes  Kozhikode @ 05:05 am\n12:25 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Thalassery\n This bus goes from Ernakulam to Kozhikode\nSuper Deluxe Air Bus\n 4 hours 40 minutes  Kozhikode @ 05:05 am"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Kannur\n This bus goes from Ernakulam to Kozhikode\nMinnal Deluxe\n 3 hours 55 minutes  Kozhikode @ 04:40 am\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Kannur\n This bus goes from Ernakulam to Kozhikode\nMinnal Deluxe\n 3 hours 55 minutes  Kozhikode @ 04:40 am\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Calicut",
+    "raw": "KSRTC\nTrivandrum  Kannur\n This bus goes from Ernakulam to Kozhikode\nMinnal Deluxe\n 3 hours 55 minutes  Kozhikode @ 04:40 am"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nPalakkad  Trivandrum\nSuper Fast\n12:01 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nPalakkad  Trivandrum\nSuper Fast\n12:01 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nPalakkad  Trivandrum\nSuper Fast"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nPayyanur  Trivandrum\n This bus goes from Vytilla Hub to Trivandrum\nSuper Deluxe Air Bus\n12:14 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nPayyanur  Trivandrum\n This bus goes from Vytilla Hub to Trivandrum\nSuper Deluxe Air Bus\n12:14 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nPayyanur  Trivandrum\n This bus goes from Vytilla Hub to Trivandrum\nSuper Deluxe Air Bus"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nOttapalam  Trivandrum\nPremium Superfast\n 5 hours 51 minutes  Trivandrum @ 06:05 am\n12:14 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nOttapalam  Trivandrum\nPremium Superfast\n 5 hours 51 minutes  Trivandrum @ 06:05 am\n12:14 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nOttapalam  Trivandrum\nPremium Superfast\n 5 hours 51 minutes  Trivandrum @ 06:05 am"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kannur",
+    "raw": "KSRTC\nTrivandrum  Kannur\nMinnal Deluxe\n 5 hours 30 minutes  Kannur @ 06:15 am\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kannur",
+    "raw": "KSRTC\nTrivandrum  Kannur\nMinnal Deluxe\n 5 hours 30 minutes  Kannur @ 06:15 am\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kannur",
+    "raw": "KSRTC\nTrivandrum  Kannur\nMinnal Deluxe\n 5 hours 30 minutes  Kannur @ 06:15 am"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kannur",
+    "raw": "KSRTC\nErnakulam  Kannur\nFast Passenger\n 8 hours 30 minutes  Kannur @ 08:10 pm\n11:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kannur",
+    "raw": "KSRTC\nErnakulam  Kannur\nFast Passenger\n 8 hours 30 minutes  Kannur @ 08:10 pm\n11:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kannur",
+    "raw": "KSRTC\nErnakulam  Kannur\nFast Passenger\n 8 hours 30 minutes  Kannur @ 08:10 pm"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kannur",
+    "raw": "KSRTC\nErnakulam  Kannur\nFast Passenger\n11:41 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kannur",
+    "raw": "KSRTC\nErnakulam  Kannur\nFast Passenger\n11:41 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kannur",
+    "raw": "KSRTC\nErnakulam  Kannur\nFast Passenger"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kannur",
+    "raw": "KSRTC\nTrivandrum  Kannur\nPremium Superfast\n 7 hours 26 minutes  Kannur @ 09:00 pm\n01:34 pm\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kottayam",
+    "raw": "KSRTC\nOttapalam  Trivandrum\nPremium Superfast\n 2 hours 21 minutes  Kottayam @ 02:35 am\n12:14 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kottayam",
+    "raw": "KSRTC\nOttapalam  Trivandrum\nPremium Superfast\n 2 hours 21 minutes  Kottayam @ 02:35 am\n12:14 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kottayam",
+    "raw": "KSRTC\nOttapalam  Trivandrum\nPremium Superfast\n 2 hours 21 minutes  Kottayam @ 02:35 am"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kottayam",
+    "raw": "KSRTC\nErnakulam  Thiruvananthapuram\nFast Passenger\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kottayam",
+    "raw": "KSRTC\nErnakulam  Thiruvananthapuram\nFast Passenger\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kottayam",
+    "raw": "KSRTC\nErnakulam  Thiruvananthapuram\nFast Passenger"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kottayam",
+    "raw": "KSRTC\nMananthavady  Pathanamthitta\nSuper Deluxe Air Bus\n 1 hours 50 minutes  Kottayam @ 04:10 am\n02:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kottayam",
+    "raw": "KSRTC\nMananthavady  Pathanamthitta\nSuper Deluxe Air Bus\n 1 hours 50 minutes  Kottayam @ 04:10 am\n02:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kottayam",
+    "raw": "KSRTC\nMananthavady  Pathanamthitta\nSuper Deluxe Air Bus\n 1 hours 50 minutes  Kottayam @ 04:10 am"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kottayam",
+    "raw": "KSRTC\nKannur  Pathanapuram\nSuper Fast\n 1 hours 46 minutes  Kottayam @ 04:35 am\n02:49 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kottayam",
+    "raw": "KSRTC\nKannur  Pathanapuram\nSuper Fast\n 1 hours 46 minutes  Kottayam @ 04:35 am\n02:49 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kottayam",
+    "raw": "KSRTC\nKannur  Pathanapuram\nSuper Fast\n 1 hours 46 minutes  Kottayam @ 04:35 am"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kottayam",
+    "raw": "KSRTC\nErnakulam  Trivandrum\nSuper Fast\n 1 hours 55 minutes  Kottayam @ 04:45 am\n02:50 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kottayam",
+    "raw": "KSRTC\nErnakulam  Trivandrum\nSuper Fast\n 1 hours 55 minutes  Kottayam @ 04:45 am\n02:50 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPalakkad  Trivandrum\nSuper Fast\n12:01 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPalakkad  Trivandrum\nSuper Fast\n12:01 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPalakkad  Trivandrum\nSuper Fast"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPayyanur  Trivandrum\n This bus goes from Vytilla Hub to Alappuzha\nSuper Deluxe Air Bus\n12:14 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPayyanur  Trivandrum\n This bus goes from Vytilla Hub to Alappuzha\nSuper Deluxe Air Bus\n12:14 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nPayyanur  Trivandrum\n This bus goes from Vytilla Hub to Alappuzha\nSuper Deluxe Air Bus"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKannur  Trivandrum\n This bus goes from Vytilla Hub to Alappuzha\nSuper Deluxe Air Bus\n 1 hours 16 minutes  Alappuzha @ 01:40 am\n12:24 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKannur  Trivandrum\n This bus goes from Vytilla Hub to Alappuzha\nSuper Deluxe Air Bus\n 1 hours 16 minutes  Alappuzha @ 01:40 am\n12:24 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKannur  Trivandrum\n This bus goes from Vytilla Hub to Alappuzha\nSuper Deluxe Air Bus\n 1 hours 16 minutes  Alappuzha @ 01:40 am"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nErnakulam  Mangalore\n This bus goes from Ernakulam to Kasargode\nSuper Deluxe Air Bus\n 9 hours 15 minutes  Kasargode @ 03:51 am\n06:36 pm\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nErnakulam  Mangalore\n This bus goes from Ernakulam to Kasargode\nSuper Deluxe Air Bus\n 9 hours 15 minutes  Kasargode @ 03:51 am\n06:36 pm\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nErnakulam  Mangalore\n This bus goes from Ernakulam to Kasargode\nSuper Deluxe Air Bus\n 9 hours 15 minutes  Kasargode @ 03:51 am"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nTrivandrum  Kollur\n This bus goes from Ernakulam to Kasargode\nAc Seater Volvo Multi Axle\n 8 hours 46 minutes  Kasargode @ 03:55 am\n07:09 pm\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nTrivandrum  Kollur\n This bus goes from Ernakulam to Kasargode\nAc Seater Volvo Multi Axle\n 8 hours 46 minutes  Kasargode @ 03:55 am\n07:09 pm\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nTrivandrum  Kollur\n This bus goes from Ernakulam to Kasargode\nAc Seater Volvo Multi Axle\n 8 hours 46 minutes  Kasargode @ 03:55 am"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nAlappuzha  Kollur\n This bus goes from Ernakulam to Kasargode\nSuper Deluxe Air Bus\n 9 hours 31 minutes  Kasargode @ 04:45 am\n07:14 pm\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nAlappuzha  Kollur\n This bus goes from Ernakulam to Kasargode\nSuper Deluxe Air Bus\n 9 hours 31 minutes  Kasargode @ 04:45 am\n07:14 pm\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nAlappuzha  Kollur\n This bus goes from Ernakulam to Kasargode\nSuper Deluxe Air Bus\n 9 hours 31 minutes  Kasargode @ 04:45 am"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 4 hours 20 minutes  Malappuram @ 06:00 am\n01:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 4 hours 20 minutes  Malappuram @ 06:00 am\n01:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 4 hours 20 minutes  Malappuram @ 06:00 am"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 4 hours 56 minutes  Malappuram @ 04:35 pm\n11:39 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 4 hours 56 minutes  Malappuram @ 04:35 pm\n11:39 am\n More...\nRoute"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Malappuram",
+    "raw": "KSRTC\nTrivandrum  Malappuram\nSuper Fast\n 4 hours 56 minutes  Malappuram @ 04:35 pm"
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Malappuram",
+    "raw": "KSRTC.\nErnakulam  Malappuram\nSuper Fast\n01:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kochi",
+    "raw": "KSRTC\nKollur  Alappuzha\n This bus goes from Kasargode to Ernakulam\nSuper Deluxe Air Bus\n 8 hours 50 minutes  Ernakulam @ 10:30 am\n01:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kochi",
+    "raw": "KSRTC\nKollur  Alappuzha\n This bus goes from Kasargode to Ernakulam\nSuper Deluxe Air Bus\n 8 hours 50 minutes  Ernakulam @ 10:30 am\n01:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kochi",
+    "raw": "KSRTC\nKollur  Alappuzha\n This bus goes from Kasargode to Ernakulam\nSuper Deluxe Air Bus\n 8 hours 50 minutes  Ernakulam @ 10:30 am"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kochi",
+    "raw": "KSRTC\nKollur  Trivandrum\n This bus goes from Kasargode to Ernakulam\nAc Seater Volvo Multi Axle\n 8 hours 41 minutes  Ernakulam @ 02:26 am\n05:45 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kochi",
+    "raw": "KSRTC\nKollur  Trivandrum\n This bus goes from Kasargode to Ernakulam\nAc Seater Volvo Multi Axle\n 8 hours 41 minutes  Ernakulam @ 02:26 am\n05:45 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kochi",
+    "raw": "KSRTC\nKollur  Trivandrum\n This bus goes from Kasargode to Ernakulam\nAc Seater Volvo Multi Axle\n 8 hours 41 minutes  Ernakulam @ 02:26 am"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kochi",
+    "raw": "KSRTC\nKasargode  Kottarakkara\n This bus goes from Kasargode to Ernakulam\nPremium Superfast\n 9 hours 30 minutes  Ernakulam @ 03:45 am\n06:15 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kochi",
+    "raw": "KSRTC\nKasargode  Kottarakkara\n This bus goes from Kasargode to Ernakulam\nPremium Superfast\n 9 hours 30 minutes  Ernakulam @ 03:45 am\n06:15 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kochi",
+    "raw": "KSRTC\nKasargode  Kottarakkara\n This bus goes from Kasargode to Ernakulam\nPremium Superfast\n 9 hours 30 minutes  Ernakulam @ 03:45 am"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Thrissur",
+    "raw": "KSRTC\nKasaragod  Thrissur\nLimited Stop Fast Passenger\n04:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Thrissur",
+    "raw": "KSRTC\nKasaragod  Thrissur\nLimited Stop Fast Passenger\n04:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Thrissur",
+    "raw": "KSRTC\nKasaragod  Thrissur\nLimited Stop Fast Passenger"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Thrissur",
+    "raw": "KSRTC\nKasargode  Thrissur\n This bus goes from Kasargode to Thrissur\nFast Passenger\n 9 hours 24 minutes  Thrissur @ 02:04 pm\n04:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Thrissur",
+    "raw": "KSRTC\nKasargode  Thrissur\n This bus goes from Kasargode to Thrissur\nFast Passenger\n 9 hours 24 minutes  Thrissur @ 02:04 pm\n04:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Thrissur",
+    "raw": "KSRTC\nKasargode  Thrissur\n This bus goes from Kasargode to Thrissur\nFast Passenger\n 9 hours 24 minutes  Thrissur @ 02:04 pm"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Thrissur",
+    "raw": "KSRTC\nKasargode  Kottayam\n This bus goes from Kasargode to Thrissur\nPremium Superfast\n 8 hours 20 minutes  Thrissur @ 01:20 am\n05:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Thrissur",
+    "raw": "KSRTC\nKasargode  Kottayam\n This bus goes from Kasargode to Thrissur\nPremium Superfast\n 8 hours 20 minutes  Thrissur @ 01:20 am\n05:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Thrissur",
+    "raw": "KSRTC\nKasargode  Kottayam\n This bus goes from Kasargode to Thrissur\nPremium Superfast\n 8 hours 20 minutes  Thrissur @ 01:20 am"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Calicut",
+    "raw": "KSRTC\nKollur  Alappuzha\n This bus goes from Kasargode to Kozhikode\nSuper Deluxe Air Bus\n 4 hours 20 minutes  Kozhikode @ 06:00 am\n01:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Calicut",
+    "raw": "KSRTC\nKollur  Alappuzha\n This bus goes from Kasargode to Kozhikode\nSuper Deluxe Air Bus\n 4 hours 20 minutes  Kozhikode @ 06:00 am\n01:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Calicut",
+    "raw": "KSRTC\nKollur  Alappuzha\n This bus goes from Kasargode to Kozhikode\nSuper Deluxe Air Bus\n 4 hours 20 minutes  Kozhikode @ 06:00 am"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Calicut",
+    "raw": "KSRTC\nKasaragod  Thrissur\nLimited Stop Fast Passenger\n04:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Calicut",
+    "raw": "KSRTC\nKasaragod  Thrissur\nLimited Stop Fast Passenger\n04:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Calicut",
+    "raw": "KSRTC\nKasaragod  Thrissur\nLimited Stop Fast Passenger"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Calicut",
+    "raw": "KSRTC\nKasargode  Thrissur\n This bus goes from Kasargode to Kozhikode\nFast Passenger\n 5 hours 34 minutes  Kozhikode @ 10:14 am\n04:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Calicut",
+    "raw": "KSRTC\nKasargode  Thrissur\n This bus goes from Kasargode to Kozhikode\nFast Passenger\n 5 hours 34 minutes  Kozhikode @ 10:14 am\n04:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Calicut",
+    "raw": "KSRTC\nKasargode  Thrissur\n This bus goes from Kasargode to Kozhikode\nFast Passenger\n 5 hours 34 minutes  Kozhikode @ 10:14 am"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKollur  Trivandrum\n This bus goes from Kasargode to Trivandrum\nAc Seater Volvo Multi Axle\n 12 hours 35 minutes  Trivandrum @ 06:20 am\n05:45 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKollur  Trivandrum\n This bus goes from Kasargode to Trivandrum\nAc Seater Volvo Multi Axle\n 12 hours 35 minutes  Trivandrum @ 06:20 am\n05:45 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nKollur  Trivandrum\n This bus goes from Kasargode to Trivandrum\nAc Seater Volvo Multi Axle\n 12 hours 35 minutes  Trivandrum @ 06:20 am"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Trivandrum",
+    "raw": "KSRTC.\nMangalore  Thiruvananthapuram\n This bus goes from Kasaragod to Thiruvananthapuram\nGaruda Maharaja Scania\n07:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Trivandrum",
+    "raw": "KSRTC.\nMangalore  Thiruvananthapuram\n This bus goes from Kasaragod to Thiruvananthapuram\nGaruda Maharaja Scania\n07:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Trivandrum",
+    "raw": "KSRTC.\nMangalore  Thiruvananthapuram\n This bus goes from Kasaragod to Thiruvananthapuram\nGaruda Maharaja Scania"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Trivandrum",
+    "raw": "KSRTC 06:15 pm Super DeluxeTrip cancelled\nSULLIA - THIRUVANANTHAPURAM\nRoute\n Know More..."
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Trivandrum",
+    "raw": "KSRTC 06:15 pm Super DeluxeTrip cancelled\nSULLIA - THIRUVANANTHAPURAM\nRoute\n Know More..."
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Trivandrum",
+    "raw": "KSRTC 06:15 pm Super DeluxeTrip cancelled"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kannur",
+    "raw": "KSRTC\nKollur  Alappuzha\n This bus goes from Kasargode to Kannur\nSuper Deluxe Air Bus\n 1 hours 50 minutes  Kannur @ 03:30 am\n01:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kannur",
+    "raw": "KSRTC\nKollur  Alappuzha\n This bus goes from Kasargode to Kannur\nSuper Deluxe Air Bus\n 1 hours 50 minutes  Kannur @ 03:30 am\n01:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kannur",
+    "raw": "KSRTC\nKollur  Alappuzha\n This bus goes from Kasargode to Kannur\nSuper Deluxe Air Bus\n 1 hours 50 minutes  Kannur @ 03:30 am"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kannur",
+    "raw": "KSRTC\nKasaragod  Thrissur\nLimited Stop Fast Passenger\n04:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kannur",
+    "raw": "KSRTC\nKasaragod  Thrissur\nLimited Stop Fast Passenger\n04:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kannur",
+    "raw": "KSRTC\nKasaragod  Thrissur\nLimited Stop Fast Passenger"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kannur",
+    "raw": "KSRTC\nKasargode  Thrissur\n This bus goes from Kasargode to Kannur\nFast Passenger\n 3 hours 9 minutes  Kannur @ 07:49 am\n04:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kannur",
+    "raw": "KSRTC\nKasargode  Thrissur\n This bus goes from Kasargode to Kannur\nFast Passenger\n 3 hours 9 minutes  Kannur @ 07:49 am\n04:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kannur",
+    "raw": "KSRTC\nKasargode  Thrissur\n This bus goes from Kasargode to Kannur\nFast Passenger\n 3 hours 9 minutes  Kannur @ 07:49 am"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKasargode  Coimbatore\n This bus goes from Kasargode to Palakkad\nSuper Deluxe Air Bus\n 7 hours 35 minutes  Palakkad @ 04:05 am\n08:30 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKasargode  Coimbatore\n This bus goes from Kasargode to Palakkad\nSuper Deluxe Air Bus\n 7 hours 35 minutes  Palakkad @ 04:05 am\n08:30 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKasargode  Coimbatore\n This bus goes from Kasargode to Palakkad\nSuper Deluxe Air Bus\n 7 hours 35 minutes  Palakkad @ 04:05 am"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Palakkad",
+    "raw": "KSRTC\nSubramanya  Palakkad\n This bus goes from Kasargode to Palakkad\nSuper Deluxe Air Bus\n 7 hours 40 minutes  Palakkad @ 05:40 am\n10:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Palakkad",
+    "raw": "KSRTC\nSubramanya  Palakkad\n This bus goes from Kasargode to Palakkad\nSuper Deluxe Air Bus\n 7 hours 40 minutes  Palakkad @ 05:40 am\n10:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Palakkad",
+    "raw": "KSRTC\nSubramanya  Palakkad\n This bus goes from Kasargode to Palakkad\nSuper Deluxe Air Bus\n 7 hours 40 minutes  Palakkad @ 05:40 am"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKollur  Palakkad\n This bus goes from Kasargode to Palakkad\nMinnal Deluxe\n 6 hours 35 minutes  Palakkad @ 06:05 am\n11:30 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKollur  Palakkad\n This bus goes from Kasargode to Palakkad\nMinnal Deluxe\n 6 hours 35 minutes  Palakkad @ 06:05 am\n11:30 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKollur  Palakkad\n This bus goes from Kasargode to Palakkad\nMinnal Deluxe\n 6 hours 35 minutes  Palakkad @ 06:05 am"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kottayam",
+    "raw": "KSRTC.\nKasaragod  Kottayam\nSuper Fast\n05:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kottayam",
+    "raw": "KSRTC.\nKasaragod  Kottayam\nSuper Fast\n05:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kottayam",
+    "raw": "KSRTC.\nKasaragod  Kottayam\nSuper Fast"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kottayam",
+    "raw": "KSRTC\nKasargode  Kottayam\n This bus goes from Kasargode to Kottayam\nPremium Superfast\n 11 hours 25 minutes  Kottayam @ 04:25 am\n05:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kottayam",
+    "raw": "KSRTC\nKasargode  Kottayam\n This bus goes from Kasargode to Kottayam\nPremium Superfast\n 11 hours 25 minutes  Kottayam @ 04:25 am\n05:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kottayam",
+    "raw": "KSRTC\nKasargode  Kottayam\n This bus goes from Kasargode to Kottayam\nPremium Superfast\n 11 hours 25 minutes  Kottayam @ 04:25 am"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kottayam",
+    "raw": "KSRTC\nKasargode  Kottarakkara\n This bus goes from Kasargode to Kottayam\nPremium Superfast\n 11 hours 10 minutes  Kottayam @ 05:25 am\n06:15 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kottayam",
+    "raw": "KSRTC\nKasargode  Kottarakkara\n This bus goes from Kasargode to Kottayam\nPremium Superfast\n 11 hours 10 minutes  Kottayam @ 05:25 am\n06:15 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kottayam",
+    "raw": "KSRTC\nKasargode  Kottarakkara\n This bus goes from Kasargode to Kottayam\nPremium Superfast\n 11 hours 10 minutes  Kottayam @ 05:25 am"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKollur  Alappuzha\n This bus goes from Kasargode to Alappuzha\nSuper Deluxe Air Bus\n 10 hours 30 minutes  Alappuzha @ 12:10 pm\n01:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKollur  Alappuzha\n This bus goes from Kasargode to Alappuzha\nSuper Deluxe Air Bus\n 10 hours 30 minutes  Alappuzha @ 12:10 pm\n01:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKollur  Alappuzha\n This bus goes from Kasargode to Alappuzha\nSuper Deluxe Air Bus\n 10 hours 30 minutes  Alappuzha @ 12:10 pm"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKollur  Trivandrum\n This bus goes from Kasargode to Alappuzha\nAc Seater Volvo Multi Axle\n 9 hours 25 minutes  Alappuzha @ 03:10 am\n05:45 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKollur  Trivandrum\n This bus goes from Kasargode to Alappuzha\nAc Seater Volvo Multi Axle\n 9 hours 25 minutes  Alappuzha @ 03:10 am\n05:45 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nKollur  Trivandrum\n This bus goes from Kasargode to Alappuzha\nAc Seater Volvo Multi Axle\n 9 hours 25 minutes  Alappuzha @ 03:10 am"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Alappuzha",
+    "raw": "KSRTC.\nMangalore  Thiruvananthapuram\nGaruda Maharaja Scania\n07:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Alappuzha",
+    "raw": "KSRTC.\nMangalore  Thiruvananthapuram\nGaruda Maharaja Scania\n07:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Alappuzha",
+    "raw": "KSRTC.\nMangalore  Thiruvananthapuram\nGaruda Maharaja Scania"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKollur  Alappuzha\n This bus goes from Kasargode to Ernakulam\nSuper Deluxe Air Bus\n 8 hours 50 minutes  Ernakulam @ 10:30 am\n01:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKollur  Alappuzha\n This bus goes from Kasargode to Ernakulam\nSuper Deluxe Air Bus\n 8 hours 50 minutes  Ernakulam @ 10:30 am\n01:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKollur  Alappuzha\n This bus goes from Kasargode to Ernakulam\nSuper Deluxe Air Bus\n 8 hours 50 minutes  Ernakulam @ 10:30 am"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKollur  Trivandrum\n This bus goes from Kasargode to Ernakulam\nAc Seater Volvo Multi Axle\n 8 hours 41 minutes  Ernakulam @ 02:26 am\n05:45 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKollur  Trivandrum\n This bus goes from Kasargode to Ernakulam\nAc Seater Volvo Multi Axle\n 8 hours 41 minutes  Ernakulam @ 02:26 am\n05:45 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKollur  Trivandrum\n This bus goes from Kasargode to Ernakulam\nAc Seater Volvo Multi Axle\n 8 hours 41 minutes  Ernakulam @ 02:26 am"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKasargode  Kottarakkara\n This bus goes from Kasargode to Ernakulam\nPremium Superfast\n 9 hours 30 minutes  Ernakulam @ 03:45 am\n06:15 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKasargode  Kottarakkara\n This bus goes from Kasargode to Ernakulam\nPremium Superfast\n 9 hours 30 minutes  Ernakulam @ 03:45 am\n06:15 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nKasargode  Kottarakkara\n This bus goes from Kasargode to Ernakulam\nPremium Superfast\n 9 hours 30 minutes  Ernakulam @ 03:45 am"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Malappuram",
+    "raw": "KSRTC\nKasargode  Coimbatore\n This bus goes from Kasargode to Malappuram\nSuper Deluxe Air Bus\n 5 hours 40 minutes  Malappuram @ 02:10 am\n08:30 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Malappuram",
+    "raw": "KSRTC\nKasargode  Coimbatore\n This bus goes from Kasargode to Malappuram\nSuper Deluxe Air Bus\n 5 hours 40 minutes  Malappuram @ 02:10 am\n08:30 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Malappuram",
+    "raw": "KSRTC\nKasargode  Coimbatore\n This bus goes from Kasargode to Malappuram\nSuper Deluxe Air Bus\n 5 hours 40 minutes  Malappuram @ 02:10 am"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Malappuram",
+    "raw": "KSRTC\nSubramanya  Palakkad\n This bus goes from Kasargode to Malappuram\nSuper Deluxe Air Bus\n 5 hours 50 minutes  Malappuram @ 03:50 am\n10:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Malappuram",
+    "raw": "KSRTC\nSubramanya  Palakkad\n This bus goes from Kasargode to Malappuram\nSuper Deluxe Air Bus\n 5 hours 50 minutes  Malappuram @ 03:50 am\n10:00 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Malappuram",
+    "raw": "KSRTC\nSubramanya  Palakkad\n This bus goes from Kasargode to Malappuram\nSuper Deluxe Air Bus\n 5 hours 50 minutes  Malappuram @ 03:50 am"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Malappuram",
+    "raw": "KSRTC\nKollur  Palakkad\n This bus goes from Kasargode to Malappuram\nMinnal Deluxe\n 5 hours  Malappuram @ 04:30 am\n11:30 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Malappuram",
+    "raw": "KSRTC\nKollur  Palakkad\n This bus goes from Kasargode to Malappuram\nMinnal Deluxe\n 5 hours  Malappuram @ 04:30 am\n11:30 pm\n More...\nRoute"
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Malappuram",
+    "raw": "KSRTC\nKollur  Palakkad\n This bus goes from Kasargode to Malappuram\nMinnal Deluxe\n 5 hours  Malappuram @ 04:30 am"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kochi",
+    "raw": "KSRTC\nManjeri  Haripad\n This bus goes from Malappuram to Vytilla Hub\nSuper Fast\n 3 hours 45 minutes  Vytilla-hub @ 08:35 am\n04:50 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kochi",
+    "raw": "KSRTC\nManjeri  Haripad\n This bus goes from Malappuram to Vytilla Hub\nSuper Fast\n 3 hours 45 minutes  Vytilla-hub @ 08:35 am\n04:50 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kochi",
+    "raw": "KSRTC\nManjeri  Haripad\n This bus goes from Malappuram to Vytilla Hub\nSuper Fast\n 3 hours 45 minutes  Vytilla-hub @ 08:35 am"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kochi",
+    "raw": "KSRTC\nMalappuram  Trivandrum\nSuper Fast\n 4 hours 55 minutes  Ernakulam @ 10:10 am\n05:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kochi",
+    "raw": "KSRTC\nMalappuram  Trivandrum\nSuper Fast\n 4 hours 55 minutes  Ernakulam @ 10:10 am\n05:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kochi",
+    "raw": "KSRTC\nMalappuram  Trivandrum\nSuper Fast\n 4 hours 55 minutes  Ernakulam @ 10:10 am"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Thrissur",
+    "raw": "KSRTC.\nMalappuram  Thiruvananthapuram\nSuper Fast\n05:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Thrissur",
+    "raw": "KSRTC.\nMalappuram  Thiruvananthapuram\nSuper Fast\n05:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Thrissur",
+    "raw": "KSRTC.\nMalappuram  Thiruvananthapuram\nSuper Fast"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Thrissur",
+    "raw": "KSRTC\nMalappuram  Trivandrum\nSuper Fast\n 2 hours 25 minutes  Thrissur @ 07:40 am\n05:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Thrissur",
+    "raw": "KSRTC\nMalappuram  Trivandrum\nSuper Fast\n 2 hours 25 minutes  Thrissur @ 07:40 am\n05:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Thrissur",
+    "raw": "KSRTC\nMalappuram  Trivandrum\nSuper Fast\n 2 hours 25 minutes  Thrissur @ 07:40 am"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Thrissur",
+    "raw": "KSRTC\nMalappuram  Thrissur\nFast Passenger\n 2 hours 45 minutes  Thrissur @ 08:25 am\n05:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Thrissur",
+    "raw": "KSRTC\nMalappuram  Thrissur\nFast Passenger\n 2 hours 45 minutes  Thrissur @ 08:25 am\n05:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Thrissur",
+    "raw": "KSRTC\nMalappuram  Thrissur\nFast Passenger\n 2 hours 45 minutes  Thrissur @ 08:25 am"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Thrissur",
+    "raw": "KSRTC\nMalappuram  Thrissur\nFast Passenger\n06:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Thrissur",
+    "raw": "KSRTC\nMalappuram  Thrissur\nFast Passenger\n06:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Calicut",
+    "raw": "KSRTC\nPalakkad  Kozhikkode\nTown To Town Ordinary\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Calicut",
+    "raw": "KSRTC\nPalakkad  Kozhikkode\nTown To Town Ordinary\n12:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Calicut",
+    "raw": "KSRTC\nPalakkad  Kozhikkode\nTown To Town Ordinary"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Calicut",
+    "raw": "KSRTC\nCoimbatore  Kasargode\n This bus goes from Malappuram to Kozhikode\nSuper Deluxe Air Bus\n 1 hours 30 minutes  Kozhikode @ 02:00 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Calicut",
+    "raw": "KSRTC\nCoimbatore  Kasargode\n This bus goes from Malappuram to Kozhikode\nSuper Deluxe Air Bus\n 1 hours 30 minutes  Kozhikode @ 02:00 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Calicut",
+    "raw": "KSRTC\nCoimbatore  Kasargode\n This bus goes from Malappuram to Kozhikode\nSuper Deluxe Air Bus\n 1 hours 30 minutes  Kozhikode @ 02:00 am"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Calicut",
+    "raw": "KSRTC\nPalakkad  Kozhikkode\nTown To Town Ordinary\n12:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Calicut",
+    "raw": "KSRTC\nPalakkad  Kozhikkode\nTown To Town Ordinary\n12:35 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Calicut",
+    "raw": "KSRTC\nPalakkad  Kozhikkode\nTown To Town Ordinary"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Calicut",
+    "raw": "KSRTC\nPalakkad  Kozhikode\n This bus goes from Malappuram to Kozhikode\nAc Premium Superfast\n 1 hours 20 minutes  Kozhikode @ 02:05 am\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Calicut",
+    "raw": "KSRTC\nPalakkad  Kozhikode\n This bus goes from Malappuram to Kozhikode\nAc Premium Superfast\n 1 hours 20 minutes  Kozhikode @ 02:05 am\n12:45 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Calicut",
+    "raw": "KSRTC\nPalakkad  Kozhikode\n This bus goes from Malappuram to Kozhikode\nAc Premium Superfast\n 1 hours 20 minutes  Kozhikode @ 02:05 am"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nMalappuram  Trivandrum\nSuper Fast\n 11 hours 20 minutes  Trivandrum @ 04:35 pm\n05:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nMalappuram  Trivandrum\nSuper Fast\n 11 hours 20 minutes  Trivandrum @ 04:35 pm\n05:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Trivandrum",
+    "raw": "KSRTC\nMalappuram  Trivandrum\nSuper Fast\n 11 hours 20 minutes  Trivandrum @ 04:35 pm"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Trivandrum",
+    "raw": "KSRTC.\nMalappuram  Thiruvananthapuram\n This bus goes from Malappuram to Thiruvananthapuram\nSuper Fast\n05:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Trivandrum",
+    "raw": "KSRTC.\nMalappuram  Thiruvananthapuram\n This bus goes from Malappuram to Thiruvananthapuram\nSuper Fast\n05:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Trivandrum",
+    "raw": "KSRTC.\nMalappuram  Thiruvananthapuram\n This bus goes from Malappuram to Thiruvananthapuram\nSuper Fast"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Trivandrum",
+    "raw": "KSRTC.\nMalappuram  Thiruvananthapuram\n This bus goes from Malappuram to Thiruvananthapuram\nSuper Fast\n07:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Trivandrum",
+    "raw": "KSRTC.\nMalappuram  Thiruvananthapuram\n This bus goes from Malappuram to Thiruvananthapuram\nSuper Fast\n07:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Trivandrum",
+    "raw": "KSRTC.\nMalappuram  Thiruvananthapuram\n This bus goes from Malappuram to Thiruvananthapuram\nSuper Fast"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kannur",
+    "raw": "KSRTC\nCoimbatore  Kasargode\nSuper Deluxe Air Bus\n 3 hours 25 minutes  Kannur @ 03:55 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kannur",
+    "raw": "KSRTC\nCoimbatore  Kasargode\nSuper Deluxe Air Bus\n 3 hours 25 minutes  Kannur @ 03:55 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kannur",
+    "raw": "KSRTC\nCoimbatore  Kasargode\nSuper Deluxe Air Bus\n 3 hours 25 minutes  Kannur @ 03:55 am"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kannur",
+    "raw": "KSRTC\nMadurai  Kannur\nPremium Superfast\n 4 hours  Kannur @ 06:00 am\n02:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kannur",
+    "raw": "KSRTC\nMadurai  Kannur\nPremium Superfast\n 4 hours  Kannur @ 06:00 am\n02:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kannur",
+    "raw": "KSRTC\nMadurai  Kannur\nPremium Superfast\n 4 hours  Kannur @ 06:00 am"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kannur",
+    "raw": "KSRTC\nPondicherry  Kannur\nSuper Deluxe Air Bus\n03:55 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kannur",
+    "raw": "KSRTC\nPondicherry  Kannur\nSuper Deluxe Air Bus\n03:55 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kannur",
+    "raw": "KSRTC\nPondicherry  Kannur\nSuper Deluxe Air Bus"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kannur",
+    "raw": "KSRTC\nPalakkad  Subramanya\nSuper Deluxe Air Bus\n 3 hours 45 minutes  Kannur @ 12:35 am\n08:50 pm\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kannur",
+    "raw": "KSRTC\nPalakkad  Subramanya\nSuper Deluxe Air Bus\n 3 hours 45 minutes  Kannur @ 12:35 am\n08:50 pm\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kannur",
+    "raw": "KSRTC\nPalakkad  Subramanya\nSuper Deluxe Air Bus\n 3 hours 45 minutes  Kannur @ 12:35 am"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kannur",
+    "raw": "KSRTC\nPalakkad  Kollur\nMinnal Deluxe\n 3 hours 25 minutes  Kannur @ 01:15 am\n09:50 pm\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKozhikkode  Palakkad\nTown To Town Ordinary\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKozhikkode  Palakkad\nTown To Town Ordinary\n12:05 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKozhikkode  Palakkad\nTown To Town Ordinary"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Palakkad",
+    "raw": "KSRTC\nMananthavady  Coimbatore\nPremium Superfast\n 1 hours 55 minutes  Palakkad @ 02:15 am\n12:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Palakkad",
+    "raw": "KSRTC\nMananthavady  Coimbatore\nPremium Superfast\n 1 hours 55 minutes  Palakkad @ 02:15 am\n12:20 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Palakkad",
+    "raw": "KSRTC\nMananthavady  Coimbatore\nPremium Superfast\n 1 hours 55 minutes  Palakkad @ 02:15 am"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKozhikkode  Walayar\nFast Passenger\n12:25 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKozhikkode  Walayar\nFast Passenger\n12:25 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKozhikkode  Walayar\nFast Passenger"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Palakkad",
+    "raw": "KSRTC\nKozhikkode  Palakkad\nTown To Town Ordinary\n01:00 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kottayam",
+    "raw": "KSRTC\nMalappuram  Trivandrum\nSuper Fast\n 5 hours 55 minutes  Kottayam @ 11:15 pm\n05:20 pm\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kottayam",
+    "raw": "KSRTC\nMalappuram  Trivandrum\nSuper Fast\n 5 hours 55 minutes  Kottayam @ 11:15 pm\n05:20 pm\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kottayam",
+    "raw": "KSRTC\nMalappuram  Trivandrum\nSuper Fast\n 5 hours 55 minutes  Kottayam @ 11:15 pm"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nManjeri  Haripad\nSuper Fast\n 5 hours 50 minutes  Alappuzha @ 10:40 am\n04:50 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nManjeri  Haripad\nSuper Fast\n 5 hours 50 minutes  Alappuzha @ 10:40 am\n04:50 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nManjeri  Haripad\nSuper Fast\n 5 hours 50 minutes  Alappuzha @ 10:40 am"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Alappuzha",
+    "raw": "KSRTC.\nMalappuram  Thiruvananthapuram\nSuper Fast\n05:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Alappuzha",
+    "raw": "KSRTC.\nMalappuram  Thiruvananthapuram\nSuper Fast\n05:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Alappuzha",
+    "raw": "KSRTC.\nMalappuram  Thiruvananthapuram\nSuper Fast"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nMalappuram  Trivandrum\nSuper Fast\n 6 hours 35 minutes  Alappuzha @ 11:50 am\n05:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nMalappuram  Trivandrum\nSuper Fast\n 6 hours 35 minutes  Alappuzha @ 11:50 am\n05:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Alappuzha",
+    "raw": "KSRTC\nMalappuram  Trivandrum\nSuper Fast\n 6 hours 35 minutes  Alappuzha @ 11:50 am"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Alappuzha",
+    "raw": "KSRTC.\nMalappuram  Thiruvananthapuram\nSuper Fast\n07:40 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nManjeri  Haripad\n This bus goes from Malappuram to Vytilla Hub\nSuper Fast\n 3 hours 45 minutes  Vytilla-hub @ 08:35 am\n04:50 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nManjeri  Haripad\n This bus goes from Malappuram to Vytilla Hub\nSuper Fast\n 3 hours 45 minutes  Vytilla-hub @ 08:35 am\n04:50 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nManjeri  Haripad\n This bus goes from Malappuram to Vytilla Hub\nSuper Fast\n 3 hours 45 minutes  Vytilla-hub @ 08:35 am"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nMalappuram  Trivandrum\nSuper Fast\n 4 hours 55 minutes  Ernakulam @ 10:10 am\n05:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nMalappuram  Trivandrum\nSuper Fast\n 4 hours 55 minutes  Ernakulam @ 10:10 am\n05:15 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Ernakulam",
+    "raw": "KSRTC\nMalappuram  Trivandrum\nSuper Fast\n 4 hours 55 minutes  Ernakulam @ 10:10 am"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nCoimbatore  Kasargode\n This bus goes from Malappuram to Kasargode\nSuper Deluxe Air Bus\n 5 hours 30 minutes  Kasargode @ 06:00 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nCoimbatore  Kasargode\n This bus goes from Malappuram to Kasargode\nSuper Deluxe Air Bus\n 5 hours 30 minutes  Kasargode @ 06:00 am\n12:30 am\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nCoimbatore  Kasargode\n This bus goes from Malappuram to Kasargode\nSuper Deluxe Air Bus\n 5 hours 30 minutes  Kasargode @ 06:00 am"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nPalakkad  Subramanya\n This bus goes from Malappuram to Kasargode\nSuper Deluxe Air Bus\n 6 hours 5 minutes  Kasargode @ 02:55 am\n08:50 pm\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nPalakkad  Subramanya\n This bus goes from Malappuram to Kasargode\nSuper Deluxe Air Bus\n 6 hours 5 minutes  Kasargode @ 02:55 am\n08:50 pm\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nPalakkad  Subramanya\n This bus goes from Malappuram to Kasargode\nSuper Deluxe Air Bus\n 6 hours 5 minutes  Kasargode @ 02:55 am"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nPalakkad  Kollur\n This bus goes from Malappuram to Kasargode\nMinnal Deluxe\n 5 hours 15 minutes  Kasargode @ 03:05 am\n09:50 pm\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nPalakkad  Kollur\n This bus goes from Malappuram to Kasargode\nMinnal Deluxe\n 5 hours 15 minutes  Kasargode @ 03:05 am\n09:50 pm\n More...\nRoute"
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kasaragod",
+    "raw": "KSRTC\nPalakkad  Kollur\n This bus goes from Malappuram to Kasargode\nMinnal Deluxe\n 5 hours 15 minutes  Kasargode @ 03:05 am"
+  }
+]

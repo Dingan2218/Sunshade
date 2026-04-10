@@ -9,7 +9,7 @@ import { useSunPosition, Recommendation } from '@/hooks/useSunPosition';
 import { useWeather, WeatherData } from '@/hooks/useWeather';
 import { motion, AnimatePresence } from 'framer-motion';
 
-const ShadeMap = dynamic(() => import('@/components/MapView/ShadeMap'), { 
+const ShadeMap = dynamic(() => import('@/components/MapView/ShadeMap'), {
   ssr: false,
   loading: () => <div style={{ height: '100%', width: '100%', backgroundColor: '#000' }} />
 });
@@ -19,7 +19,7 @@ function ResultsContent() {
   const router = useRouter();
   const uiMode = searchParams.get('mode') || 'tech';
   const isTech = uiMode === 'tech';
-  
+
   const timeStrParam = searchParams.get('time');
   const formattedTime = timeStrParam ? new Date(timeStrParam).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }) : '';
 
@@ -71,24 +71,24 @@ function ResultsContent() {
 
   return (
     <main className={`results-main ${isTech ? 'tech' : 'normal'}`}>
-      
+
       {/* Dynamic Results Sidebar */}
       <div className={`results-sidebar ${isTech ? 'tech' : 'normal'}`}>
-        
-        <button 
+
+        <button
           onClick={() => router.push('/')}
           className={isTech ? "tech-text" : ""}
-          style={{ 
-            background: isTech ? 'none' : '#f2f2f7', 
+          style={{
+            background: isTech ? 'none' : '#f2f2f7',
             border: 'none', color: isTech ? '#888' : '#000',
-            display: 'flex', alignItems: 'center', gap: '8px', 
+            display: 'flex', alignItems: 'center', gap: '8px',
             cursor: 'pointer', marginBottom: isTech ? '48px' : '0',
             padding: isTech ? '0' : '10px 16px',
             borderRadius: isTech ? '0' : '100px',
             marginRight: isTech ? '0' : '20px'
           }}
         >
-          {isTech ? <ArrowDownLeft size={14} /> : <ChevronLeft size={18} />} 
+          {isTech ? <ArrowDownLeft size={14} /> : <ChevronLeft size={18} />}
           {isTech ? 'Back to Terminal' : 'Back'}
         </button>
 
@@ -104,24 +104,24 @@ function ResultsContent() {
                   <div className={isTech ? "tech-text" : ""} style={{ marginBottom: isTech ? '8px' : '0', color: isTech ? '#888' : '#666', fontSize: isTech ? '11px' : '12px' }}>
                     {isTech ? 'Analysis.Result // 01' : 'OUR RECOMMENDATION'}
                   </div>
-                  <h2 className={isTech ? "ndots desktop-only" : "desktop-only"} style={{ 
-                    fontSize: isTech ? '28px' : '24px', 
+                  <h2 className={isTech ? "ndots desktop-only" : "desktop-only"} style={{
+                    fontSize: isTech ? '28px' : '24px',
                     fontWeight: isTech ? 400 : 800,
-                    color: isTech ? '#FFF' : '#000', 
+                    color: isTech ? '#FFF' : '#000',
                     marginBottom: isTech ? '40px' : '0',
-                    lineHeight: 1.1 
+                    lineHeight: 1.1
                   }}>
                     {isTech ? `Optimal: ${recommendation.side} side` : `Sit on the ${recommendation.side.toUpperCase()} side`}
                   </h2>
                   <h2 className="mobile-only-header m-heading" style={{ color: '#000', marginTop: 0, textTransform: 'uppercase' }}>
-                    BEST SEAT :<br/>{recommendation.side} SIDE
+                    BEST SEAT :<br />{recommendation.side} SIDE
                   </h2>
                 </div>
 
                 {/* Status Indicator */}
-                <div 
-                  className={isTech ? "diag-box" : ""} 
-                  style={{ 
+                <div
+                  className={isTech ? "diag-box" : ""}
+                  style={{
                     display: 'flex', alignItems: 'center', gap: '12px',
                     marginBottom: isTech ? '48px' : '0',
                     padding: isTech ? '12px' : '8px 16px',
@@ -130,14 +130,14 @@ function ResultsContent() {
                     border: isTech ? '1px solid #333' : 'none',
                   }}
                 >
-                  <div style={{ 
-                    width: isTech ? '32px' : '24px', 
-                    height: isTech ? '32px' : '24px', 
-                    borderRadius: '50%', 
-                    background: isTech ? '#111' : '#34C759', 
-                    display: 'flex', alignItems: 'center', justifyContent: 'center' 
+                  <div style={{
+                    width: isTech ? '32px' : '24px',
+                    height: isTech ? '32px' : '24px',
+                    borderRadius: '50%',
+                    background: isTech ? '#111' : '#34C759',
+                    display: 'flex', alignItems: 'center', justifyContent: 'center'
                   }}>
-                     {recommendation.side === 'left' ? <Shield size={14} color="#fff" /> : <Sun size={14} color="#fff" />}
+                    {recommendation.side === 'left' ? <Shield size={14} color="#fff" /> : <Sun size={14} color="#fff" />}
                   </div>
                   <div>
                     {!isTech && <span style={{ fontWeight: 700, color: '#34C759' }}>{recommendation.confidence}% Clear</span>}
@@ -150,19 +150,19 @@ function ResultsContent() {
               {isTech && (
                 <div className="diag-box" style={{ padding: '32px', marginBottom: '48px', position: 'relative', background: '#050505' }}>
                   <div className="tech-text" style={{ fontSize: '9px', position: 'absolute', top: '10px', left: '10px' }}>Visual.Model.01x</div>
-                  
+
                   <div style={{ display: 'flex', justifyContent: 'center', height: '140px' }}>
                     <svg width="60" height="120" viewBox="0 0 60 120" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <rect x="5" y="5" width="50" height="110" rx="2" stroke="#333" strokeWidth="1" />
                       {[25, 45, 65, 85, 105].map(y => (
                         <g key={y}>
-                          <rect x="10" y={y} width="12" height="10" 
-                            stroke={recommendation.side === 'left' ? '#fff' : '#222'} 
-                            fill={recommendation.side === 'left' ? '#fff' : 'transparent'} 
+                          <rect x="10" y={y} width="12" height="10"
+                            stroke={recommendation.side === 'left' ? '#fff' : '#222'}
+                            fill={recommendation.side === 'left' ? '#fff' : 'transparent'}
                           />
-                          <rect x="38" y={y} width="12" height="10" 
-                            stroke={recommendation.side === 'right' ? '#fff' : '#222'} 
-                            fill={recommendation.side === 'right' ? '#fff' : 'transparent'} 
+                          <rect x="38" y={y} width="12" height="10"
+                            stroke={recommendation.side === 'right' ? '#fff' : '#222'}
+                            fill={recommendation.side === 'right' ? '#fff' : 'transparent'}
                           />
                         </g>
                       ))}
@@ -213,18 +213,21 @@ function ResultsContent() {
                 </div>
               )}
               {/* Mobile "Find Seat" button matches mockup */}
-              <button className="n-button mobile-only-header" style={{
-                background: '#d8ff27',
-                color: '#000',
-                borderRadius: '50px',
-                fontWeight: '800',
-                fontSize: '18px',
-                width: '100%',
-                padding: '20px',
-                marginTop: '16px',
-                border: 'none',
-                cursor: 'pointer'
-              }}>FIND SEAT</button>
+              <button
+                className="n-button mobile-only-header"
+                onClick={() => router.push(`/bus?from=${searchParams.get('from')}&to=${searchParams.get('to')}&mode=${uiMode}`)}
+                style={{
+                  background: '#d8ff27',
+                  color: '#000',
+                  borderRadius: '50px',
+                  fontWeight: '800',
+                  fontSize: '18px',
+                  width: '100%',
+                  padding: '20px',
+                  marginTop: '16px',
+                  border: 'none',
+                  cursor: 'pointer'
+                }}>FIND BUS</button>
             </motion.div>
           )}
         </AnimatePresence>
@@ -232,7 +235,7 @@ function ResultsContent() {
 
       {/* Map Layer */}
       <div style={{ flex: 1, position: 'relative' }}>
-         <ShadeMap route={route?.path} />
+        <ShadeMap route={route?.path} />
       </div>
 
     </main>

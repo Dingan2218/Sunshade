@@ -13,9 +13,17 @@ export default function Home() {
   const [uiMode, setUiMode] = useState<'tech' | 'normal'>('tech');
   const [from, setFrom] = useState('');
   const [to, setTo] = useState('');
-  const [date, setDate] = useState('2026-04-09');
-  const [time, setTime] = useState('10:43');
+  const [date, setDate] = useState('');
+  const [time, setTime] = useState('');
   const [estimateDuration, setEstimateDuration] = useState(false);
+
+  useEffect(() => {
+    const now = new Date();
+    const tzOffset = now.getTimezoneOffset() * 60000;
+    const localNow = new Date(now.getTime() - tzOffset);
+    setDate(localNow.toISOString().split('T')[0]);
+    setTime(localNow.toISOString().split('T')[1].slice(0, 5));
+  }, []);
 
   useEffect(() => {
     if (uiMode === 'normal') {
@@ -28,7 +36,7 @@ export default function Home() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (!from || !to) return;
-    
+
     const params = new URLSearchParams({
       from,
       to,
@@ -46,7 +54,7 @@ export default function Home() {
       {isTech && <MapBackground />}
 
       {/* Mode Toggle Button */}
-      <button 
+      <button
         onClick={() => setUiMode(isTech ? 'normal' : 'tech')}
         style={{
           position: 'absolute',
@@ -80,7 +88,7 @@ export default function Home() {
             <div className="m-header-top">
               <div className="m-user-info">
                 <div className="m-avatar">
-                   <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Lexa" alt="User" />
+                  <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Lexa" alt="User" />
                 </div>
                 <div>
                   <div className="m-name">Lexa</div>
@@ -95,17 +103,17 @@ export default function Home() {
           </div>
 
           <div className="desktop-header" style={{ marginBottom: isTech ? '48px' : '40px', textAlign: isTech ? 'left' : 'center' }}>
-            <div className={isTech ? "ndots" : ""} style={{ 
-              fontSize: isTech ? '32px' : '40px', 
+            <div className={isTech ? "ndots" : ""} style={{
+              fontSize: isTech ? '32px' : '40px',
               fontWeight: isTech ? 400 : 900,
               letterSpacing: isTech ? '0.05em' : '-0.02em',
-              marginBottom: '8px', 
-              color: isTech ? '#fff' : '#000' 
+              marginBottom: '8px',
+              color: isTech ? '#fff' : '#000'
             }}>
               ShadeSeat
             </div>
-            <p className={isTech ? "tech-text" : ""} style={{ 
-              fontSize: isTech ? '11px' : '17px', 
+            <p className={isTech ? "tech-text" : ""} style={{
+              fontSize: isTech ? '11px' : '17px',
               color: isTech ? '#888' : '#666',
               fontWeight: isTech ? 400 : 500,
               lineHeight: 1.5
@@ -115,10 +123,10 @@ export default function Home() {
           </div>
 
           <form onSubmit={handleSubmit} style={{ display: 'flex', flexDirection: 'column' }}>
-            
+
             <div className="m-input-container">
               <div className="m-route-line" />
-              <LocationSearchInput 
+              <LocationSearchInput
                 label={isTech ? "P01. Origin" : "Starting Location"}
                 value={from}
                 onChange={setFrom}
@@ -127,7 +135,7 @@ export default function Home() {
                 uiMode={uiMode}
               />
               <div className="m-divider" />
-              <LocationSearchInput 
+              <LocationSearchInput
                 label={isTech ? "P02. Destination" : "Destination"}
                 value={to}
                 onChange={setTo}
@@ -144,11 +152,11 @@ export default function Home() {
                 <label className={isTech ? "n-label" : "normal-label"}>
                   {isTech ? "System.Date" : "Travel Date"}
                 </label>
-                <input 
-                  type="date" 
-                  className={isTech ? "n-input" : "normal-input"} 
-                  value={date} 
-                  onChange={e => setDate(e.target.value)} 
+                <input
+                  type="date"
+                  className={isTech ? "n-input" : "normal-input"}
+                  value={date}
+                  onChange={e => setDate(e.target.value)}
                   style={isTech ? { colorScheme: 'dark' } : {}}
                 />
               </div>
@@ -156,19 +164,19 @@ export default function Home() {
                 <label className={isTech ? "n-label" : "normal-label"}>
                   {isTech ? "System.Time" : "Travel Time"}
                 </label>
-                <input 
-                  type="time" 
-                  className={isTech ? "n-input" : "normal-input"} 
-                  value={time} 
-                  onChange={e => setTime(e.target.value)} 
+                <input
+                  type="time"
+                  className={isTech ? "n-input" : "normal-input"}
+                  value={time}
+                  onChange={e => setTime(e.target.value)}
                   style={isTech ? { colorScheme: 'dark' } : {}}
                 />
               </div>
             </div>
 
-            <div className={isTech ? "diag-box" : ""} style={{ 
-              display: 'flex', 
-              alignItems: 'center', 
+            <div className={isTech ? "diag-box" : ""} style={{
+              display: 'flex',
+              alignItems: 'center',
               justifyContent: 'space-between',
               padding: isTech ? '12px' : '10px 16px',
               borderRadius: isTech ? '4px' : '16px',
@@ -187,11 +195,27 @@ export default function Home() {
             </div>
 
             <div style={{ marginTop: isTech ? 'auto' : '16px', paddingTop: isTech ? '40px' : '0' }}>
-              <button type="submit" className={isTech ? "n-button" : "normal-button"}>
-                {isTech ? 'Run Calculation' : 'Find Best Seat'}
-                {isTech && <ArrowUpRight size={18} />}
-              </button>
-              
+              <div style={{ display: 'flex', gap: '12px' }}>
+                <button type="submit" className={isTech ? "n-button" : "normal-button"} style={{ flex: 1 }}>
+                  {isTech ? 'Run Calculation' : 'Find Best Seat'}
+                  {isTech && <ArrowUpRight size={18} />}
+                </button>
+                <button
+                  type="button"
+                  className={isTech ? "n-button" : "normal-button"}
+                  style={isTech ? { flex: 1, background: '#d8ff27', color: '#000' } : { flex: 1, background: '#e5e5ea', color: '#000' }}
+                  onClick={() => {
+                    if (from || to) {
+                      router.push(`/bus?from=${from}&to=${to}&mode=${uiMode}`);
+                    } else {
+                      router.push(`/bus?mode=${uiMode}`);
+                    }
+                  }}
+                >
+                  {isTech ? 'Find Bus' : 'Find Bus'}
+                  {isTech && <ArrowUpRight size={18} />}
+                </button>
+              </div>
               {isTech && (
                 <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '24px' }}>
                   <div className="tech-text">Lat: 52.2297</div>
