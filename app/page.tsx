@@ -3,7 +3,7 @@
 import React, { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import dynamic from 'next/dynamic';
-import { MapPin, Navigation, Clock, Globe, ArrowUpRight, User, Settings } from 'lucide-react';
+import { MapPin, Navigation, Clock, Globe, ArrowUpRight, User, Settings, Bell, CircleDot } from 'lucide-react';
 import { LocationSearchInput } from '@/components/SearchInput/LocationSearchInput';
 
 const MapBackground = dynamic(() => import('@/components/MapView/DarkMapBackground'), { ssr: false });
@@ -75,7 +75,26 @@ export default function Home() {
       {/* Sidebar / Form Container */}
       <div className={`sidebar-main ${isTech ? 'n-glass-sidebar tech' : 'normal'}`}>
         <div className={`form-wrapper ${isTech ? 'tech' : 'normal'}`}>
-          <div style={{ marginBottom: isTech ? '48px' : '40px', textAlign: isTech ? 'left' : 'center' }}>
+          {/* Mobile Mockup Header */}
+          <div className="mobile-header">
+            <div className="m-header-top">
+              <div className="m-user-info">
+                <div className="m-avatar">
+                   <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Lexa" alt="User" />
+                </div>
+                <div>
+                  <div className="m-name">Lexa</div>
+                  <div className="m-greeting">Good Evening !!</div>
+                </div>
+              </div>
+              <button className="m-bell-btn">
+                <Bell size={18} color="#fff" />
+              </button>
+            </div>
+            <h1 className="m-heading">Where do you will go?</h1>
+          </div>
+
+          <div className="desktop-header" style={{ marginBottom: isTech ? '48px' : '40px', textAlign: isTech ? 'left' : 'center' }}>
             <div className={isTech ? "ndots" : ""} style={{ 
               fontSize: isTech ? '32px' : '40px', 
               fontWeight: isTech ? 400 : 900,
@@ -95,25 +114,28 @@ export default function Home() {
             </p>
           </div>
 
-          <form onSubmit={handleSubmit} style={{ display: 'flex', flexDirection: 'column', gap: isTech ? '32px' : '24px' }}>
+          <form onSubmit={handleSubmit} style={{ display: 'flex', flexDirection: 'column' }}>
             
-            <LocationSearchInput 
-              label={isTech ? "P01. Origin" : "Starting Location"}
-              value={from}
-              onChange={setFrom}
-              icon={MapPin}
-              placeholder={isTech ? "CURRENT_LOCATION" : "Enter starting city"}
-              uiMode={uiMode}
-            />
-
-            <LocationSearchInput 
-              label={isTech ? "P02. Destination" : "Destination"}
-              value={to}
-              onChange={setTo}
-              icon={Navigation}
-              placeholder={isTech ? "SEARCH_COORDINATES" : "Where are you going?"}
-              uiMode={uiMode}
-            />
+            <div className="m-input-container">
+              <div className="m-route-line" />
+              <LocationSearchInput 
+                label={isTech ? "P01. Origin" : "Starting Location"}
+                value={from}
+                onChange={setFrom}
+                icon={CircleDot}
+                placeholder={isTech ? "CURRENT_LOCATION" : "Home"}
+                uiMode={uiMode}
+              />
+              <div className="m-divider" />
+              <LocationSearchInput 
+                label={isTech ? "P02. Destination" : "Destination"}
+                value={to}
+                onChange={setTo}
+                icon={MapPin}
+                placeholder={isTech ? "SEARCH_COORDINATES" : "2972 Westhemimer"}
+                uiMode={uiMode}
+              />
+            </div>
 
             {isTech && <div className="diag-line" style={{ margin: '8px 0' }} />}
 

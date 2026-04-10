@@ -104,7 +104,7 @@ function ResultsContent() {
                   <div className={isTech ? "tech-text" : ""} style={{ marginBottom: isTech ? '8px' : '0', color: isTech ? '#888' : '#666', fontSize: isTech ? '11px' : '12px' }}>
                     {isTech ? 'Analysis.Result // 01' : 'OUR RECOMMENDATION'}
                   </div>
-                  <h2 className={isTech ? "ndots" : ""} style={{ 
+                  <h2 className={isTech ? "ndots desktop-only" : "desktop-only"} style={{ 
                     fontSize: isTech ? '28px' : '24px', 
                     fontWeight: isTech ? 400 : 800,
                     color: isTech ? '#FFF' : '#000', 
@@ -112,6 +112,9 @@ function ResultsContent() {
                     lineHeight: 1.1 
                   }}>
                     {isTech ? `Optimal: ${recommendation.side} side` : `Sit on the ${recommendation.side.toUpperCase()} side`}
+                  </h2>
+                  <h2 className="mobile-only-header m-heading" style={{ color: '#000', marginTop: 0, textTransform: 'uppercase' }}>
+                    BEST SEAT :<br/>{recommendation.side} SIDE
                   </h2>
                 </div>
 
@@ -209,6 +212,19 @@ function ResultsContent() {
                   </div>
                 </div>
               )}
+              {/* Mobile "Find Seat" button matches mockup */}
+              <button className="n-button mobile-only-header" style={{
+                background: '#d8ff27',
+                color: '#000',
+                borderRadius: '50px',
+                fontWeight: '800',
+                fontSize: '18px',
+                width: '100%',
+                padding: '20px',
+                marginTop: '16px',
+                border: 'none',
+                cursor: 'pointer'
+              }}>FIND SEAT</button>
             </motion.div>
           )}
         </AnimatePresence>
