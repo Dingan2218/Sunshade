@@ -38,11 +38,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${inter.variable} ${doto.variable} ${plexMono.variable}`}>
+    <html lang="en" className={`${inter.variable} ${doto.variable} ${plexMono.variable}`} suppressHydrationWarning>
       <head>
         <link rel="apple-touch-icon" href="/icon.png" />
       </head>
-      <body>
+      <body suppressHydrationWarning>
         {children}
         <script
           dangerouslySetInnerHTML={{

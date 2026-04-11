@@ -1,0 +1,3502 @@
+[
+  {
+    "from": "Kochi",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "1 hours 50 minutes  Thrissur @ 01:55 am",
+    "bus_type": "Super Fast",
+    "departure": "12:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "1 hours 36 minutes  Thrissur @ 01:55 am",
+    "bus_type": null,
+    "departure": "12:19 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "2 hours  Thrissur @ 02:25 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:25 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "Trivandrum  Ponnani",
+    "bus_type": "Super Fast",
+    "departure": "12:25 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "3 hours 55 minutes  Kozhikode @ 04:10 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "4 hours 1 minutes  Kozhikode @ 04:20 am",
+    "bus_type": null,
+    "departure": "12:19 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "4 hours 40 minutes  Kozhikode @ 05:05 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:25 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "5 hours 30 minutes  Kannur @ 06:15 am",
+    "bus_type": "Minnal Deluxe",
+    "departure": "12:45 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "8 hours 30 minutes  Kannur @ 08:10 pm",
+    "bus_type": "Fast Passenger",
+    "departure": "11:40 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "Ernakulam  Kannur",
+    "bus_type": "Fast Passenger",
+    "departure": "11:41 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "7 hours 26 minutes  Kannur @ 09:00 pm",
+    "bus_type": null,
+    "departure": "01:34 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "3 hours 20 minutes  Palakkad @ 03:50 am",
+    "bus_type": null,
+    "departure": "12:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "2 hours 51 minutes  Palakkad @ 05:15 am",
+    "bus_type": "Minnal Deluxe",
+    "departure": "02:24 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "3 hours 25 minutes  Palakkad @ 06:00 am",
+    "bus_type": null,
+    "departure": "02:35 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "2 hours 21 minutes  Kottayam @ 02:35 am",
+    "bus_type": null,
+    "departure": "12:14 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "Ernakulam  Thiruvananthapuram",
+    "bus_type": "Fast Passenger",
+    "departure": "12:45 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "1 hours 50 minutes  Kottayam @ 04:10 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "02:20 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "1 hours 46 minutes  Kottayam @ 04:35 am",
+    "bus_type": "Super Fast",
+    "departure": "02:49 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "Palakkad  Trivandrum",
+    "bus_type": "Super Fast",
+    "departure": "12:01 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "Payyanur  Trivandrum",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:14 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "1 hours 16 minutes  Alappuzha @ 01:40 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:24 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "9 hours 15 minutes  Kasargode @ 03:51 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "06:36 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "8 hours 46 minutes  Kasargode @ 03:55 am",
+    "bus_type": null,
+    "departure": "07:09 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "9 hours 31 minutes  Kasargode @ 04:45 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "07:14 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "4 hours 20 minutes  Malappuram @ 06:00 am",
+    "bus_type": "Super Fast",
+    "departure": "01:40 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "4 hours 56 minutes  Malappuram @ 04:35 pm",
+    "bus_type": "Super Fast",
+    "departure": "11:39 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Malappuram",
+    "operator": "KSRTC.",
+    "route": "Ernakulam  Malappuram",
+    "bus_type": "Super Fast",
+    "departure": "01:00 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kochi",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "4 hours 36 minutes  Malappuram @ 07:20 pm",
+    "bus_type": "Super Fast",
+    "departure": "02:44 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "Kannur  Trivandrum",
+    "bus_type": null,
+    "departure": "12:01 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "1 hours 40 minutes  Ernakulam @ 01:45 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "Kozhikode  Trivandrum",
+    "bus_type": null,
+    "departure": "12:10 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "Trivandrum  Kozhikode",
+    "bus_type": null,
+    "departure": "12:06 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "Erattupetta  Thottilpalam",
+    "bus_type": "Limited Stop Fast Passenger",
+    "departure": "12:10 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "Kannur  Trivandrum",
+    "bus_type": null,
+    "departure": "12:01 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "6 hours  Trivandrum @ 06:05 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "5 hours 25 minutes  Trivandrum @ 05:35 am",
+    "bus_type": "Minnal Deluxe",
+    "departure": "12:10 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "Kozhikode  Trivandrum",
+    "bus_type": null,
+    "departure": "12:10 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "5 hours 20 minutes  Kannur @ 05:40 am",
+    "bus_type": "Super Fast",
+    "departure": "12:20 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "1 hours 55 minutes  Palakkad @ 02:25 am",
+    "bus_type": "Fast Passenger",
+    "departure": "12:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "Vizhinjam  Palakkad",
+    "bus_type": "Super Fast",
+    "departure": "12:35 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "Kottarakkara  Mannarkad",
+    "bus_type": "Limited Stop Fast Passenger",
+    "departure": "12:35 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "1 hours 35 minutes  Palakkad @ 02:15 am",
+    "bus_type": null,
+    "departure": "12:40 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "3 hours 5 minutes  Kottayam @ 03:10 am",
+    "bus_type": null,
+    "departure": "12:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "2 hours 35 minutes  Kottayam @ 02:45 am",
+    "bus_type": "Minnal Deluxe",
+    "departure": "12:10 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "Bangalore  Trivandrum",
+    "bus_type": null,
+    "departure": "12:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "Thiruvambady  Kottayam",
+    "bus_type": "Limited Stop Fast Passenger",
+    "departure": "12:20 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "Kannur  Trivandrum",
+    "bus_type": null,
+    "departure": "12:01 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "2 hours 55 minutes  Alappuzha @ 03:00 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "Kozhikode  Trivandrum",
+    "bus_type": null,
+    "departure": "12:10 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "3 hours 30 minutes  Alappuzha @ 03:45 am",
+    "bus_type": "Super Fast",
+    "departure": "12:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "Kannur  Trivandrum",
+    "bus_type": null,
+    "departure": "12:01 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "1 hours 40 minutes  Ernakulam @ 01:45 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "Kozhikode  Trivandrum",
+    "bus_type": null,
+    "departure": "12:10 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "Thrissur  Kasaragod",
+    "bus_type": "Limited Stop Fast Passenger",
+    "departure": "02:10 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "9 hours 35 minutes  Kasargode @ 01:20 am",
+    "bus_type": "Fast Passenger",
+    "departure": "03:45 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Kasaragod",
+    "operator": "KSRTC.",
+    "route": "Kottayam  Kasaragod",
+    "bus_type": "Super Fast",
+    "departure": "06:50 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "2 hours 30 minutes  Malappuram @ 06:00 am",
+    "bus_type": "Super Fast",
+    "departure": "03:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Malappuram",
+    "operator": "KSRTC.",
+    "route": "Ernakulam  Malappuram",
+    "bus_type": "Super Fast",
+    "departure": "11:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Thrissur",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "2 hours 25 minutes  Malappuram @ 04:35 pm",
+    "bus_type": "Super Fast",
+    "departure": "02:10 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "5 hours 20 minutes  Ernakulam @ 05:25 am",
+    "bus_type": null,
+    "departure": "12:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "4 hours 43 minutes  Ernakulam @ 04:54 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:11 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "3 hours 25 minutes  Thrissur @ 03:30 am",
+    "bus_type": null,
+    "departure": "12:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "2 hours 40 minutes  Thrissur @ 02:50 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:10 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "2 hours 45 minutes  Thrissur @ 02:56 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:11 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "10 hours 35 minutes  Trivandrum @ 11:05 am",
+    "bus_type": null,
+    "departure": "12:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "10 hours 20 minutes  Trivandrum @ 12:50 pm",
+    "bus_type": null,
+    "departure": "02:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "10 hours 40 minutes  Trivandrum @ 03:10 pm",
+    "bus_type": null,
+    "departure": "04:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "1 hours 50 minutes  Kannur @ 01:55 am",
+    "bus_type": null,
+    "departure": "12:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "Pala  Panjikkal",
+    "bus_type": "Super Express",
+    "departure": "12:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "Ernakulam  Kannur",
+    "bus_type": "Limited Stop Fast Passenger",
+    "departure": "12:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "3 hours 5 minutes  Palakkad @ 04:05 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "01:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "Kozhikkode  Palakkad",
+    "bus_type": null,
+    "departure": "01:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "Kozhikkode  Palakkad",
+    "bus_type": null,
+    "departure": "02:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Kottayam",
+    "operator": "KSRTC.",
+    "route": "Manippal  Adoor",
+    "bus_type": "Super Deluxe",
+    "departure": "12:25 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "5 hours 50 minutes  Kottayam @ 06:20 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "6 hours 25 minutes  Alappuzha @ 06:55 am",
+    "bus_type": null,
+    "departure": "12:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "6 hours 25 minutes  Alappuzha @ 08:55 am",
+    "bus_type": null,
+    "departure": "02:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "7 hours  Alappuzha @ 10:20 am",
+    "bus_type": "Super Fast",
+    "departure": "03:20 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "5 hours 20 minutes  Ernakulam @ 05:25 am",
+    "bus_type": null,
+    "departure": "12:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "4 hours 43 minutes  Ernakulam @ 04:54 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:11 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "3 hours 50 minutes  Kasargode @ 03:55 am",
+    "bus_type": null,
+    "departure": "12:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "4 hours  Kasargode @ 04:45 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:45 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "4 hours 35 minutes  Kasargode @ 05:35 am",
+    "bus_type": null,
+    "departure": "01:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "Kozhikkode  Palakkad",
+    "bus_type": null,
+    "departure": "01:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "1 hours 10 minutes  Malappuram @ 02:10 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "01:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Calicut",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "Kozhikkode  Malappuram",
+    "bus_type": null,
+    "departure": "01:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "4 hours 30 minutes  Vytilla-hub @ 04:30 am",
+    "bus_type": null,
+    "departure": "12:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "5 hours 10 minutes  Ernakulam @ 05:40 am",
+    "bus_type": "Super Fast",
+    "departure": "12:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "5 hours 10 minutes  Vytilla-hub @ 06:10 am",
+    "bus_type": "Super Fast",
+    "departure": "01:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "6 hours 50 minutes  Thrissur @ 06:50 am",
+    "bus_type": null,
+    "departure": "12:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "6 hours 50 minutes  Thrissur @ 06:55 am",
+    "bus_type": null,
+    "departure": "12:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "7 hours 20 minutes  Thrissur @ 07:50 am",
+    "bus_type": "Super Fast",
+    "departure": "12:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "6 hours 45 minutes  Thrissur @ 07:45 am",
+    "bus_type": null,
+    "departure": "01:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "10 hours 10 minutes  Kozhikode @ 10:10 am",
+    "bus_type": null,
+    "departure": "12:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "11 hours  Kozhikode @ 12:30 pm",
+    "bus_type": null,
+    "departure": "01:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "11 hours  Kozhikode @ 01:00 pm",
+    "bus_type": null,
+    "departure": "02:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "Pappanamcode  Kozhikode",
+    "bus_type": null,
+    "departure": "02:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "Thiruvananthapuram  Kannur",
+    "bus_type": "Super Fast",
+    "departure": "07:45 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "13 hours  Kannur @ 09:00 pm",
+    "bus_type": null,
+    "departure": "08:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "12 hours 50 minutes  Kannur @ 12:50 am",
+    "bus_type": null,
+    "departure": "12:00 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "8 hours 25 minutes  Palakkad @ 08:30 am",
+    "bus_type": null,
+    "departure": "12:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "9 hours 10 minutes  Palakkad @ 09:40 am",
+    "bus_type": "Super Fast",
+    "departure": "12:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "8 hours 20 minutes  Palakkad @ 09:20 am",
+    "bus_type": null,
+    "departure": "01:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "9 hours  Palakkad @ 11:15 am",
+    "bus_type": null,
+    "departure": "02:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "3 hours 30 minutes  Kottayam @ 03:35 am",
+    "bus_type": null,
+    "departure": "12:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "3 hours 50 minutes  Kottayam @ 04:25 am",
+    "bus_type": null,
+    "departure": "12:35 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "Thiruvananthapuram  Thodupuzha",
+    "bus_type": "Limited Stop Fast Passenger",
+    "departure": "12:45 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "3 hours 35 minutes  Kottayam @ 04:20 am",
+    "bus_type": "Fast Passenger",
+    "departure": "12:45 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "3 hours 30 minutes  Kottayam @ 04:30 am",
+    "bus_type": null,
+    "departure": "01:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "3 hours 20 minutes  Alappuzha @ 03:20 am",
+    "bus_type": null,
+    "departure": "12:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "3 hours 45 minutes  Alappuzha @ 04:15 am",
+    "bus_type": "Super Fast",
+    "departure": "12:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "3 hours 40 minutes  Alappuzha @ 04:40 am",
+    "bus_type": "Super Fast",
+    "departure": "01:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "3 hours 40 minutes  Alappuzha @ 05:10 am",
+    "bus_type": null,
+    "departure": "01:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "4 hours 5 minutes  Alappuzha @ 05:35 am",
+    "bus_type": "Super Fast",
+    "departure": "01:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "10 hours 50 minutes  Malappuram @ 04:35 pm",
+    "bus_type": "Super Fast",
+    "departure": "05:45 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "11 hours  Malappuram @ 07:20 pm",
+    "bus_type": "Super Fast",
+    "departure": "08:20 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "10 hours 20 minutes  Malappuram @ 06:50 pm",
+    "bus_type": "Super Fast",
+    "departure": "08:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Trivandrum",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "9 hours 35 minutes  Malappuram @ 09:05 pm",
+    "bus_type": null,
+    "departure": "11:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "7 hours  Ernakulam @ 10:30 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "03:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "8 hours 30 minutes  Ernakulam @ 02:20 pm",
+    "bus_type": "Super Fast",
+    "departure": "05:50 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "7 hours 55 minutes  Ernakulam @ 02:55 pm",
+    "bus_type": null,
+    "departure": "07:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "Kannur  Thiruvananthapuram",
+    "bus_type": "Super Fast",
+    "departure": "07:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "Parassinikadavu  Ernakulam",
+    "bus_type": "Limited Stop Fast Passenger",
+    "departure": "07:35 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "Parassinikadavu  Ernakulam",
+    "bus_type": "Limited Stop Fast Passenger",
+    "departure": "08:35 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "2 hours 30 minutes  Kozhikode @ 02:45 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "1 hours 45 minutes  Kozhikode @ 03:30 am",
+    "bus_type": "Minnal Deluxe",
+    "departure": "01:45 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "2 hours 30 minutes  Kozhikode @ 06:00 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "03:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "13 hours 20 minutes  Trivandrum @ 08:20 pm",
+    "bus_type": null,
+    "departure": "07:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "Kannur  Thiruvananthapuram",
+    "bus_type": "Super Fast",
+    "departure": "07:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "12 hours 50 minutes  Trivandrum @ 11:50 pm",
+    "bus_type": null,
+    "departure": "11:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "13 hours 10 minutes  Trivandrum @ 05:40 am",
+    "bus_type": null,
+    "departure": "04:30 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "Payyanur  Trivandrum",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "05:25 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "5 hours 25 minutes  Palakkad @ 05:40 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "4 hours 20 minutes  Palakkad @ 06:05 am",
+    "bus_type": "Minnal Deluxe",
+    "departure": "01:45 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "Kannur  Pondicherry",
+    "bus_type": null,
+    "departure": "04:00 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "6 hours 35 minutes  Palakkad @ 12:50 am",
+    "bus_type": null,
+    "departure": "06:15 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "9 hours 10 minutes  Kottayam @ 02:10 pm",
+    "bus_type": null,
+    "departure": "05:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Kottayam",
+    "operator": "KSRTC.",
+    "route": "Payyannur  Kottayam",
+    "bus_type": "Super Fast",
+    "departure": "07:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "Kannur  Ponkunnam",
+    "bus_type": "Super Fast",
+    "departure": "08:10 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "8 hours 50 minutes  Kottayam @ 07:50 pm",
+    "bus_type": null,
+    "departure": "11:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "8 hours 40 minutes  Alappuzha @ 12:10 pm",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "03:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "9 hours 20 minutes  Alappuzha @ 04:20 pm",
+    "bus_type": null,
+    "departure": "07:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "Kannur  Thiruvananthapuram",
+    "bus_type": "Super Fast",
+    "departure": "07:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "Payyanur  Trivandrum",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "05:25 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "7 hours  Ernakulam @ 10:30 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "03:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "8 hours 30 minutes  Ernakulam @ 02:20 pm",
+    "bus_type": "Super Fast",
+    "departure": "05:50 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "7 hours 55 minutes  Ernakulam @ 02:55 pm",
+    "bus_type": null,
+    "departure": "07:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "Kannur  Thiruvananthapuram",
+    "bus_type": "Super Fast",
+    "departure": "07:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "Sultan Bathery  Mangalore",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "2 hours 20 minutes  Kasargode @ 02:55 am",
+    "bus_type": null,
+    "departure": "12:35 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "3 hours 35 minutes  Malappuram @ 03:50 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "2 hours 45 minutes  Malappuram @ 04:30 am",
+    "bus_type": "Minnal Deluxe",
+    "departure": "01:45 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "Kannur  Pondicherry",
+    "bus_type": null,
+    "departure": "04:00 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kannur",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "4 hours 10 minutes  Malappuram @ 10:25 pm",
+    "bus_type": null,
+    "departure": "06:15 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "Thiruppur  Ernakulam",
+    "bus_type": "Limited Stop Fast Passenger",
+    "departure": "12:40 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "3 hours 45 minutes  Ernakulam @ 04:45 am",
+    "bus_type": "Fast Passenger",
+    "departure": "01:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "Bangalore  Thiruvalla",
+    "bus_type": null,
+    "departure": "02:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "Bangalore  Kollam",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "02:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "Palakkad  Thalassery",
+    "bus_type": null,
+    "departure": "01:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "Palakkad  Kozhikkode",
+    "bus_type": null,
+    "departure": "02:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "Pondicherry  Kannur",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "02:20 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "Palakkad  Kozhikkode",
+    "bus_type": null,
+    "departure": "03:10 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "Palakkad  Kozhikkode",
+    "bus_type": null,
+    "departure": "03:50 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "7 hours 55 minutes  Trivandrum @ 08:40 am",
+    "bus_type": null,
+    "departure": "12:45 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "8 hours  Trivandrum @ 09:51 am",
+    "bus_type": null,
+    "departure": "01:51 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "9 hours 25 minutes  Trivandrum @ 12:25 pm",
+    "bus_type": null,
+    "departure": "03:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "Bangalore  Trivandrum",
+    "bus_type": null,
+    "departure": "03:10 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "9 hours 40 minutes  Trivandrum @ 02:10 pm",
+    "bus_type": "Super Fast",
+    "departure": "04:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "Pondicherry  Kannur",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "02:20 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "5 hours 35 minutes  Kannur @ 12:35 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "07:00 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "5 hours 15 minutes  Kannur @ 01:15 am",
+    "bus_type": "Minnal Deluxe",
+    "departure": "08:00 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "5 hours 15 minutes  Kottayam @ 05:20 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "4 hours 55 minutes  Kottayam @ 05:30 am",
+    "bus_type": null,
+    "departure": "12:35 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "3 hours 55 minutes  Kottayam @ 04:40 am",
+    "bus_type": null,
+    "departure": "12:45 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kottayam",
+    "operator": "KARNATAKA RTC",
+    "route": "Bangalore Peenya  Kottayam",
+    "bus_type": null,
+    "departure": "01:25 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "4 hours  Kottayam @ 05:51 am",
+    "bus_type": null,
+    "departure": "01:51 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "Bangalore  Thiruvalla",
+    "bus_type": null,
+    "departure": "02:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "Bangalore  Kollam",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "02:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "5 hours 5 minutes  Alappuzha @ 08:05 am",
+    "bus_type": null,
+    "departure": "03:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "5 hours 5 minutes  Alappuzha @ 09:35 am",
+    "bus_type": "Super Fast",
+    "departure": "04:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "5 hours 45 minutes  Alappuzha @ 10:45 am",
+    "bus_type": "Super Fast",
+    "departure": "05:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "Thiruppur  Ernakulam",
+    "bus_type": "Limited Stop Fast Passenger",
+    "departure": "12:40 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "3 hours 45 minutes  Ernakulam @ 04:45 am",
+    "bus_type": "Fast Passenger",
+    "departure": "01:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "Bangalore  Thiruvalla",
+    "bus_type": null,
+    "departure": "02:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "Bangalore  Kollam",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "02:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "3 hours 29 minutes  Ernakulam @ 06:29 am",
+    "bus_type": null,
+    "departure": "03:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "7 hours 55 minutes  Kasargode @ 02:55 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "07:00 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "7 hours 5 minutes  Kasargode @ 03:05 am",
+    "bus_type": "Minnal Deluxe",
+    "departure": "08:00 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "7 hours 15 minutes  Kasargode @ 06:00 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "10:45 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "Palakkad  Thalassery",
+    "bus_type": null,
+    "departure": "01:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "Palakkad  Kozhikkode",
+    "bus_type": null,
+    "departure": "02:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "Pondicherry  Kannur",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "02:20 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Palakkad",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "Palakkad  Kozhikkode",
+    "bus_type": null,
+    "departure": "03:10 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "2 hours 1 minutes  Ernakulam @ 03:46 am",
+    "bus_type": null,
+    "departure": "01:45 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "Kottayam  Ernakulam",
+    "bus_type": null,
+    "departure": "04:20 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "Kottayam  Ernakulam",
+    "bus_type": "Fast Passenger",
+    "departure": "05:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "Kottayam  Ernakulam",
+    "bus_type": "Fast Passenger",
+    "departure": "05:20 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "2 hours 35 minutes  Thrissur @ 02:55 am",
+    "bus_type": "Minnal Deluxe",
+    "departure": "12:20 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "Trivandrum  Kozhikode",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:32 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "3 hours 25 minutes  Thrissur @ 04:10 am",
+    "bus_type": null,
+    "departure": "12:45 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "3 hours 5 minutes  Thrissur @ 04:33 am",
+    "bus_type": null,
+    "departure": "01:28 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "3 hours 30 minutes  Trivandrum @ 03:35 am",
+    "bus_type": "Super Fast",
+    "departure": "12:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "3 hours 20 minutes  Trivandrum @ 03:45 am",
+    "bus_type": null,
+    "departure": "12:25 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "3 hours 40 minutes  Trivandrum @ 04:35 am",
+    "bus_type": "Super Fast",
+    "departure": "12:55 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "Nedumkandam  Trivandrum",
+    "bus_type": "Fast Passenger",
+    "departure": "01:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "Trivandrum  Kannur",
+    "bus_type": null,
+    "departure": "01:47 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kannur",
+    "operator": "KSRTC.",
+    "route": "Kottayam  Payyannur",
+    "bus_type": "Super Fast",
+    "departure": "06:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "9 hours 10 minutes  Kannur @ 04:20 pm",
+    "bus_type": null,
+    "departure": "07:10 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "9 hours 35 minutes  Kannur @ 11:55 pm",
+    "bus_type": "Super Fast",
+    "departure": "02:20 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kannur",
+    "operator": "KSRTC.",
+    "route": "Kottayam  Kasaragod",
+    "bus_type": "Super Fast",
+    "departure": "03:30 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "Kottayam  Alappuzha",
+    "bus_type": null,
+    "departure": "06:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "Kottayam  Alappuzha",
+    "bus_type": null,
+    "departure": "06:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "Kottayam  Alappuzha",
+    "bus_type": null,
+    "departure": "06:40 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "Kottayam  Alappuzha",
+    "bus_type": "Fast Passenger",
+    "departure": "06:50 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "Kottayam  Alappuzha",
+    "bus_type": null,
+    "departure": "07:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "2 hours 1 minutes  Ernakulam @ 03:46 am",
+    "bus_type": null,
+    "departure": "01:45 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "Kottayam  Ernakulam",
+    "bus_type": null,
+    "departure": "04:20 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "Kottayam  Ernakulam",
+    "bus_type": "Fast Passenger",
+    "departure": "05:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "Kottayam  Ernakulam",
+    "bus_type": "Fast Passenger",
+    "departure": "05:20 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kasaragod",
+    "operator": "KSRTC.",
+    "route": "Kottayam  Kasaragod",
+    "bus_type": "Super Fast",
+    "departure": "03:30 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "11 hours 10 minutes  Kasargode @ 02:55 am",
+    "bus_type": null,
+    "departure": "03:45 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "11 hours 50 minutes  Kasargode @ 03:45 am",
+    "bus_type": "Super Fast",
+    "departure": "03:55 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kottayam",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "6 hours 20 minutes  Malappuram @ 06:50 pm",
+    "bus_type": "Super Fast",
+    "departure": "12:30 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "1 hours 25 minutes  Ernakulam @ 01:35 am",
+    "bus_type": "Super Fast",
+    "departure": "12:10 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "1 hours 15 minutes  Vytilla-hub @ 01:30 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "1 hours 25 minutes  Ernakulam @ 01:40 am",
+    "bus_type": "Super Fast",
+    "departure": "12:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "3 hours 15 minutes  Thrissur @ 03:25 am",
+    "bus_type": "Super Fast",
+    "departure": "12:10 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "3 hours 10 minutes  Thrissur @ 03:25 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "3 hours 15 minutes  Thrissur @ 03:30 am",
+    "bus_type": "Super Fast",
+    "departure": "12:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "Trivandrum  Perinthalmanna",
+    "bus_type": "Super Fast",
+    "departure": "12:35 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "5 hours 55 minutes  Kozhikode @ 07:00 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "01:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "Trivandrum  Kozhikode",
+    "bus_type": null,
+    "departure": "01:51 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "4 hours 50 minutes  Kozhikode @ 07:25 am",
+    "bus_type": "Minnal Deluxe",
+    "departure": "02:35 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "Ponnani  Trivandrum",
+    "bus_type": null,
+    "departure": "12:25 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "3 hours 40 minutes  Trivandrum @ 04:10 am",
+    "bus_type": null,
+    "departure": "12:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "Ponnani  Trivandrum",
+    "bus_type": "Super Fast",
+    "departure": "12:40 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "3 hours 5 minutes  Trivandrum @ 04:00 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:55 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "9 hours 20 minutes  Kannur @ 09:00 pm",
+    "bus_type": null,
+    "departure": "11:40 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "Thiruvananthapuram  Kannur",
+    "bus_type": "Super Fast",
+    "departure": "12:00 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "9 hours 15 minutes  Kannur @ 02:10 am",
+    "bus_type": "Super Fast",
+    "departure": "04:55 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "9 hours 15 minutes  Kannur @ 02:45 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "05:30 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "5 hours 5 minutes  Palakkad @ 06:00 am",
+    "bus_type": null,
+    "departure": "12:55 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "4 hours 5 minutes  Palakkad @ 05:15 am",
+    "bus_type": "Minnal Deluxe",
+    "departure": "01:10 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "4 hours 10 minutes  Palakkad @ 06:35 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "02:25 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "5 hours 5 minutes  Palakkad @ 07:35 am",
+    "bus_type": "Super Fast",
+    "departure": "02:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "5 hours 25 minutes  Palakkad @ 09:40 am",
+    "bus_type": "Super Fast",
+    "departure": "04:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "Alappuzha  Kottayam",
+    "bus_type": null,
+    "departure": "05:55 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "Alappuzha  Kottayam",
+    "bus_type": null,
+    "departure": "06:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "Alappuzha  Kottayam",
+    "bus_type": "Fast Passenger",
+    "departure": "07:20 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "Alappuzha  Kottayam",
+    "bus_type": "Fast Passenger",
+    "departure": "07:50 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "Alappuzha  Kumily",
+    "bus_type": null,
+    "departure": "07:55 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "1 hours 25 minutes  Ernakulam @ 01:35 am",
+    "bus_type": "Super Fast",
+    "departure": "12:10 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "1 hours 15 minutes  Vytilla-hub @ 01:30 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "1 hours 25 minutes  Ernakulam @ 01:40 am",
+    "bus_type": "Super Fast",
+    "departure": "12:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "11 hours 15 minutes  Kasargode @ 04:45 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "05:30 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "10 hours 10 minutes  Kasargode @ 03:55 am",
+    "bus_type": null,
+    "departure": "05:45 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Kasaragod",
+    "operator": "KSRTC.",
+    "route": "Thiruvananthapuram  Mangalore",
+    "bus_type": null,
+    "departure": "07:10 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "5 hours 45 minutes  Malappuram @ 06:00 am",
+    "bus_type": "Super Fast",
+    "departure": "12:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "6 hours 35 minutes  Malappuram @ 04:35 pm",
+    "bus_type": "Super Fast",
+    "departure": "10:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Alappuzha",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "6 hours 45 minutes  Malappuram @ 07:20 pm",
+    "bus_type": "Super Fast",
+    "departure": "12:35 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "Trivandrum  Nilambur",
+    "bus_type": "Super Fast",
+    "departure": "12:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "1 hours 36 minutes  Thrissur @ 01:55 am",
+    "bus_type": null,
+    "departure": "12:19 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "2 hours  Thrissur @ 02:25 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:25 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "1 hours 50 minutes  Thrissur @ 02:15 am",
+    "bus_type": "Super Fast",
+    "departure": "12:25 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "3 hours 55 minutes  Kozhikode @ 04:10 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "4 hours 1 minutes  Kozhikode @ 04:20 am",
+    "bus_type": null,
+    "departure": "12:19 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "4 hours 40 minutes  Kozhikode @ 05:05 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:25 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "3 hours 55 minutes  Kozhikode @ 04:40 am",
+    "bus_type": "Minnal Deluxe",
+    "departure": "12:45 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "Palakkad  Trivandrum",
+    "bus_type": "Super Fast",
+    "departure": "12:01 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "Payyanur  Trivandrum",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:14 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "5 hours 51 minutes  Trivandrum @ 06:05 am",
+    "bus_type": null,
+    "departure": "12:14 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "5 hours 30 minutes  Kannur @ 06:15 am",
+    "bus_type": "Minnal Deluxe",
+    "departure": "12:45 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "8 hours 30 minutes  Kannur @ 08:10 pm",
+    "bus_type": "Fast Passenger",
+    "departure": "11:40 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "Ernakulam  Kannur",
+    "bus_type": "Fast Passenger",
+    "departure": "11:41 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "7 hours 26 minutes  Kannur @ 09:00 pm",
+    "bus_type": null,
+    "departure": "01:34 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "2 hours 21 minutes  Kottayam @ 02:35 am",
+    "bus_type": null,
+    "departure": "12:14 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "Ernakulam  Thiruvananthapuram",
+    "bus_type": "Fast Passenger",
+    "departure": "12:45 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "1 hours 50 minutes  Kottayam @ 04:10 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "02:20 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "1 hours 46 minutes  Kottayam @ 04:35 am",
+    "bus_type": "Super Fast",
+    "departure": "02:49 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "1 hours 55 minutes  Kottayam @ 04:45 am",
+    "bus_type": "Super Fast",
+    "departure": "02:50 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "Palakkad  Trivandrum",
+    "bus_type": "Super Fast",
+    "departure": "12:01 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "Payyanur  Trivandrum",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:14 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "1 hours 16 minutes  Alappuzha @ 01:40 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:24 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "9 hours 15 minutes  Kasargode @ 03:51 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "06:36 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "8 hours 46 minutes  Kasargode @ 03:55 am",
+    "bus_type": null,
+    "departure": "07:09 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "9 hours 31 minutes  Kasargode @ 04:45 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "07:14 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "4 hours 20 minutes  Malappuram @ 06:00 am",
+    "bus_type": "Super Fast",
+    "departure": "01:40 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "4 hours 56 minutes  Malappuram @ 04:35 pm",
+    "bus_type": "Super Fast",
+    "departure": "11:39 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Ernakulam",
+    "to": "Malappuram",
+    "operator": "KSRTC.",
+    "route": "Ernakulam  Malappuram",
+    "bus_type": "Super Fast",
+    "departure": "01:00 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "8 hours 50 minutes  Ernakulam @ 10:30 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "01:40 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "8 hours 41 minutes  Ernakulam @ 02:26 am",
+    "bus_type": null,
+    "departure": "05:45 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "9 hours 30 minutes  Ernakulam @ 03:45 am",
+    "bus_type": null,
+    "departure": "06:15 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "Kasaragod  Thrissur",
+    "bus_type": "Limited Stop Fast Passenger",
+    "departure": "04:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "9 hours 24 minutes  Thrissur @ 02:04 pm",
+    "bus_type": "Fast Passenger",
+    "departure": "04:40 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "8 hours 20 minutes  Thrissur @ 01:20 am",
+    "bus_type": null,
+    "departure": "05:00 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "4 hours 20 minutes  Kozhikode @ 06:00 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "01:40 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "Kasaragod  Thrissur",
+    "bus_type": "Limited Stop Fast Passenger",
+    "departure": "04:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "5 hours 34 minutes  Kozhikode @ 10:14 am",
+    "bus_type": "Fast Passenger",
+    "departure": "04:40 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "12 hours 35 minutes  Trivandrum @ 06:20 am",
+    "bus_type": null,
+    "departure": "05:45 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Trivandrum",
+    "operator": "KSRTC.",
+    "route": "Mangalore  Thiruvananthapuram",
+    "bus_type": null,
+    "departure": "07:00 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "1 hours 50 minutes  Kannur @ 03:30 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "01:40 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "Kasaragod  Thrissur",
+    "bus_type": "Limited Stop Fast Passenger",
+    "departure": "04:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "3 hours 9 minutes  Kannur @ 07:49 am",
+    "bus_type": "Fast Passenger",
+    "departure": "04:40 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "7 hours 35 minutes  Palakkad @ 04:05 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "08:30 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "7 hours 40 minutes  Palakkad @ 05:40 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "10:00 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "6 hours 35 minutes  Palakkad @ 06:05 am",
+    "bus_type": "Minnal Deluxe",
+    "departure": "11:30 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kottayam",
+    "operator": "KSRTC.",
+    "route": "Kasaragod  Kottayam",
+    "bus_type": "Super Fast",
+    "departure": "05:00 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "11 hours 25 minutes  Kottayam @ 04:25 am",
+    "bus_type": null,
+    "departure": "05:00 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "11 hours 10 minutes  Kottayam @ 05:25 am",
+    "bus_type": null,
+    "departure": "06:15 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "10 hours 30 minutes  Alappuzha @ 12:10 pm",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "01:40 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "9 hours 25 minutes  Alappuzha @ 03:10 am",
+    "bus_type": null,
+    "departure": "05:45 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Alappuzha",
+    "operator": "KSRTC.",
+    "route": "Mangalore  Thiruvananthapuram",
+    "bus_type": null,
+    "departure": "07:00 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "8 hours 50 minutes  Ernakulam @ 10:30 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "01:40 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "8 hours 41 minutes  Ernakulam @ 02:26 am",
+    "bus_type": null,
+    "departure": "05:45 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "9 hours 30 minutes  Ernakulam @ 03:45 am",
+    "bus_type": null,
+    "departure": "06:15 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "5 hours 40 minutes  Malappuram @ 02:10 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "08:30 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "5 hours 50 minutes  Malappuram @ 03:50 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "10:00 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Kasaragod",
+    "to": "Malappuram",
+    "operator": "KSRTC",
+    "route": "5 hours  Malappuram @ 04:30 am",
+    "bus_type": "Minnal Deluxe",
+    "departure": "11:30 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "3 hours 45 minutes  Vytilla-hub @ 08:35 am",
+    "bus_type": "Super Fast",
+    "departure": "04:50 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kochi",
+    "operator": "KSRTC",
+    "route": "4 hours 55 minutes  Ernakulam @ 10:10 am",
+    "bus_type": "Super Fast",
+    "departure": "05:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Thrissur",
+    "operator": "KSRTC.",
+    "route": "Malappuram  Thiruvananthapuram",
+    "bus_type": "Super Fast",
+    "departure": "05:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "2 hours 25 minutes  Thrissur @ 07:40 am",
+    "bus_type": "Super Fast",
+    "departure": "05:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "2 hours 45 minutes  Thrissur @ 08:25 am",
+    "bus_type": "Fast Passenger",
+    "departure": "05:40 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Thrissur",
+    "operator": "KSRTC",
+    "route": "Malappuram  Thrissur",
+    "bus_type": "Fast Passenger",
+    "departure": "06:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "Palakkad  Kozhikkode",
+    "bus_type": null,
+    "departure": "12:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "1 hours 30 minutes  Kozhikode @ 02:00 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "Palakkad  Kozhikkode",
+    "bus_type": null,
+    "departure": "12:35 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Calicut",
+    "operator": "KSRTC",
+    "route": "1 hours 20 minutes  Kozhikode @ 02:05 am",
+    "bus_type": null,
+    "departure": "12:45 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Trivandrum",
+    "operator": "KSRTC",
+    "route": "11 hours 20 minutes  Trivandrum @ 04:35 pm",
+    "bus_type": "Super Fast",
+    "departure": "05:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Trivandrum",
+    "operator": "KSRTC.",
+    "route": "Malappuram  Thiruvananthapuram",
+    "bus_type": "Super Fast",
+    "departure": "05:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Trivandrum",
+    "operator": "KSRTC.",
+    "route": "Malappuram  Thiruvananthapuram",
+    "bus_type": "Super Fast",
+    "departure": "07:40 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "3 hours 25 minutes  Kannur @ 03:55 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "4 hours  Kannur @ 06:00 am",
+    "bus_type": null,
+    "departure": "02:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "Pondicherry  Kannur",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "03:55 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "3 hours 45 minutes  Kannur @ 12:35 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "08:50 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kannur",
+    "operator": "KSRTC",
+    "route": "3 hours 25 minutes  Kannur @ 01:15 am",
+    "bus_type": "Minnal Deluxe",
+    "departure": "09:50 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "Kozhikkode  Palakkad",
+    "bus_type": null,
+    "departure": "12:05 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "1 hours 55 minutes  Palakkad @ 02:15 am",
+    "bus_type": null,
+    "departure": "12:20 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "Kozhikkode  Walayar",
+    "bus_type": "Fast Passenger",
+    "departure": "12:25 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Palakkad",
+    "operator": "KSRTC",
+    "route": "Kozhikkode  Palakkad",
+    "bus_type": null,
+    "departure": "01:00 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kottayam",
+    "operator": "KSRTC",
+    "route": "5 hours 55 minutes  Kottayam @ 11:15 pm",
+    "bus_type": "Super Fast",
+    "departure": "05:20 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "5 hours 50 minutes  Alappuzha @ 10:40 am",
+    "bus_type": "Super Fast",
+    "departure": "04:50 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Alappuzha",
+    "operator": "KSRTC.",
+    "route": "Malappuram  Thiruvananthapuram",
+    "bus_type": "Super Fast",
+    "departure": "05:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Alappuzha",
+    "operator": "KSRTC",
+    "route": "6 hours 35 minutes  Alappuzha @ 11:50 am",
+    "bus_type": "Super Fast",
+    "departure": "05:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Alappuzha",
+    "operator": "KSRTC.",
+    "route": "Malappuram  Thiruvananthapuram",
+    "bus_type": "Super Fast",
+    "departure": "07:40 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "3 hours 45 minutes  Vytilla-hub @ 08:35 am",
+    "bus_type": "Super Fast",
+    "departure": "04:50 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Ernakulam",
+    "operator": "KSRTC",
+    "route": "4 hours 55 minutes  Ernakulam @ 10:10 am",
+    "bus_type": "Super Fast",
+    "departure": "05:15 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "5 hours 30 minutes  Kasargode @ 06:00 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "12:30 am",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "6 hours 5 minutes  Kasargode @ 02:55 am",
+    "bus_type": "Super Deluxe Air Bus",
+    "departure": "08:50 pm",
+    "arrival": null,
+    "duration": null
+  },
+  {
+    "from": "Malappuram",
+    "to": "Kasaragod",
+    "operator": "KSRTC",
+    "route": "5 hours 15 minutes  Kasargode @ 03:05 am",
+    "bus_type": "Minnal Deluxe",
+    "departure": "09:50 pm",
+    "arrival": null,
+    "duration": null
+  }
+]

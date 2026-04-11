@@ -3,100 +3,103 @@ import re
 import sqlite3
 
 INPUT_FILE = "bus_data.json"
-CLEAN_FILE = "cleaned.json"
-FINAL_FILE = "final.json"
+FINAL_FILE = "final_clean.json"
 DB_FILE = "buses.db"
 
 
 # -------------------------------
-# 🧹 STEP 1: CLEAN DATA
+# 🧠 SMART VALIDATION
 # -------------------------------
-def is_valid_bus(text):
-    return (
-        ("KSRTC" in text or "RTC" in text)
-        and len(text) > 30
-    )
+def is_real_bus(text):
+    if "KSRTC" not in text and "RTC" not in text:
+        return False
+
+    if not re.search(r'\d{1,2}:\d{2}', text):
+        return False
+
+    if len(text) < 40:
+        return False
+
+    return True
 
 
-def clean_data(raw):
-    cleaned = []
+# -------------------------------
+# 🧠 SMART PARSER
+# -------------------------------
+def parse_bus(text):
+    lines = [l.strip() for l in text.split("\n") if l.strip()]
+
+    operator = None
+    route = None
+    bus_type = None
+    departure = None
+    arrival = None
+    duration = None
+
+    for line in lines:
+
+        # operator
+        if "KSRTC" in line or "RTC" in line:
+            operator = line
+
+        # route (contains 2 places)
+        elif "  " in line and len(line.split()) >= 2:
+            route = line
+
+        # bus type
+        elif any(x in line for x in [
+            "Fast", "Deluxe", "AC", "Express", "Passenger", "Air Bus"
+        ]):
+            bus_type = line
+
+        # duration
+        elif "hours" in line or "minutes" in line:
+            duration = line
+
+        # arrival
+        elif "@" in line:
+            arrival = line
+
+        # time
+        elif re.search(r'\d{1,2}:\d{2}\s?(am|pm)', line, re.IGNORECASE):
+            if departure is None:
+                departure = line
+
+    # reject incomplete entries
+    if not operator or not departure:
+        return None
+
+    return {
+        "operator": operator,
+        "route": route,
+        "bus_type": bus_type,
+        "departure": departure,
+        "arrival": arrival,
+        "duration": duration
+    }
+
+
+# -------------------------------
+# 🔄 PROCESS PIPELINE
+# -------------------------------
+def process():
+    with open(INPUT_FILE, "r", encoding="utf-8") as f:
+        raw = json.load(f)
+
+    final = []
+    seen = set()
 
     for item in raw:
         text = item["data"]
 
-        # ❌ remove junk
-        if any(x in text for x in [
-            "Discover", "Loading", "Verified", "Unsure",
-            "No Service", "dark-mode", "Service quality",
-            "Bus Service Type", "Frequent searches"
-        ]):
+        # 🔥 STRICT FILTER
+        if not is_real_bus(text):
             continue
 
-        if not is_valid_bus(text):
+        parsed = parse_bus(text)
+
+        if not parsed:
             continue
-
-        cleaned.append({
-            "from": item["from"],
-            "to": item["to"],
-            "raw": text.strip()
-        })
-
-    return cleaned
-
-
-# -------------------------------
-# 🧠 STEP 2: PARSE DATA
-# -------------------------------
-def extract_time(text):
-    match = re.findall(r'\d{1,2}:\d{2}\s?(am|pm)', text, re.IGNORECASE)
-    return match
-
-
-def parse_bus(text):
-    lines = [l.strip() for l in text.split("\n") if l.strip()]
-
-    result = {
-        "operator": None,
-        "route": None,
-        "bus_type": None,
-        "departure": None,
-        "arrival": None,
-        "duration": None
-    }
-
-    for line in lines:
-        if "KSRTC" in line or "RTC" in line:
-            result["operator"] = line
-
-        elif "hours" in line or "minutes" in line:
-            result["duration"] = line
-
-        elif "@" in line:
-            result["arrival"] = line
-
-        elif re.search(r'\d{1,2}:\d{2}', line):
-            result["departure"] = line
-
-        elif any(x in line for x in [
-            "Fast", "Deluxe", "AC", "Express", "Passenger"
-        ]):
-            result["bus_type"] = line
-
-        elif "  " in line:
-            result["route"] = line
-
-    return result
-
-
-# -------------------------------
-# 🔄 STEP 3: STRUCTURE DATA
-# -------------------------------
-def structure_data(cleaned):
-    structured = []
-    seen = set()
-
-    for item in cleaned:
-        parsed = parse_bus(item["raw"])
 
         key = (
             item["from"],
@@ -110,19 +113,24 @@ def structure_data(cleaned):
 
         seen.add(key)
 
-        structured.append({
+        final.append({
             "from": item["from"],
             "to": item["to"],
             **parsed
         })
 
-    return structured
+    print(f"✅ Final clean buses: {len(final)}")
+
+    with open(FINAL_FILE, "w", encoding="utf-8") as f:
+        json.dump(final, f, indent=2, ensure_ascii=False)
+
+    return final
 
 
 # -------------------------------
-# 🗄️ STEP 4: SAVE DATABASE
+# 🗄️ SAVE TO DB
 # -------------------------------
-def save_to_db(data):
+def save_db(data):
     conn = sqlite3.connect(DB_FILE)
     c = conn.cursor()
 
@@ -156,37 +164,19 @@ def save_to_db(data):
     conn.commit()
     conn.close()
 
+    print("✅ Database saved")
+
 
 # -------------------------------
-# 🚀 MAIN PIPELINE
+# 🚀 MAIN
 # -------------------------------
 def main():
-    print("🚀 Starting processing...")
+    print("🚀 Processing REAL bus data only...")
 
-    with open(INPUT_FILE, "r", encoding="utf-8") as f:
-        raw = json.load(f)
+    data = process()
+    save_db(data)
 
-    print(f"📦 Raw records: {len(raw)}")
-
-    cleaned = clean_data(raw)
-    print(f"🧹 Cleaned records: {len(cleaned)}")
-
-    with open(CLEAN_FILE, "w", encoding="utf-8") as f:
-        json.dump(cleaned, f, indent=2, ensure_ascii=False)
-
-    structured = structure_data(cleaned)
-    print(f"🧠 Structured records: {len(structured)}")
-
-    with open(FINAL_FILE, "w", encoding="utf-8") as f:
-        json.dump(structured, f, indent=2, ensure_ascii=False)
-
-    save_to_db(structured)
-
-    print("✅ DONE!")
-    print("📁 Files created:")
-    print("- cleaned.json")
-    print("- final.json")
-    print("- buses.db")
+    print("🔥 DONE — CLEAN DATA READY")
 
 
 if __name__ == "__main__":

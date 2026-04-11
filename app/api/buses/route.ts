@@ -15,7 +15,7 @@ export async function GET(request: Request): Promise<NextResponse> {
     const cleanToRaw = to.split(',')[0].trim().toLowerCase();
 
     try {
-        const filePath = path.join(process.cwd(), 'final.json');
+        const filePath = path.join(process.cwd(), 'final_clean.json');
         const fileContent = fs.readFileSync(filePath, 'utf8');
         const buses: any[] = JSON.parse(fileContent);
 
