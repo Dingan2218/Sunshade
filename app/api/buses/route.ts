@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
-import sqlite3 from 'sqlite3';
 import path from 'path';
+import fs from 'fs';
 
 export async function GET(request: Request): Promise<NextResponse> {
     const { searchParams } = new URL(request.url);
@@ -11,36 +11,47 @@ export async function GET(request: Request): Promise<NextResponse> {
         return NextResponse.json({ error: 'Missing from or to parameter' }, { status: 400 });
     }
 
-    const dbPath = path.join(process.cwd(), 'buses.db');
-    const cleanFromRaw = from.split(',')[0].trim();
-    const cleanToRaw = to.split(',')[0].trim();
+    const cleanFromRaw = from.split(',')[0].trim().toLowerCase();
+    const cleanToRaw = to.split(',')[0].trim().toLowerCase();
 
-    return new Promise((resolve) => {
-        const db = new sqlite3.Database(dbPath, sqlite3.OPEN_READONLY, (err) => {
-            if (err) {
-                resolve(NextResponse.json({ error: 'Database connection failed' }, { status: 500 }));
-                return;
-            }
+    try {
+        const filePath = path.join(process.cwd(), 'final.json');
+        const fileContent = fs.readFileSync(filePath, 'utf8');
+        const buses: any[] = JSON.parse(fileContent);
+
+        const parseTimeToMinutes = (timeStr: string) => {
+            if (!timeStr) return 9999;
+            const match = timeStr.match(/(\d{1,2}):(\d{2})\s*(am|pm)/i);
+            if (!match) return 9999;
+            let [_, h, m, p] = match;
+            let hours = parseInt(h);
+            const minutes = parseInt(m);
+            const ampm = p.toLowerCase();
+            
+            if (ampm === 'pm' && hours !== 12) hours += 12;
+            if (ampm === 'am' && hours === 12) hours = 0;
+            return hours * 60 + minutes;
+        };
+
+        const filteredBuses = buses.filter(bus => {
+            const busFrom = (bus.from || '').toLowerCase();
+            const busTo = (bus.to || '').toLowerCase();
+            
+            const matchFrom = busFrom.includes(cleanFromRaw) || cleanFromRaw.includes(busFrom);
+            const matchTo = busTo.includes(cleanToRaw) || cleanToRaw.includes(busTo);
+            
+            return matchFrom && matchTo;
         });
 
-        const query = `
-            SELECT * FROM buses 
-            WHERE (LOWER(source) LIKE LOWER(?) OR LOWER(?) LIKE LOWER('%' || source || '%'))
-            AND (LOWER(destination) LIKE LOWER(?) OR LOWER(?) LIKE LOWER('%' || destination || '%'))
-            ORDER BY departure ASC
-        `;
+        const sortedBuses = filteredBuses.sort((a, b) => {
+            const timeA = parseTimeToMinutes(a.departure);
+            const timeB = parseTimeToMinutes(b.departure);
+            return timeA - timeB;
+        });
 
-        db.all(
-            query,
-            [`%${cleanFromRaw}%`, cleanFromRaw, `%${cleanToRaw}%`, cleanToRaw],
-            (err, rows) => {
-                db.close();
-                if (err) {
-                    resolve(NextResponse.json({ error: 'Database query failed' }, { status: 500 }));
-                } else {
-                    resolve(NextResponse.json({ buses: rows }));
-                }
-            }
-        );
-    });
+        return NextResponse.json({ buses: sortedBuses });
+    } catch (error) {
+        console.error('Error loading bus data:', error);
+        return NextResponse.json({ error: 'Failed to load bus data' }, { status: 500 });
+    }
 }

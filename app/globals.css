@@ -232,27 +232,33 @@ input:checked+.n-slider:before {
 }
 
 /* NORMAL MODE STYLES */
+body.normal-mode {
+  background-color: #fcfcfd;
+  background-image: none;
+  color: #111827;
+}
+
 .normal-input {
   width: 100%;
-  background: #f2f2f7;
-  border: 1px solid transparent;
-  border-radius: 12px;
-  padding: 14px 16px;
-  color: #000;
-  font-size: 15px;
+  background: #f3f4f6;
+  border: 2px solid transparent;
+  border-radius: 16px;
+  padding: 16px 20px;
+  color: #111827;
+  font-size: 16px;
+  font-weight: 500;
   transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.05);
 }
 
 .normal-input:focus {
   background: #ffffff;
   border-color: var(--primary-normal);
-  box-shadow: 0 0 0 4px rgba(0, 122, 255, 0.15);
+  box-shadow: 0 8px 24px rgba(0, 122, 255, 0.12);
   outline: none;
 }
 
 .normal-button {
-  background: var(--primary-normal);
+  background: linear-gradient(135deg, #007AFF 0%, #0056b3 100%);
   color: white;
   border: none;
   border-radius: 16px;
@@ -260,15 +266,18 @@ input:checked+.n-slider:before {
   font-size: 16px;
   font-weight: 700;
   cursor: pointer;
-  transition: all 0.2s;
-  box-shadow: 0 4px 12px rgba(0, 122, 255, 0.3);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 8px 24px rgba(0, 122, 255, 0.25);
   width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
 }
 
 .normal-button:hover {
-  background: #0062cc;
-  transform: translateY(-1px);
-  box-shadow: 0 6px 16px rgba(0, 122, 255, 0.4);
+  transform: translateY(-2px);
+  box-shadow: 0 12px 32px rgba(0, 122, 255, 0.35);
 }
 
 .normal-button:active {
@@ -279,9 +288,27 @@ input:checked+.n-slider:before {
   display: block;
   font-size: 14px;
   font-weight: 600;
-  color: #666;
-  margin-bottom: 8px;
+  color: #6b7280;
+  margin-bottom: 10px;
   margin-left: 4px;
+}
+
+/* Premium Layout Elements */
+.n-premium-card {
+  background: #ffffff;
+  border-radius: 28px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.04), 0 1px 3px rgba(0, 0, 0, 0.02);
+  border: 1px solid rgba(0,0,0,0.02);
+}
+
+.bus-container.normal {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
 }
 
 /* MOBILE RESPONSIVE STYLES */

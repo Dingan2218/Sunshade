@@ -17,7 +17,7 @@ const ShadeMap = dynamic(() => import('@/components/MapView/ShadeMap'), {
 function ResultsContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
-  const uiMode = searchParams.get('mode') || 'tech';
+  const uiMode = searchParams.get('mode') || 'normal';
   const isTech = uiMode === 'tech';
 
   const timeStrParam = searchParams.get('time');

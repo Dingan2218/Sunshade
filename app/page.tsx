@@ -10,7 +10,7 @@ const MapBackground = dynamic(() => import('@/components/MapView/DarkMapBackgrou
 
 export default function Home() {
   const router = useRouter();
-  const [uiMode, setUiMode] = useState<'tech' | 'normal'>('tech');
+  const [uiMode, setUiMode] = useState<'tech' | 'normal'>('normal');
   const [from, setFrom] = useState('');
   const [to, setTo] = useState('');
   const [date, setDate] = useState('');
