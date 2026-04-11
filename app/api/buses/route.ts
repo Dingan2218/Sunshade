@@ -12,6 +12,8 @@ export async function GET(request: Request): Promise<NextResponse> {
     }
 
     const dbPath = path.join(process.cwd(), 'buses.db');
+    const cleanFromRaw = from.split(',')[0].trim();
+    const cleanToRaw = to.split(',')[0].trim();
 
     return new Promise((resolve) => {
         const db = new sqlite3.Database(dbPath, sqlite3.OPEN_READONLY, (err) => {
@@ -21,9 +23,16 @@ export async function GET(request: Request): Promise<NextResponse> {
             }
         });
 
+        const query = `
+            SELECT * FROM buses 
+            WHERE (LOWER(source) LIKE LOWER(?) OR LOWER(?) LIKE LOWER('%' || source || '%'))
+            AND (LOWER(destination) LIKE LOWER(?) OR LOWER(?) LIKE LOWER('%' || destination || '%'))
+            ORDER BY departure ASC
+        `;
+
         db.all(
-            `SELECT * FROM buses WHERE LOWER(source) = LOWER(?) AND LOWER(destination) = LOWER(?) ORDER BY departure ASC`,
-            [from, to],
+            query,
+            [`%${cleanFromRaw}%`, cleanFromRaw, `%${cleanToRaw}%`, cleanToRaw],
             (err, rows) => {
                 db.close();
                 if (err) {

@@ -8,7 +8,9 @@ all_data = []
 PLACES = [
     "Kochi", "Thrissur", "Calicut", "Trivandrum",
     "Kannur", "Palakkad", "Kottayam", "Alappuzha",
-    "Ernakulam", "Kasaragod", "Malappuram"
+    "Ernakulam", "Kasaragod", "Malappuram", "Kollam",
+    "Pathanamthitta", "Idukki", "Wayanad", "Guruvayur",
+    "Munnar", "Kumily", "Thalassery"
 ]
 
 
